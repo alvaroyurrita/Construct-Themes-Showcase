@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.801.22.0",
+    "_created": "2026-01-28T22:10:51.101066-05:00",
+    "_lastModifiedByAppHost": "2.801.22.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2026-01-28T22:10:51.1010448-05:00"
+  },
+  "_solution": {
+    "_name": "Construct Themes Showcase",
+    "_projects": [
+      {
+        "_name": "Light",
+        "_filename": "Light/Light.cuip",
+        "_datetime": "2026-01-29T03:10:50.7261142Z"
+      }
+    ]
+  }
+}
