@@ -1,0 +1,1618 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2026-01-31 13:11:17.967036-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2026-01-31 13:11:17.967032-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="i03yrkhk3l" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><div data-mytext="myText" componentName="Html-text" ccid_ComponentType="Html-text" id="ivxn" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihasn">X-Small</div><div data-mytext="myText" componentName="Html-text_1" ccid_ComponentType="Html-text" id="ilx2" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ilp5idl7d4pwa">Small</div><div data-mytext="myText" componentName="Html-text_2" ccid_ComponentType="Html-text" id="iqd6" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii9rkx51ro30h">Regular</div><div data-mytext="myText" componentName="Html-text_3" ccid_ComponentType="Html-text" id="igs2" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9b0x4bx4itjx">Large</div><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="ik8p" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ilfkypafwmxby">X-Large</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="itt2" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="inp7khpag2i61">Fader Rectangle Handle</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="ialr" componentName="Slider" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" previousSliderType="range" range="false" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="ij4z" componentName="Slider_1" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i0p4" componentName="Slider_2" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iwgz" componentName="Slider_3" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i813" componentName="Slider_4" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><div data-mytext="myText" componentName="Html-text_5" ccid_ComponentType="Html-text" id="isle" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i1pk">X-Small</div><div data-mytext="myText" componentName="Html-text_6" ccid_ComponentType="Html-text" id="ikba" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i573">Small</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="i7fr" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iwdb">Regular</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="i3t0" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i6mh">Large</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="i9cb" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ipms">X-Large</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="izo9" componentName="Slider_5" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iaqy" componentName="Slider_6" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" previousSliderType="range" range="false" showtickvalues="false" oldID="i085px5put29i"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="idc3" componentName="Slider_7" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" previousSliderType="range" range="false" showtickvalues="false" oldID="ietua11km77va"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iauu" componentName="Slider_8" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" previousSliderType="range" range="false" showtickvalues="false" oldID="i4g3rpqzcjx2i"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iztv" componentName="Slider_9" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" previousSliderType="range" range="false" showtickvalues="false" oldID="irw727y9cbja6"></ch5-slider><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="ioq9" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i1pk">X-Small</div><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="ilk5" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i573">Small</div><div data-mytext="myText" componentName="Html-text_13" ccid_ComponentType="Html-text" id="ighb" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iwdb">Regular</div><div data-mytext="myText" componentName="Html-text_14" ccid_ComponentType="Html-text" id="iu5b" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i6mh">Large</div><div data-mytext="myText" componentName="Html-text_15" ccid_ComponentType="Html-text" id="i344" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ipms">X-Large</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="regular" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i8ia" componentName="Slider_10" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" previousSliderType="range" range="false" showtickvalues="false" oldID="ikxt3"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="regular" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="ia6o" componentName="Slider_11" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" previousSliderType="range" range="false" showtickvalues="false" oldID="i085px5put29i"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="regular" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="icyy" componentName="Slider_12" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" previousSliderType="range" range="false" showtickvalues="false" oldID="ietua11km77va"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="regular" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="ibps" componentName="Slider_13" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" previousSliderType="range" range="false" showtickvalues="false" oldID="i4g3rpqzcjx2i"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="regular" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="ichx" componentName="Slider_14" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" previousSliderType="range" range="false" showtickvalues="false" oldID="irw727y9cbja6"></ch5-slider><div data-mytext="myText" componentName="Html-text_16" ccid_ComponentType="Html-text" id="i16e" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i6idukr0ggos2">X-Small</div><div data-mytext="myText" componentName="Html-text_17" ccid_ComponentType="Html-text" id="iy97" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i63nvxtkg51ez">Small</div><div data-mytext="myText" componentName="Html-text_18" ccid_ComponentType="Html-text" id="i6s1" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i3xazmj2y6kfu">Regular</div><div data-mytext="myText" componentName="Html-text_19" ccid_ComponentType="Html-text" id="i1gp" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ioo7j0j1c10kt">Large</div><div data-mytext="myText" componentName="Html-text_20" ccid_ComponentType="Html-text" id="iv7p" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i676hytl84p9v">X-Large</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iywu" componentName="Slider_15" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" previousSliderType="range" range="false" showtickvalues="false" oldID="ifw7ywv0jqbdt"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="id27" componentName="Slider_16" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" previousSliderType="range" range="false" showtickvalues="false" oldID="iv4ozzfwm7v7l"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iyum" componentName="Slider_17" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" previousSliderType="range" range="false" showtickvalues="false" oldID="iv07j0urhdarn"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="iamu" componentName="Slider_18" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" previousSliderType="range" range="false" showtickvalues="false" oldID="iq9f6f139rjgm"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i105" componentName="Slider_19" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" previousSliderType="range" range="false" showtickvalues="false" oldID="i9kqt095oy0tj"></ch5-slider><div data-mytext="myText" componentName="Html-text_21" ccid_ComponentType="Html-text" id="i956" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i4oq">X-Small Handle</div><div data-mytext="myText" componentName="Html-text_22" ccid_ComponentType="Html-text" id="i2oq" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ipwcfyjyq65s9">Small Handle</div><div data-mytext="myText" componentName="Html-text_23" ccid_ComponentType="Html-text" id="ih8p" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ipwcfyjyq65s9">Regular Handle</div><div data-mytext="myText" componentName="Html-text_24" ccid_ComponentType="Html-text" id="i104" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i6o3k5oirgysj">Large Handle</div><div data-mytext="myText" componentName="Html-text_25" ccid_ComponentType="Html-text" id="i3yj" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iqtkm0q6hcftl">X-Small</div><div data-mytext="myText" componentName="Html-text_26" ccid_ComponentType="Html-text" id="igl9" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i2mcow4q6fisj">Small</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i435" componentName="Slider_20" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" previousSliderType="range" range="false" showtickvalues="false" oldID="io83gn1ag8r89"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i1an" componentName="Slider_21" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" previousSliderType="range" range="false" showtickvalues="false" oldID="ile7kqfwhbd4b"></ch5-slider><div data-mytext="myText" componentName="Html-text_27" ccid_ComponentType="Html-text" id="irjr" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i8eo6g3th4mr2">X-Large Handle</div><div data-mytext="myText" componentName="Html-text_28" ccid_ComponentType="Html-text" id="il9x" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ipvjkqa8jcl5z">Regular</div><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i7zm" componentName="Slider_22" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" previousSliderType="range" range="false" showtickvalues="false" oldID="ika4hpanq5s51"></ch5-slider><div data-mytext="myText" componentName="Html-text_29" ccid_ComponentType="Html-text" id="i0rh" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iizsxlmylnkxf">Large</div><div data-mytext="myText" componentName="Html-text_30" ccid_ComponentType="Html-text" id="i7ic" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i4yve3w6ug7ro">X-Large</div><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i1d4" componentName="Slider_23" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" previousSliderType="range" range="false" showtickvalues="false" oldID="icudf9x6yw5o4"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-large" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" min="0" max="100" step="1" id="i7ag" componentName="Slider_24" ccid_linkSendReceive="True" ccid_ComponentType="Slider" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" previousSliderType="range" range="false" showtickvalues="false" oldID="i3l9mmnlkpy73"></ch5-slider></div>
+
+
+
+{Css}
+@media (max-width: 99999px) { #wrapper { background-color: 0xffffff } #i7ag { width: 500px; height: 40px; display: block; left: 709px; top: 694px; position: absolute } #i7ag .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1d4 { width: 400px; height: 40px; display: block; left: 709px; top: 649px; position: absolute } #i1d4 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i7ic { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 608px; top: 700px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i0rh { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 609px; top: 655px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i7zm { width: 300px; height: 40px; display: block; left: 271px; top: 744px; position: absolute } #i7zm .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #il9x { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 170px; top: 743px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #irjr { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 562px; top: 611px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i1an { width: 250px; height: 40px; display: block; left: 271px; top: 694px; position: absolute } #i1an .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i435 { width: 200px; height: 40px; display: block; left: 271px; top: 649px; position: absolute } #i435 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #igl9 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 170px; top: 700px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i3yj { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 171px; top: 655px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i104 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 903px; top: 309px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ih8p { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 294px; top: 309px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i2oq { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 904px; top: 42px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i956 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 295px; top: 42px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #i105 { width: 500px; height: 34px; display: block; left: 721px; top: 534px; position: absolute } #i105 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iamu { width: 400px; height: 34px; display: block; left: 721px; top: 490px; position: absolute } #iamu .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iyum { width: 300px; height: 34px; display: block; left: 721px; top: 442px; position: absolute } #iyum .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #id27 { width: 250px; height: 34px; display: block; left: 721px; top: 394px; position: absolute } #id27 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iywu { width: 200px; height: 34px; display: block; left: 721px; top: 346px; position: absolute } #iywu .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iv7p { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 641px; top: 533px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i1gp { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 641px; top: 493px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i6s1 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 641px; top: 441px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iy97 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 641px; top: 393px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i16e { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 641px; top: 345px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ichx { width: 500px; height: 30px; display: block; left: 122px; top: 538px; position: absolute } #ichx .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ichx-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ibps { width: 400px; height: 30px; display: block; left: 122px; top: 494px; position: absolute } #ibps .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibps-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #icyy { width: 300px; height: 30px; display: block; left: 122px; top: 446px; position: absolute } #icyy .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #icyy-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ia6o { width: 250px; height: 30px; display: block; left: 122px; top: 398px; position: absolute } #ia6o .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ia6o-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i8ia { width: 200px; height: 30px; display: block; left: 122px; top: 350px; position: absolute } #i8ia .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8ia-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i344 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 22px; top: 537px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iu5b { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 22px; top: 493px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ighb { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 22px; top: 441px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ilk5 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 22px; top: 393px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ioq9 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 22px; top: 345px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iztv { width: 500px; height: 26px; display: block; left: 722px; top: 265px; position: absolute } #iztv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iauu { width: 400px; height: 26px; display: block; left: 722px; top: 221px; position: absolute } #iauu .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iauu-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #idc3 { width: 300px; height: 26px; display: block; left: 722px; top: 173px; position: absolute } #idc3 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #idc3-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iaqy { width: 250px; height: 26px; display: block; left: 722px; top: 125px; position: absolute } #iaqy .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iaqy-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #izo9 { width: 200px; height: 26px; display: block; left: 722px; top: 77px; position: absolute } #izo9 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #izo9-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i9cb { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 642px; top: 264px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #i3t0 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 642px; top: 224px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #i7fr { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 642px; top: 172px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #ikba { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 642px; top: 124px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #isle { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 642px; top: 76px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #i813 { width: 500px; height: 24px; display: block; left: 123px; top: 269px; position: absolute } #i813 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i813-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iwgz { width: 400px; height: 24px; display: block; left: 123px; top: 225px; position: absolute } #iwgz .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iwgz-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i0p4 { width: 300px; height: 24px; display: block; left: 123px; top: 177px; position: absolute } #i0p4 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i0p4-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ij4z { width: 250px; height: 24px; display: block; left: 123px; top: 129px; position: absolute } #ij4z .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ij4z-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ialr { width: 200px; height: 24px; display: block; left: 123px; top: 81px; position: absolute } #ialr .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ialr-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #itt2 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 518px; top: 12px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #ik8p { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 268px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #igs2 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 224px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iqd6 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 172px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ilx2 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 124px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ivxn { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 76px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i03yrkhk3l { width: 1280px; height: 800px; left: 0; top: 0; position: absolute } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #izxkxzewhs6ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip8xwmq7hcgcv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8n68ah8jccni .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ioqyrr4toadmj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i9xgjbvv4vluj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i24upna624j9t .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ihdq4ivuqb2nl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #io9hkdn0w3gwd .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ir8zq986n65xh .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3dst03rp2jho .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibd55hx4577jw .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i77tqhfg2s5ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3of2jw8l0j4v .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ifsxjosinj53e .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #i7ag { left: 709px; top: 694px; position: absolute; width: 500px; height: 40px; display: block } #i1d4 { left: 709px; top: 649px; width: 400px; height: 40px; display: block; position: absolute } #i7ic { left: 608px; top: 700px; width: auto; height: auto } #i0rh { left: 609px; top: 655px; width: auto; height: auto } #i7zm { width: 300px; height: 40px; display: block; left: 271px; top: 744px; position: absolute } #il9x { left: 170px; top: 743px; width: auto; height: auto } #irjr { left: 562px; top: 611px; width: auto; height: auto } #i1an { width: 250px; height: 40px; display: block; left: 271px; top: 694px; position: absolute } #i435 { width: 200px; height: 40px; display: block; left: 271px; top: 649px; position: absolute } #igl9 { left: 170px; top: 700px; width: auto; height: auto } #i3yj { left: 171px; top: 655px; width: auto; height: auto } #i104 { left: 903px; top: 309px; position: absolute; width: auto; height: auto } #ih8p { left: 294px; top: 309px; width: auto; height: auto } #i2oq { left: 904px; top: 42px; position: absolute; width: auto; height: auto } #i956 { left: 295px; top: 42px; position: absolute } #i105 { width: 500px; height: 34px; display: block; left: 721px; top: 534px; position: absolute } #iamu { width: 400px; height: 34px; display: block; left: 721px; top: 490px; position: absolute } #iyum { width: 300px; height: 34px; display: block; left: 721px; top: 442px; position: absolute } #id27 { width: 250px; height: 34px; display: block; left: 721px; top: 394px; position: absolute } #iywu { width: 200px; height: 34px; display: block; left: 721px; top: 346px; position: absolute } #iv7p { left: 641px; top: 533px; width: auto; height: auto } #i1gp { left: 641px; top: 493px; width: auto; height: auto } #i6s1 { left: 641px; top: 441px; width: auto; height: auto } #iy97 { left: 641px; top: 393px; width: auto; height: auto } #i16e { left: 641px; top: 345px; width: auto; height: auto } #ichx { width: 500px; height: 30px; display: block; left: 122px; top: 538px; position: absolute } #ibps { width: 400px; height: 30px; display: block; left: 122px; top: 494px; position: absolute } #icyy { width: 300px; height: 30px; display: block; left: 122px; top: 446px; position: absolute } #ia6o { width: 250px; height: 30px; display: block; left: 122px; top: 398px; position: absolute } #i8ia { width: 200px; height: 30px; display: block; left: 122px; top: 350px; position: absolute } #i344 { left: 22px; top: 537px; width: auto; height: auto } #iu5b { left: 22px; top: 493px; width: auto; height: auto } #ighb { left: 22px; top: 441px; width: auto; height: auto } #ilk5 { left: 22px; top: 393px; width: auto; height: auto } #ioq9 { left: 22px; top: 345px; width: auto; height: auto } #iztv { width: 500px; height: 26px; display: block; left: 722px; top: 265px; position: absolute } #iauu { width: 400px; height: 26px; display: block; left: 722px; top: 221px; position: absolute } #idc3 { width: 300px; height: 26px; display: block; left: 722px; top: 173px; position: absolute } #iaqy { width: 250px; height: 26px; display: block; left: 722px; top: 125px; position: absolute } #izo9 { width: 200px; height: 26px; display: block; left: 722px; top: 77px; position: absolute } #i9cb { left: 642px; top: 264px } #i3t0 { left: 642px; top: 224px } #i7fr { left: 642px; top: 172px } #ikba { left: 642px; top: 124px } #isle { left: 642px; top: 76px } #i813 { width: 500px; height: 24px; display: block; left: 123px; top: 269px; position: absolute } #iwgz { width: 400px; height: 24px; display: block; left: 123px; top: 225px; position: absolute } #i0p4 { width: 300px; height: 24px; display: block; left: 123px; top: 177px; position: absolute } #ij4z { width: 250px; height: 24px; display: block; left: 123px; top: 129px; position: absolute } #ialr { width: 200px; height: 24px; display: block; left: 123px; top: 81px; position: absolute } #itt2 { left: 518px; top: 12px; position: absolute } #ik8p { top: 268px; left: 23px; width: auto; height: auto } #igs2 { top: 224px; left: 23px; width: auto; height: auto } #iqd6 { top: 172px; left: 23px; width: auto; height: auto } #ilx2 { top: 124px; left: 23px; width: auto; height: auto } #ivxn { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 23px; top: 76px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i03yrkhk3l { width: 1280px; height: 800px; left: 0; top: 0; position: absolute } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Sliders-Fader Circle Handle"
+PageMode = "absolute"
+Id = "42d716f0-1777-4aeb-9b30-2e43bbf48074"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text"
+ccid_ComponentType = "Html-text"
+id = "ivxn"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihasn"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_1"
+ccid_ComponentType = "Html-text"
+id = "ilx2"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ilp5idl7d4pwa"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_2"
+ccid_ComponentType = "Html-text"
+id = "iqd6"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ii9rkx51ro30h"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_3"
+ccid_ComponentType = "Html-text"
+id = "igs2"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i9b0x4bx4itjx"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_4"
+ccid_ComponentType = "Html-text"
+id = "ik8p"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ilfkypafwmxby"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Fader Rectangle Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_7"
+ccid_ComponentType = "Html-text"
+id = "itt2"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "inp7khpag2i61"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "ialr"
+componentName = "Slider"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "ij4z"
+componentName = "Slider_1"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i0p4"
+componentName = "Slider_2"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iwgz"
+componentName = "Slider_3"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i813"
+componentName = "Slider_4"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_5"
+ccid_ComponentType = "Html-text"
+id = "isle"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i1pk"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_6"
+ccid_ComponentType = "Html-text"
+id = "ikba"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i573"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_8"
+ccid_ComponentType = "Html-text"
+id = "i7fr"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iwdb"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_9"
+ccid_ComponentType = "Html-text"
+id = "i3t0"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i6mh"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_10"
+ccid_ComponentType = "Html-text"
+id = "i9cb"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipms"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "izo9"
+componentName = "Slider_5"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iaqy"
+componentName = "Slider_6"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i085px5put29i"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "idc3"
+componentName = "Slider_7"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ietua11km77va"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iauu"
+componentName = "Slider_8"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i4g3rpqzcjx2i"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iztv"
+componentName = "Slider_9"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "irw727y9cbja6"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_11"
+ccid_ComponentType = "Html-text"
+id = "ioq9"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i1pk"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_12"
+ccid_ComponentType = "Html-text"
+id = "ilk5"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i573"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_13"
+ccid_ComponentType = "Html-text"
+id = "ighb"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iwdb"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_14"
+ccid_ComponentType = "Html-text"
+id = "iu5b"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i6mh"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_15"
+ccid_ComponentType = "Html-text"
+id = "i344"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipms"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "regular"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i8ia"
+componentName = "Slider_10"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ikxt3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "regular"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "ia6o"
+componentName = "Slider_11"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i085px5put29i"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "regular"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "icyy"
+componentName = "Slider_12"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ietua11km77va"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "regular"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "ibps"
+componentName = "Slider_13"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i4g3rpqzcjx2i"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "regular"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "ichx"
+componentName = "Slider_14"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "irw727y9cbja6"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_16"
+ccid_ComponentType = "Html-text"
+id = "i16e"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i6idukr0ggos2"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_17"
+ccid_ComponentType = "Html-text"
+id = "iy97"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i63nvxtkg51ez"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_18"
+ccid_ComponentType = "Html-text"
+id = "i6s1"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i3xazmj2y6kfu"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_19"
+ccid_ComponentType = "Html-text"
+id = "i1gp"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ioo7j0j1c10kt"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_20"
+ccid_ComponentType = "Html-text"
+id = "iv7p"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i676hytl84p9v"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iywu"
+componentName = "Slider_15"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ifw7ywv0jqbdt"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "id27"
+componentName = "Slider_16"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "iv4ozzfwm7v7l"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iyum"
+componentName = "Slider_17"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "iv07j0urhdarn"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "iamu"
+componentName = "Slider_18"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "iq9f6f139rjgm"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i105"
+componentName = "Slider_19"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i9kqt095oy0tj"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_21"
+ccid_ComponentType = "Html-text"
+id = "i956"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i4oq"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_22"
+ccid_ComponentType = "Html-text"
+id = "i2oq"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipwcfyjyq65s9"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_23"
+ccid_ComponentType = "Html-text"
+id = "ih8p"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipwcfyjyq65s9"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_24"
+ccid_ComponentType = "Html-text"
+id = "i104"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i6o3k5oirgysj"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_25"
+ccid_ComponentType = "Html-text"
+id = "i3yj"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iqtkm0q6hcftl"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_26"
+ccid_ComponentType = "Html-text"
+id = "igl9"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i2mcow4q6fisj"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i435"
+componentName = "Slider_20"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "io83gn1ag8r89"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i1an"
+componentName = "Slider_21"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ile7kqfwhbd4b"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large Handle"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_27"
+ccid_ComponentType = "Html-text"
+id = "irjr"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i8eo6g3th4mr2"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_28"
+ccid_ComponentType = "Html-text"
+id = "il9x"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipvjkqa8jcl5z"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i7zm"
+componentName = "Slider_22"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "ika4hpanq5s51"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_29"
+ccid_ComponentType = "Html-text"
+id = "i0rh"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iizsxlmylnkxf"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_30"
+ccid_ComponentType = "Html-text"
+id = "i7ic"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i4yve3w6ug7ro"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i1d4"
+componentName = "Slider_23"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "icudf9x6yw5o4"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-large"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+min = "0"
+max = "100"
+step = "1"
+id = "i7ag"
+componentName = "Slider_24"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "range"
+range = "false"
+showtickvalues = "false"
+oldID = "i3l9mmnlkpy73"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "i03yrkhk3l"
+devicesVisited = "[\"TSW-1070\"]"
+defaultWidth = "975px"
+defaultHeight = "800px"
+
