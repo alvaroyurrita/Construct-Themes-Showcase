@@ -1,0 +1,143 @@
+Digital_Input SelectRoundRectanglePressed;
+Digital_Input SelectCirclePressed;
+Digital_Input SelectRectanglePressed;
+Digital_Input SelectTabPressed;
+Digital_Input _SKIP_;
+Digital_Input SelectSimplePressed;
+Digital_Input SelectIconsPressed;
+Digital_Input SelectIconsTextPressed;
+Digital_Input _SKIP_;
+
+
+
+
+
+
+Digital_Output SelectRoundRectangleSelected;
+Digital_Output SelectCircleSelected;
+Digital_Output SelectRectangleSelected;
+Digital_Output SelectTabSelected;
+Digital_Output _SKIP_;
+Digital_Output SelectSimpleSelected;
+Digital_Output SelectIconsSelected;
+Digital_Output SelectIconsTextSelected;
+Digital_Output _SKIP_;
+Digital_Output Widgets[15];
+Digital_Output _SKIP_;
+Analog_Output NumberOfShapesButtons;
+Analog_Output NumberOfFeaturesButtons;
+Digital_Output _SKIP_;
+String_Output RoundRectangleTitle;
+String_Output CircleTitle;  
+String_Output RectangleTitle;
+String_Output TabTitle;
+Digital_Output _SKIP_;
+String_Output SimpleTitle;
+String_Output IconsTitle;
+String_Output IconsTextTitle;
+
+Integer ShapeSelected;
+Integer FeatureSelected;
+
+
+Function SelectWidget(){
+    Integer selectedWidget, i;
+        
+    selectedWidget = (ShapeSelected - 1) * 3 + FeatureSelected;
+    For (i = 1 to 15) {
+        If (i = selectedWidget) {
+            Widgets[i] = 1;
+        } Else {
+            Widgets[i] = 0;
+        }
+    }
+}
+
+
+Function UnselectShapeButtons() {
+    SelectRoundRectangleSelected = 0;
+    SelectCircleSelected = 0;
+    SelectRectangleSelected = 0;
+    SelectTabSelected = 0;
+}
+Function UnselectFeatureButtons() {
+    SelectSimpleSelected = 0;
+    SelectIconsSelected = 0;
+    SelectIconsTextSelected = 0;
+}
+
+Function SelectShape(Integer shapeId) {
+    UnselectShapeButtons();
+    If (shapeId = 1) {
+        SelectRoundRectangleSelected = 1;
+    } Else If (shapeId = 2) {
+        SelectCircleSelected = 1;
+    } Else If (shapeId = 3) {
+        SelectRectangleSelected = 1;
+    } Else If (shapeId = 4) {
+        SelectTabSelected = 1;
+    }
+    ShapeSelected = shapeId;
+    SelectWidget();
+}
+
+Function SelectFeature(Integer featureId) {
+    UnselectFeatureButtons();
+    If (featureId = 1) {
+        SelectSimpleSelected = 1;
+    } Else If (featureId = 2) {
+        SelectIconsSelected = 1;
+    } Else If (featureId = 3) {
+        SelectIconsTextSelected = 1;
+    }
+    FeatureSelected = featureId;
+    SelectWidget();
+}
+
+Push SelectRoundRectanglePressed
+Push SelectCirclePressed
+Push SelectRectanglePressed
+Push SelectTabPressed {
+    if (SelectRoundRectanglePressed = 1) {
+        SelectShape(1);
+    } Else If (SelectCirclePressed = 1) {
+        SelectShape(2);
+    } Else If (SelectRectanglePressed = 1) {
+        SelectShape(3);
+    } Else If (SelectTabPressed = 1) {
+        SelectShape(4);
+    }
+}
+
+Push SelectSimplePressed
+Push SelectIconsPressed
+Push SelectIconsTextPressed  {
+    if (SelectSimplePressed = 1) {
+        SelectFeature(1);
+    } Else If (SelectIconsPressed = 1) {
+        SelectFeature(2);
+    } Else If (SelectIconsTextPressed = 1) {
+        SelectFeature(3);
+    }
+}
+
+
+
+Function Main() {
+    NumberOfShapesButtons = 4;
+    NumberOfFeaturesButtons = 3;
+
+    SelectRoundRectangleSelected = 1;
+    ShapeSelected = 1;
+    RoundRectangleTitle = "Round Rectangle";
+    CircleTitle = "Circle";
+    RectangleTitle = "Rectangle";
+    TabTitle = "Tab";
+
+    SelectSimpleSelected = 1;
+    FeatureSelected = 1;
+    SimpleTitle = "Simple";
+    IconsTitle = "Icons";
+    IconsTextTitle = "Icons + Text";
+    SelectWidget();
+}

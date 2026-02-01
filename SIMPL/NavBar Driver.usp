@@ -1,0 +1,66 @@
+Digital_Input SelectButtonsPressed;
+Digital_Input SelectSlidersPressed;
+Digital_Input SelectTabsPressed;
+Digital_Input SelectTogglesPressed;
+
+
+Digital_Output SelectButtonsSelected;
+Digital_Output SelectSlidersSelected;
+Digital_Output SelectTabsSelected;
+Digital_Output SelectTogglesSelected;
+
+Analog_Output NumberOfButtons;
+
+String_Output ButtonTitle;
+String_Output SliderTitle;
+String_Output TabTitle;
+String_Output ToggleTitle;
+
+integer CurrentSelection;
+
+Function UnselectAll(){
+	SelectButtonsSelected = 0;
+	SelectSlidersSelected = 0;
+	SelectTabsSelected = 0;
+	SelectTogglesSelected = 0;
+}
+
+Function SetSelections(integer selection){
+	UnselectAll();
+	Switch (selection) {
+		Case (1):
+			SelectButtonsSelected = 1;
+		Case (2):
+			SelectSlidersSelected = 1;
+		Case (3):
+			SelectTabsSelected = 1;
+		Case (4):
+			SelectTogglesSelected = 1;
+	}
+	CurrentSelection = selection;
+}
+
+
+Push SelectButtonsPressed 
+Push SelectSlidersPressed 
+Push SelectTabsPressed 
+Push SelectTogglesPressed {
+	If (SelectButtonsPressed = 1) {
+		SetSelections(1);
+	} Else If (SelectSlidersPressed = 1) {
+		SetSelections(2);
+	} Else If (SelectTabsPressed = 1) {
+		SetSelections(3);
+	} Else If (SelectTogglesPressed = 1) {
+		SetSelections(4);
+	}
+}
+
+Function Main() {
+	NumberOfButtons = 4;
+	SelectButtonsSelected = 1;
+	ButtonTitle = "Buttons";
+	SliderTitle = "Sliders";
+	TabTitle = "Tabs";
+	ToggleTitle = "Toggles";
+}

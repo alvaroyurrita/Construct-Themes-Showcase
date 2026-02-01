@@ -33,13 +33,11 @@ It would have been nice if it could figure it out from min, max, and step automa
 
 ## Slider Advanced 
 
-There does not seem to be a way to change the following properties of a slider even though it is supported under CH5:
-* Slider Button
+The Slider theme does not support theming the following slider component
+* Slider Button (ON OFF)
+    * Button Style
     * Shape
-    * Content
-    * Size
-    * State
-    * Type
+    * Label
 * Slider Title
     * Content
 
