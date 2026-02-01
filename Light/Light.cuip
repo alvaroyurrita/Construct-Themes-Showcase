@@ -3,7 +3,7 @@ Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
 Created = 2026-01-28 22:10:51.036266-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-01-31 15:07:27.37566-05:00
+Modified = 2026-01-31 21:52:57.761699-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
@@ -15,7 +15,6 @@ MinimumAppHost = "2.0.0"
 {ProjectAttributes}
 
 [Attributes]
-ComponentKey = "UiEditor"
 Name = "Light"
 ThemeId = "light-theme.css"
 ProjectThemeIds = "light-theme.css"
@@ -23,11 +22,12 @@ ThemePageColor = "#ffffff"
 IncludeUnusedAsset = "False"
 OverrideThemeColor = "False"
 SdkId = "CH5:2.17.0"
+ComponentKey = "UiEditor"
 Id = "12eed13a-16a1-46e8-b5ed-8c992f8a9bdc"
 RuntimeThemeJoin = "0"
 RuntimeLanguageJoin = "0"
 DeviceResolutionIds = "D-L-TSW1070-1280-0800"
 ipId = "03"
 ProjectSchemaVersion = "7"
-ContractIsStale = "true"
+ContractIsStale = "false"
 
