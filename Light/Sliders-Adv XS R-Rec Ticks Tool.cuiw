@@ -1,9 +1,9 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-01-31 15:06:59.592137-05:00
+Created = 2026-02-02 14:40:47.131562-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-01-31 15:06:59.592133-05:00
+Modified = 2026-02-02 14:40:47.131559-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
@@ -12,8 +12,11 @@ MinimumAppHost = "2.0.0"
 {Html}
 <div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="ivkdws6l2k" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="idbg" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="inp7khpag2i61">Sliders Advanced Rounded Rectangle X-Small Handle With Ticks and ToolTip&nbsp;</div><div data-mytext="myText" componentname="Html-text_11" ccid_componenttype="Html-text" id="ivzy" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i1pk">X-Small</div><div data-mytext="myText" componentname="Html-text_12" ccid_componenttype="Html-text" id="iu85" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i573">Small</div><div data-mytext="myText" componentname="Html-text_13" ccid_componenttype="Html-text" id="io63" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iwdb">Regular</div><div data-mytext="myText" componentname="Html-text_14" ccid_componenttype="Html-text" id="iaro" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i6mh">Large</div><div data-mytext="myText" componentname="Html-text_15" ccid_componenttype="Html-text" id="ivcp" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ipms">X-Large</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="theme" id="i93c" componentname="Slider_10" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="advanced" range="false" showtickvalues="true" oldid="ikxt3" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="iitu" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="i2z3" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="i2f3" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="theme" id="i3fl" componentname="Slider_11" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" showtickvalues="true" oldid="i085px5put29i" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="i1fu" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="ixy7" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="ir14" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="theme" id="ip28" componentname="Slider_12" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" showtickvalues="true" oldid="ietua11km77va" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="izvq" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="i27n" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="i1b0" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="theme" id="iyxv" componentname="Slider_13" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" showtickvalues="true" oldid="i4g3rpqzcjx2i" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="ibmq" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="iec9" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="i7d4" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="ili6" componentname="Slider_14" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="advanced" range="false" showtickvalues="true" oldid="irw727y9cbja6" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="is90" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="i9k9" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="ictl" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="iteb" componentname="Slider" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="advanced" range="false" showtickvalues="true" oldid="iozr" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="i2by" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="i8rm" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="ikv0" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="small" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="i9a9" componentname="Slider_1" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="advanced" range="false" showtickvalues="true" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="imm7" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="i58o" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="i2du" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="i6tm" componentname="Slider_2" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="advanced" range="false" showtickvalues="true" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="i0ns" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="ipu9" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="ikvf" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="large" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="ix4a" componentname="Slider_3" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="advanced" range="false" showtickvalues="true" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="icmx" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="int1" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="iu20" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="advanced" customvstheme="custom" id="i8lh" componentname="Slider_4" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="advanced" range="false" showtickvalues="true" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"><ch5-slider-title-label componentname="Title" labelinnerhtml="Title" id="icpd" ccid_linksendreceive="True" ccid_label="Title" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-title-label><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="off" labelinnerhtml="off" id="iyk3" componentname="Off" ccid_linksendreceive="True" assetid="0" ccid_label="off" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button><ch5-slider-button previewstate="normal" ccid_imageicontype="iconclass" type="default" shape="rounded-rectangle" iconposition="top" key="on" labelinnerhtml="on" id="iiwo" componentname="On" ccid_linksendreceive="True" assetid="0" ccid_label="on" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-slider-button></ch5-slider><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="ij1b" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="igtv">X-Small</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="i0ym" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iads">Small</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="imae" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ia59">Regular</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="ihvo" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ikx3">Large</div><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="izoz" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iw24">X-Large</div></div>
 
+
+
 {Css}
-@media (max-width: 99999px){#izoz{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:1004px;top:55px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#ihvo{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:843px;top:55px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#imae{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:690px;top:55px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#i0ym{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:557px;top:55px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#ij1b{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:432px;top:55px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#i8lh .ch5-slider .ch5-title-container{width:225px;}#i8lh .ch5-slider :not(i):not(svg){font-family:Roboto;}#i8lh{width:191px;height:545px;display:block;left:930px;top:96px;position:absolute;}#ix4a .ch5-slider .ch5-title-container{width:225px;}#ix4a .ch5-slider :not(i):not(svg){font-family:Roboto;}#ix4a{width:191px;height:445px;display:block;left:787px;top:96px;position:absolute;}#i6tm .ch5-slider .ch5-title-container{width:225px;}#i6tm .ch5-slider :not(i):not(svg){font-family:Roboto;}#i6tm{width:191px;height:345px;display:block;left:644px;top:96px;position:absolute;}#i9a9 .ch5-slider .ch5-title-container{width:225px;}#i9a9 .ch5-slider :not(i):not(svg){font-family:Roboto;}#i9a9{width:191px;height:295px;display:block;left:501px;top:96px;position:absolute;}#iteb-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#iteb-2 .ch5-slider :not(i):not(svg){font-family:Roboto;}#iteb .ch5-slider .ch5-title-container{width:225px;}#iteb .ch5-slider :not(i):not(svg){font-family:Roboto;}#iteb{width:191px;height:245px;display:block;left:358px;top:96px;position:absolute;}#ili6-2 .ch5-slider :not(i):not(svg){font-family:Roboto;}#ili6{width:526px;height:124px;display:block;left:90px;top:637px;position:absolute;}#ili6 .ch5-slider .ch5-title-container{width:554px;}#ili6-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#ili6 .ch5-slider :not(i):not(svg){font-family:Roboto;}#iyxv{width:426px;height:124px;display:block;left:90px;top:492px;position:absolute;}#iyxv .ch5-slider .ch5-title-container{width:454px;}#iyxv-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#iyxv .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ip28{width:326px;height:124px;display:block;left:90px;top:347px;position:absolute;}#ip28 .ch5-slider .ch5-title-container{width:354px;}#ip28-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#ip28 .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i3fl{width:276px;height:124px;display:block;left:90px;top:202px;position:absolute;}#i3fl .ch5-slider .ch5-title-container{width:304px;}#i3fl-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#i3fl .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i93c{width:226px;height:124px;display:block;left:90px;top:57px;position:absolute;}#i93c .ch5-slider .ch5-title-container{width:254px;}#i93c-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#i93c .ch5-slider :not(i):not(svg){font-family:Roboto;}#ivcp{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:7px;top:697px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#iaro{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:7px;top:552px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#io63{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:7px;top:407px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#iu85{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:7px;top:262px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#ivzy{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:7px;top:117px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#idbg{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:157px;top:12px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ivkdws6l2k{width:1100px;height:800px;left:0;top:0;position:absolute;background-color:#f5eedeff;}#izxkxzewhs6ak .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ip8xwmq7hcgcv .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i8n68ah8jccni .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ioqyrr4toadmj .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i9xgjbvv4vluj .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i24upna624j9t .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ihdq4ivuqb2nl .ch5-slider :not(i):not(svg){font-family:"Roboto";}#io9hkdn0w3gwd .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ir8zq986n65xh .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i3dst03rp2jho .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ibd55hx4577jw .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i77tqhfg2s5ak .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i3of2jw8l0j4v .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ifsxjosinj53e .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg){font-family:"Roboto";}#wrapper{background-color:#ffffff;}.widget-container{z-index:0;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#izoz{left:1004px;top:55px;}#ihvo{left:843px;top:55px;}#imae{left:690px;top:55px;}#i0ym{left:557px;top:55px;}#ij1b{top:55px;left:432px;}#i8lh{width:191px;height:545px;display:block;left:930px;top:96px;position:absolute;}#ix4a{width:191px;height:445px;display:block;left:787px;top:96px;position:absolute;}#i6tm{width:191px;height:345px;display:block;left:644px;top:96px;position:absolute;}#i9a9{width:191px;height:295px;display:block;left:501px;top:96px;position:absolute;}#iteb{width:191px;height:245px;left:358px;top:96px;position:absolute;display:block;}#ili6{width:526px;height:124px;display:block;left:90px;top:637px;position:absolute;}#iyxv{width:426px;height:124px;display:block;left:90px;top:492px;position:absolute;}#ip28{width:326px;height:124px;display:block;left:90px;top:347px;position:absolute;}#i3fl{width:276px;height:124px;display:block;left:90px;top:202px;position:absolute;}#i93c{width:226px;height:124px;display:block;left:90px;top:57px;position:absolute;}#ivcp{left:7px;top:697px;width:auto;height:auto;}#iaro{left:7px;top:552px;width:auto;height:auto;}#io63{left:7px;top:407px;width:auto;height:auto;}#iu85{left:7px;top:262px;width:auto;height:auto;}#ivzy{left:7px;top:117px;width:auto;height:auto;}#idbg{left:157px;top:12px;position:absolute;}#ivkdws6l2k{width:1100px;height:800px;left:0;top:0;position:absolute;}}
+@media (max-width: 99999px) { #izoz { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 1004px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ihvo { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 843px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #imae { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 690px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i0ym { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 557px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ij1b { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 432px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i8lh .ch5-slider .ch5-title-container { width: 225px } #i8lh .ch5-slider :not(i):not(svg) { font-family: Roboto } #i8lh { width: 191px; height: 545px; display: block; left: 930px; top: 96px; position: absolute } #ix4a .ch5-slider .ch5-title-container { width: 225px } #ix4a .ch5-slider :not(i):not(svg) { font-family: Roboto } #ix4a { width: 191px; height: 445px; display: block; left: 787px; top: 96px; position: absolute } #i6tm .ch5-slider .ch5-title-container { width: 225px } #i6tm .ch5-slider :not(i):not(svg) { font-family: Roboto } #i6tm { width: 191px; height: 345px; display: block; left: 644px; top: 96px; position: absolute } #i9a9 .ch5-slider .ch5-title-container { width: 225px } #i9a9 .ch5-slider :not(i):not(svg) { font-family: Roboto } #i9a9 { width: 191px; height: 295px; display: block; left: 501px; top: 96px; position: absolute } #iteb-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iteb-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #iteb .ch5-slider .ch5-title-container { width: 225px } #iteb .ch5-slider :not(i):not(svg) { font-family: Roboto } #iteb { width: 191px; height: 245px; display: block; left: 358px; top: 96px; position: absolute } #ili6-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #ili6 { width: 526px; height: 124px; display: block; left: 90px; top: 637px; position: absolute } #ili6 .ch5-slider .ch5-title-container { width: 554px } #ili6-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ili6 .ch5-slider :not(i):not(svg) { font-family: Roboto } #iyxv { width: 426px; height: 124px; display: block; left: 90px; top: 492px; position: absolute } #iyxv .ch5-slider .ch5-title-container { width: 454px } #iyxv-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iyxv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip28 { width: 326px; height: 124px; display: block; left: 90px; top: 347px; position: absolute } #ip28 .ch5-slider .ch5-title-container { width: 354px } #ip28-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ip28 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3fl { width: 276px; height: 124px; display: block; left: 90px; top: 202px; position: absolute } #i3fl .ch5-slider .ch5-title-container { width: 304px } #i3fl-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i3fl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i93c { width: 226px; height: 124px; display: block; left: 90px; top: 57px; position: absolute } #i93c .ch5-slider .ch5-title-container { width: 254px } #i93c-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i93c .ch5-slider :not(i):not(svg) { font-family: Roboto } #ivcp { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 697px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iaro { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 552px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #io63 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 407px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iu85 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 262px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ivzy { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 117px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #idbg { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 157px; top: 12px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #ivkdws6l2k { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #izxkxzewhs6ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip8xwmq7hcgcv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8n68ah8jccni .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ioqyrr4toadmj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i9xgjbvv4vluj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i24upna624j9t .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ihdq4ivuqb2nl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #io9hkdn0w3gwd .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ir8zq986n65xh .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3dst03rp2jho .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibd55hx4577jw .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i77tqhfg2s5ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3of2jw8l0j4v .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ifsxjosinj53e .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #wrapper { background-color: #ffffff } .widget-container { z-index: 0 } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #izoz { left: 1004px; top: 55px } #ihvo { left: 843px; top: 55px } #imae { left: 690px; top: 55px } #i0ym { left: 557px; top: 55px } #ij1b { top: 55px; left: 432px } #i8lh { width: 191px; height: 545px; display: block; left: 930px; top: 96px; position: absolute } #ix4a { width: 191px; height: 445px; display: block; left: 787px; top: 96px; position: absolute } #i6tm { width: 191px; height: 345px; display: block; left: 644px; top: 96px; position: absolute } #i9a9 { width: 191px; height: 295px; display: block; left: 501px; top: 96px; position: absolute } #iteb { width: 191px; height: 245px; left: 358px; top: 96px; position: absolute; display: block } #ili6 { width: 526px; height: 124px; display: block; left: 90px; top: 637px; position: absolute } #iyxv { width: 426px; height: 124px; display: block; left: 90px; top: 492px; position: absolute } #ip28 { width: 326px; height: 124px; display: block; left: 90px; top: 347px; position: absolute } #i3fl { width: 276px; height: 124px; display: block; left: 90px; top: 202px; position: absolute } #i93c { width: 226px; height: 124px; display: block; left: 90px; top: 57px; position: absolute } #ivcp { left: 7px; top: 697px; width: auto; height: auto } #iaro { left: 7px; top: 552px; width: auto; height: auto } #io63 { left: 7px; top: 407px; width: auto; height: auto } #iu85 { left: 7px; top: 262px; width: auto; height: auto } #ivzy { left: 7px; top: 117px; width: auto; height: auto } #idbg { left: 157px; top: 12px; position: absolute } #ivkdws6l2k { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } }
 
 {PageAttributes}
 
@@ -21,18 +24,25 @@ MinimumAppHost = "2.0.0"
 Name = "Sliders-Adv XS R-Rec Ticks Tool"
 PageMode = "absolute"
 Id = "b4a619f4-368c-4470-a4c0-45656306e14b"
-DisplayBackgroundColor = "True"
-BackgroundColor = "#f5eedeff"
+DisplayBackgroundColor = "False"
 
 [[Elements]]
+Name = ""
 Type = "widgetContainer"
+Status = ""
+Content = ""
 Classes = ["widget-container"]
 
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Sliders Advanced Rounded Rectangle X-Small Handle With Ticks and ToolTip&nbsp;"
 Removable = false
 Draggable = false
@@ -49,10 +59,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "inp7khpag2i61"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "X-Small"
 Removable = false
 Draggable = false
@@ -69,10 +84,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "i1pk"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Small"
 Removable = false
 Draggable = false
@@ -89,10 +109,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "i573"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Regular"
 Removable = false
 Draggable = false
@@ -109,10 +134,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "iwdb"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Large"
 Removable = false
 Draggable = false
@@ -129,10 +159,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "i6mh"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "X-Large"
 Removable = false
 Draggable = false
@@ -149,11 +184,17 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "ipms"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -163,7 +204,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -180,7 +224,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -226,11 +273,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -240,7 +293,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -257,7 +313,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -303,11 +362,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -317,7 +382,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -334,7 +402,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -380,11 +451,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -394,7 +471,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -411,7 +491,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -457,11 +540,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -471,7 +560,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -488,7 +580,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -534,11 +629,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -548,7 +649,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -565,7 +669,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -611,11 +718,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -625,7 +738,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -642,7 +758,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -688,11 +807,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -702,7 +827,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -719,7 +847,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -765,11 +896,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -779,7 +916,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -796,7 +936,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -842,11 +985,17 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 slider-title-Label"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Title"
@@ -856,7 +1005,10 @@ ccid_linkSendReceive = "True"
 ccid_Label = "Title"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -873,7 +1025,10 @@ assetid = "0"
 ccid_Label = "off"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Slider Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 previewstate = "normal"
@@ -919,10 +1074,15 @@ min = "0"
 max = "100"
 step = "1"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "X-Small"
 Removable = false
 Draggable = false
@@ -939,10 +1099,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "igtv"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Small"
 Removable = false
 Draggable = false
@@ -959,10 +1124,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "iads"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Regular"
 Removable = false
 Draggable = false
@@ -979,10 +1149,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "ia59"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "Large"
 Removable = false
 Draggable = false
@@ -999,10 +1174,15 @@ ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "ikx3"
 [[Elements.Components]]
+Name = ""
 Type = "html-text"
+Status = ""
+Content = ""
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "X-Large"
 Removable = false
 Draggable = false
