@@ -1,19 +1,19 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-01-29 22:22:01.353784-05:00
+Created = 2026-02-02 16:09:59.394197-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-01-29 22:22:01.353779-05:00
+Modified = 2026-02-02 16:09:59.394192-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="iacd49rfvc" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><ch5-button orientation="horizontal" size="regular" shape="rectangle" previewstate="normal" type="text" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="syncEnabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="theme" id="i4ym" componentname="Button_17" ccid_activefont="'Roboto'" ccid_label="regular" labelinnerhtml="regular" assetid="0" pageflip="0" ccid_componenttype="Button" devicesvisited="[&quot;TSW-1070&quot;]" ccid_sync_normal_appearancesector_background-color="syncDisabled" ccid_sync_normal_appearancesector_background-color_toggle="0" ccid_sync_pressed_appearancesector_background-color="syncDisabled" ccid_sync_pressed_appearancesector_background-color_toggle="0" ccid_sync_selected_appearancesector_background-color="syncDisabled" ccid_sync_selected_appearancesector_background-color_toggle="0" ccid_sync_normal_appearancesector_border-color="syncEnabled" ccid_sync_pressed_appearancesector_border-color="syncEnabled" ccid_sync_selected_appearancesector_border-color="syncEnabled" ccid_sync_normal_appearancesector_border-width="syncEnabled" ccid_sync_pressed_appearancesector_border-width="syncEnabled" ccid_sync_selected_appearancesector_border-width="syncEnabled" ccid_sync_normal_appearancesector_border-style="syncEnabled" ccid_sync_pressed_appearancesector_border-style="syncEnabled" ccid_sync_selected_appearancesector_border-style="syncEnabled" ccid_sync_normal_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_normal_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_normal_labelsector_color="syncEnabled" ccid_sync_pressed_labelsector_color="syncEnabled" ccid_sync_selected_labelsector_color="syncEnabled" ccid_sync_normal_labelsector_font-size="syncEnabled" ccid_sync_pressed_labelsector_font-size="syncEnabled" ccid_sync_selected_labelsector_font-size="syncEnabled" ccid_sync_normal_labelsector_font-weight="syncEnabled" ccid_sync_pressed_labelsector_font-weight="syncEnabled" ccid_sync_selected_labelsector_font-weight="syncEnabled" ccid_sync_normal_labelsector_text-decoration="syncEnabled" ccid_sync_pressed_labelsector_text-decoration="syncEnabled" ccid_sync_selected_labelsector_text-decoration="syncEnabled" ccid_sync_normal_labelsector_letter-spacing="syncEnabled" ccid_sync_pressed_labelsector_letter-spacing="syncEnabled" ccid_sync_selected_labelsector_letter-spacing="syncEnabled" ccid_sync_normal_labelsector_margin-left="syncEnabled" ccid_sync_pressed_labelsector_margin-left="syncEnabled" ccid_sync_selected_labelsector_margin-left="syncEnabled" ccid_sync_normal_labelsector_margin-top="syncEnabled" ccid_sync_pressed_labelsector_margin-top="syncEnabled" ccid_sync_selected_labelsector_margin-top="syncEnabled" ccid_sync_normal_iconsector_color="syncEnabled" ccid_sync_pressed_iconsector_color="syncEnabled" ccid_sync_selected_iconsector_color="syncEnabled" ccid_sync_normal_iconsector_font-size="syncEnabled" ccid_sync_pressed_iconsector_font-size="syncEnabled" ccid_sync_selected_iconsector_font-size="syncEnabled" ccid_sync_normal_iconsector_margin-left="syncEnabled" ccid_sync_pressed_iconsector_margin-left="syncEnabled" ccid_sync_selected_iconsector_margin-left="syncEnabled" ccid_sync_normal_iconsector_margin-top="syncEnabled" ccid_sync_pressed_iconsector_margin-top="syncEnabled" ccid_sync_selected_iconsector_margin-top="syncEnabled" ccid_sync_normal_appearancesector_border-color_toggle="1" ccid_sync_normal_appearancesector_border-width_toggle="1" ccid_sync_normal_appearancesector_border-style_toggle="1" ccid_sync_normal_appearancesector_border-top-left-radius_toggle="1" ccid_sync_normal_appearancesector_border-top-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle="1" ccid_sync_normal_labelsector_color_toggle="1" ccid_sync_normal_labelsector_font-size_toggle="1" ccid_sync_normal_labelsector_font-weight_toggle="1" ccid_sync_normal_labelsector_text-decoration_toggle="1" ccid_sync_normal_labelsector_letter-spacing_toggle="1" ccid_sync_normal_labelsector_margin-left_toggle="1" ccid_sync_normal_labelsector_margin-top_toggle="1" ccid_sync_normal_iconsector_color_toggle="1" ccid_sync_normal_iconsector_font-size_toggle="1" ccid_sync_normal_iconsector_margin-left_toggle="1" ccid_sync_normal_iconsector_margin-top_toggle="1" oldid="ihb0qwhyulbqc" ccid_customsizeset="true"></ch5-button><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="iv56" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihasn">Default</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="i24m" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ilp5idl7d4pwa">Primary</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="i6qx" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ii9rkx51ro30h">Info</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="iuht" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i9b0x4bx4itjx">Text</div><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="ip15" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ilfkypafwmxby">Danger</div><div data-mytext="myText" componentname="Html-text_5" ccid_componenttype="Html-text" id="i263" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i5z51acnsfmyx">Warning</div><div data-mytext="myText" componentname="Html-text_6" ccid_componenttype="Html-text" id="i9ag" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i72mmulwz41mn">Secondary</div><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="iun0" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="inp7khpag2i61">Tabs Rectangular</div><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="default" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iyzy" componentname="Tab Button" ccid_activefont="'Roboto'" ccid_label="Default" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" buttonlabelinnerhtml="Default"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="primary" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="i4we" componentname="Tab Button_1" ccid_activefont="'Roboto'" ccid_label="Primary" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Primary"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="info" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iua5" componentname="Tab Button_2" ccid_activefont="'Roboto'" ccid_label="Info" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Info"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="text" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ih9x" componentname="Tab Button_3" ccid_activefont="'Roboto'" ccid_label="Text" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Text"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="danger" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="in6b" componentname="Tab Button_4" ccid_activefont="'Roboto'" ccid_label="Danger" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Danger"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="warning" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ir7e" componentname="Tab Button_5" ccid_activefont="'Roboto'" ccid_label="Warning" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Warning"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="secondary" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ijey" componentname="Tab Button_6" ccid_activefont="'Roboto'" ccid_label="Secondary" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Secondary"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="success" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iciq" componentname="Tab Button_7" ccid_activefont="'Roboto'" ccid_label="Success" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iyp1g9je72wol" buttonlabelinnerhtml="Success"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><div data-mytext="myText" componentname="Html-text_8" ccid_componenttype="Html-text" id="i6ys" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i2gw">Success</div></div>
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="iacd49rfvc" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><div data-mytext="myText" componentname="Html-text_8" ccid_componenttype="Html-text" id="i6ys" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i2gw">Success</div><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="success" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iciq" componentname="Tab Button_7" ccid_activefont="'Roboto'" ccid_label="Success" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iyp1g9je72wol" buttonlabelinnerhtml="Success"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="i9gj" devicesvisited="[&quot;TSW-1070&quot;]" pageflipattributename="onRelease" onrelease="0"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="i0bz" devicesvisited="[&quot;TSW-1070&quot;]" pageflipattributename="onRelease" onrelease="0"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3" id="icop" devicesvisited="[&quot;TSW-1070&quot;]" pageflipattributename="onRelease" onrelease="0"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4" id="i1sc" devicesvisited="[&quot;TSW-1070&quot;]" pageflipattributename="onRelease" onrelease="0"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="secondary" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ijey" componentname="Tab Button_6" ccid_activefont="'Roboto'" ccid_label="Secondary" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Secondary"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="warning" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ir7e" componentname="Tab Button_5" ccid_activefont="'Roboto'" ccid_label="Warning" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Warning"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="danger" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="in6b" componentname="Tab Button_4" ccid_activefont="'Roboto'" ccid_label="Danger" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Danger"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="text" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="ih9x" componentname="Tab Button_3" ccid_activefont="'Roboto'" ccid_label="Text" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Text"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="info" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iua5" componentname="Tab Button_2" ccid_activefont="'Roboto'" ccid_label="Info" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Info"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="primary" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="i4we" componentname="Tab Button_1" ccid_activefont="'Roboto'" ccid_label="Primary" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihmf7" buttonlabelinnerhtml="Primary"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><ch5-tab-button numberofitems="4" usecontractforcustomstyle="false" usecontractforcustomclass="false" orientation="horizontal" previewstate="buttonnormal" indexid="idx" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonshape="rectangle" buttontype="default" pd-receivestateenable="" pd-receivestateshow="" affectedbypreviewstate="True" customvstheme="theme" id="iyzy" componentname="Tab Button" ccid_activefont="'Roboto'" ccid_label="Default" ccid_linksendreceive="True" assetid="0" ccid_imageicontype="iconclass" ccid_componenttype="Tab Button" devicesvisited="[&quot;TSW-1070&quot;]" buttonlabelinnerhtml="Default"><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-tab-button-individual-button><ch5-tab-button-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-tab-button-individual-button></ch5-tab-button><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="iun0" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="inp7khpag2i61">Tabs Rectangular</div><div data-mytext="myText" componentname="Html-text_6" ccid_componenttype="Html-text" id="i9ag" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i72mmulwz41mn">Secondary</div><div data-mytext="myText" componentname="Html-text_5" ccid_componenttype="Html-text" id="i263" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i5z51acnsfmyx">Warning</div><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="ip15" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ilfkypafwmxby">Danger</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="iuht" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i9b0x4bx4itjx">Text</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="i6qx" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ii9rkx51ro30h">Info</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="i24m" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ilp5idl7d4pwa">Primary</div><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="iv56" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihasn">Default</div></div>
 
 {Css}
-@media (max-width: 99999px){#i6ys{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:651px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iciq .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ijey .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ir7e .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#in6b .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ih9x .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iua5 .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#i4we .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iyzy .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iun0{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:398px;top:31px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i9ag{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:740px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i263{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:562px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ip15{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:473px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iuht{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:384px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i6qx{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:295px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i24m{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:212px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iv56{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:112px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iacd49rfvc{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}#iyzy{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:97px;position:absolute;}#i4we{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:186;position:absolute;}#iua5{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:275;position:absolute;}#ih9x{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:364;position:absolute;}#in6b{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:453;position:absolute;}#ir7e{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:542;position:absolute;}#ijey{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:720px;position:absolute;}#iciq{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:631px;position:absolute;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i6ys{left:24px;top:651px;position:absolute;}#iun0{left:398px;top:31px;position:absolute;}#i9ag{top:740px;left:24px;}#i263{top:562px;left:24px;}#ip15{top:473px;left:24px;}#iuht{top:384px;left:24px;}#i6qx{top:295px;left:24px;}#i24m{top:212px;left:24px;}#iv56{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:112px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iacd49rfvc{width:975px;height:800px;left:0;top:0;position:absolute;}#iyzy{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:97px;position:absolute;}#i4we{left:170px;top:186;}#iua5{left:170px;top:275;}#ih9x{left:170px;top:364;}#in6b{left:170px;top:453;}#ir7e{left:170px;top:542;}#ijey{top:720px;left:170px;}#iciq{left:170px;top:631px;position:absolute;width:699px;height:68px;}}
+@media (max-width: 99999px){#i6ys{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:651px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:36;}#iciq .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ijey .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ir7e .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#in6b .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#ih9x .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iua5 .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#i4we .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iyzy .ch5-tab-button :not(i):not(svg){font-family:"Roboto";}#iun0{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:398px;top:31px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:27;}#i9ag{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:740px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:26;}#i263{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:562px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:25;}#ip15{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:473px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:24;}#iuht{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:384px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:23;}#i6qx{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:295px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:22;}#i24m{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:212px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:21;}#iv56{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:112px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:20;}#iacd49rfvc{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}#iciq{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:631px;position:absolute;z-index:35;}#ijey{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:720px;position:absolute;z-index:34;}#ir7e{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:542px;position:absolute;z-index:33;}#in6b{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:453px;position:absolute;z-index:32;}#ih9x{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:364px;position:absolute;z-index:31;}#iua5{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:275px;position:absolute;z-index:30;}#i4we{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:186px;position:absolute;z-index:29;}#iyzy{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:97px;position:absolute;z-index:28;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i6ys{left:24px;top:651px;position:absolute;z-index:36;}#iun0{left:398px;top:31px;position:absolute;z-index:27;}#i9ag{top:740px;left:24px;z-index:26;}#i263{top:562px;left:24px;z-index:25;}#ip15{top:473px;left:24px;z-index:24;}#iuht{top:384px;left:24px;z-index:23;}#i6qx{top:295px;left:24px;z-index:22;}#i24m{top:212px;left:24px;z-index:21;}#iv56{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:24px;top:112px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:20;}#iacd49rfvc{width:975px;height:800px;left:0;top:0;position:absolute;}#iciq{left:170px;top:631px;position:absolute;width:699px;height:68px;z-index:35;}#ijey{top:720px;left:170px;z-index:34;}#ir7e{left:170px;top:542px;z-index:33;}#in6b{left:170px;top:453px;z-index:32;}#ih9x{left:170px;top:364px;z-index:31;}#iua5{left:170px;top:275px;z-index:30;}#i4we{left:170px;top:186px;z-index:29;}#iyzy{width:699px;--ch5-tab-button--button-container-width:699px;height:68px;--ch5-tab-button--button-container-height:68px;display:block;left:170px;top:97px;position:absolute;z-index:28;}}
 
 {PageAttributes}
 
@@ -28,129 +28,11 @@ Type = "widgetContainer"
 Classes = ["widget-container"]
 
 [[Elements.Components]]
-Type = "Ch5 Button"
-Editable = true
-
-[Elements.Components.Attributes]
-orientation = "horizontal"
-size = "regular"
-shape = "rectangle"
-previewstate = "normal"
-type = "text"
-halignlabel = "center"
-valignlabel = "middle"
-checkboxshow = "false"
-checkboxposition = "left"
-disabled = "false"
-pageFlipAttributeName = "pageflip"
-clearLabel = "false"
-ccid_imageIconType = "iconclass"
-ccid_linkSendReceive = "True"
-iconurlfilltype = "initial"
-customclass = "ccid-custom"
-affectedByPreviewState = "True"
-iconposition = "first"
-tagName = "ch5-button"
-ccid_syncproperties = "syncEnabled"
-ccid_lastSizeSelected = "regular"
-ccid_componenttype = "button"
-ccid_ch5Type = "button"
-customvstheme = "theme"
-id = "i4ym"
-componentName = "Button_17"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "regular"
-labelinnerhtml = "regular"
-assetid = "0"
-pageflip = "0"
-ccid_ComponentType = "Button"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_sync_normal_appearancesector_background-color = "syncDisabled"
-ccid_sync_normal_appearancesector_background-color_toggle = "0"
-ccid_sync_pressed_appearancesector_background-color = "syncDisabled"
-ccid_sync_pressed_appearancesector_background-color_toggle = "0"
-ccid_sync_selected_appearancesector_background-color = "syncDisabled"
-ccid_sync_selected_appearancesector_background-color_toggle = "0"
-ccid_sync_normal_appearancesector_border-color = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-color = "syncEnabled"
-ccid_sync_selected_appearancesector_border-color = "syncEnabled"
-ccid_sync_normal_appearancesector_border-width = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-width = "syncEnabled"
-ccid_sync_selected_appearancesector_border-width = "syncEnabled"
-ccid_sync_normal_appearancesector_border-style = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-style = "syncEnabled"
-ccid_sync_selected_appearancesector_border-style = "syncEnabled"
-ccid_sync_normal_appearancesector_border-top-left-radius = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-top-left-radius = "syncEnabled"
-ccid_sync_selected_appearancesector_border-top-left-radius = "syncEnabled"
-ccid_sync_normal_appearancesector_border-top-right-radius = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-top-right-radius = "syncEnabled"
-ccid_sync_selected_appearancesector_border-top-right-radius = "syncEnabled"
-ccid_sync_normal_appearancesector_border-bottom-right-radius = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-bottom-right-radius = "syncEnabled"
-ccid_sync_selected_appearancesector_border-bottom-right-radius = "syncEnabled"
-ccid_sync_normal_appearancesector_border-bottom-left-radius = "syncEnabled"
-ccid_sync_pressed_appearancesector_border-bottom-left-radius = "syncEnabled"
-ccid_sync_selected_appearancesector_border-bottom-left-radius = "syncEnabled"
-ccid_sync_normal_labelsector_color = "syncEnabled"
-ccid_sync_pressed_labelsector_color = "syncEnabled"
-ccid_sync_selected_labelsector_color = "syncEnabled"
-ccid_sync_normal_labelsector_font-size = "syncEnabled"
-ccid_sync_pressed_labelsector_font-size = "syncEnabled"
-ccid_sync_selected_labelsector_font-size = "syncEnabled"
-ccid_sync_normal_labelsector_font-weight = "syncEnabled"
-ccid_sync_pressed_labelsector_font-weight = "syncEnabled"
-ccid_sync_selected_labelsector_font-weight = "syncEnabled"
-ccid_sync_normal_labelsector_text-decoration = "syncEnabled"
-ccid_sync_pressed_labelsector_text-decoration = "syncEnabled"
-ccid_sync_selected_labelsector_text-decoration = "syncEnabled"
-ccid_sync_normal_labelsector_letter-spacing = "syncEnabled"
-ccid_sync_pressed_labelsector_letter-spacing = "syncEnabled"
-ccid_sync_selected_labelsector_letter-spacing = "syncEnabled"
-ccid_sync_normal_labelsector_margin-left = "syncEnabled"
-ccid_sync_pressed_labelsector_margin-left = "syncEnabled"
-ccid_sync_selected_labelsector_margin-left = "syncEnabled"
-ccid_sync_normal_labelsector_margin-top = "syncEnabled"
-ccid_sync_pressed_labelsector_margin-top = "syncEnabled"
-ccid_sync_selected_labelsector_margin-top = "syncEnabled"
-ccid_sync_normal_iconsector_color = "syncEnabled"
-ccid_sync_pressed_iconsector_color = "syncEnabled"
-ccid_sync_selected_iconsector_color = "syncEnabled"
-ccid_sync_normal_iconsector_font-size = "syncEnabled"
-ccid_sync_pressed_iconsector_font-size = "syncEnabled"
-ccid_sync_selected_iconsector_font-size = "syncEnabled"
-ccid_sync_normal_iconsector_margin-left = "syncEnabled"
-ccid_sync_pressed_iconsector_margin-left = "syncEnabled"
-ccid_sync_selected_iconsector_margin-left = "syncEnabled"
-ccid_sync_normal_iconsector_margin-top = "syncEnabled"
-ccid_sync_pressed_iconsector_margin-top = "syncEnabled"
-ccid_sync_selected_iconsector_margin-top = "syncEnabled"
-ccid_sync_normal_appearancesector_border-color_toggle = "1"
-ccid_sync_normal_appearancesector_border-width_toggle = "1"
-ccid_sync_normal_appearancesector_border-style_toggle = "1"
-ccid_sync_normal_appearancesector_border-top-left-radius_toggle = "1"
-ccid_sync_normal_appearancesector_border-top-right-radius_toggle = "1"
-ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle = "1"
-ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle = "1"
-ccid_sync_normal_labelsector_color_toggle = "1"
-ccid_sync_normal_labelsector_font-size_toggle = "1"
-ccid_sync_normal_labelsector_font-weight_toggle = "1"
-ccid_sync_normal_labelsector_text-decoration_toggle = "1"
-ccid_sync_normal_labelsector_letter-spacing_toggle = "1"
-ccid_sync_normal_labelsector_margin-left_toggle = "1"
-ccid_sync_normal_labelsector_margin-top_toggle = "1"
-ccid_sync_normal_iconsector_color_toggle = "1"
-ccid_sync_normal_iconsector_font-size_toggle = "1"
-ccid_sync_normal_iconsector_margin-left_toggle = "1"
-ccid_sync_normal_iconsector_margin-top_toggle = "1"
-oldID = "ihb0qwhyulbqc"
-ccid_customSizeSet = "true"
-[[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Default"
+Content = "Success"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -159,152 +41,12 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text"
+componentName = "Html-text_8"
 ccid_ComponentType = "Html-text"
-id = "iv56"
+id = "i6ys"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihasn"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Primary"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_1"
-ccid_ComponentType = "Html-text"
-id = "i24m"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ilp5idl7d4pwa"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Info"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_2"
-ccid_ComponentType = "Html-text"
-id = "i6qx"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ii9rkx51ro30h"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Text"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_3"
-ccid_ComponentType = "Html-text"
-id = "iuht"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i9b0x4bx4itjx"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Danger"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_4"
-ccid_ComponentType = "Html-text"
-id = "ip15"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ilfkypafwmxby"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Warning"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_5"
-ccid_ComponentType = "Html-text"
-id = "i263"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i5z51acnsfmyx"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Secondary"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_6"
-ccid_ComponentType = "Html-text"
-id = "i9ag"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i72mmulwz41mn"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Tabs Rectangular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "iun0"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "inp7khpag2i61"
+oldID = "i2gw"
 [[Elements.Components]]
 Type = "Ch5 Tab Button"
 Editable = true
@@ -316,6 +58,10 @@ Type = "Ch5 Tab Button Individual Button"
 ccid_imageIconType = "iconclass"
 componentName = "Individual Button 1"
 componentNumber = "1"
+id = "i9gj"
+devicesVisited = "[\"TSW-1070\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
 [[Elements.Components.Components]]
 Type = "Ch5 Tab Button Individual Button"
 
@@ -323,6 +69,10 @@ Type = "Ch5 Tab Button Individual Button"
 ccid_imageIconType = "iconclass"
 componentName = "Individual Button 2"
 componentNumber = "2"
+id = "i0bz"
+devicesVisited = "[\"TSW-1070\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
 [[Elements.Components.Components]]
 Type = "Ch5 Tab Button Individual Button"
 
@@ -330,6 +80,10 @@ Type = "Ch5 Tab Button Individual Button"
 ccid_imageIconType = "iconclass"
 componentName = "Individual Button 3"
 componentNumber = "3"
+id = "icop"
+devicesVisited = "[\"TSW-1070\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
 [[Elements.Components.Components]]
 Type = "Ch5 Tab Button Individual Button"
 
@@ -337,6 +91,10 @@ Type = "Ch5 Tab Button Individual Button"
 ccid_imageIconType = "iconclass"
 componentName = "Individual Button 4"
 componentNumber = "4"
+id = "i1sc"
+devicesVisited = "[\"TSW-1070\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
 
 [Elements.Components.Attributes]
 numberofitems = "4"
@@ -349,321 +107,22 @@ buttonhalignlabel = "center"
 buttonvalignlabel = "middle"
 buttoniconposition = "first"
 buttonshape = "rectangle"
-buttontype = "default"
+buttontype = "success"
 pd-receivestateenable = ""
 pd-receivestateshow = ""
 affectedByPreviewState = "True"
 customvstheme = "theme"
-id = "iyzy"
-componentName = "Tab Button"
+id = "iciq"
+componentName = "Tab Button_7"
 ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Default"
+ccid_Label = "Success"
 ccid_linkSendReceive = "True"
 assetid = "0"
 ccid_imageIconType = "iconclass"
 ccid_ComponentType = "Tab Button"
 devicesVisited = "[\"TSW-1070\"]"
-buttonlabelinnerhtml = "Default"
-[[Elements.Components]]
-Type = "Ch5 Tab Button"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-
-[Elements.Components.Attributes]
-numberofitems = "4"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-orientation = "horizontal"
-previewstate = "buttonnormal"
-indexid = "idx"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonshape = "rectangle"
-buttontype = "primary"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-affectedByPreviewState = "True"
-customvstheme = "theme"
-id = "i4we"
-componentName = "Tab Button_1"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Primary"
-ccid_linkSendReceive = "True"
-assetid = "0"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Tab Button"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihmf7"
-buttonlabelinnerhtml = "Primary"
-[[Elements.Components]]
-Type = "Ch5 Tab Button"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-
-[Elements.Components.Attributes]
-numberofitems = "4"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-orientation = "horizontal"
-previewstate = "buttonnormal"
-indexid = "idx"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonshape = "rectangle"
-buttontype = "info"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-affectedByPreviewState = "True"
-customvstheme = "theme"
-id = "iua5"
-componentName = "Tab Button_2"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Info"
-ccid_linkSendReceive = "True"
-assetid = "0"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Tab Button"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihmf7"
-buttonlabelinnerhtml = "Info"
-[[Elements.Components]]
-Type = "Ch5 Tab Button"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-
-[Elements.Components.Attributes]
-numberofitems = "4"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-orientation = "horizontal"
-previewstate = "buttonnormal"
-indexid = "idx"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonshape = "rectangle"
-buttontype = "text"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-affectedByPreviewState = "True"
-customvstheme = "theme"
-id = "ih9x"
-componentName = "Tab Button_3"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Text"
-ccid_linkSendReceive = "True"
-assetid = "0"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Tab Button"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihmf7"
-buttonlabelinnerhtml = "Text"
-[[Elements.Components]]
-Type = "Ch5 Tab Button"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-
-[Elements.Components.Attributes]
-numberofitems = "4"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-orientation = "horizontal"
-previewstate = "buttonnormal"
-indexid = "idx"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonshape = "rectangle"
-buttontype = "danger"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-affectedByPreviewState = "True"
-customvstheme = "theme"
-id = "in6b"
-componentName = "Tab Button_4"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Danger"
-ccid_linkSendReceive = "True"
-assetid = "0"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Tab Button"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihmf7"
-buttonlabelinnerhtml = "Danger"
-[[Elements.Components]]
-Type = "Ch5 Tab Button"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components.Components]]
-Type = "Ch5 Tab Button Individual Button"
-
-[Elements.Components.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-
-[Elements.Components.Attributes]
-numberofitems = "4"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-orientation = "horizontal"
-previewstate = "buttonnormal"
-indexid = "idx"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonshape = "rectangle"
-buttontype = "warning"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-affectedByPreviewState = "True"
-customvstheme = "theme"
-id = "ir7e"
-componentName = "Tab Button_5"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Warning"
-ccid_linkSendReceive = "True"
-assetid = "0"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Tab Button"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihmf7"
-buttonlabelinnerhtml = "Warning"
+oldID = "iyp1g9je72wol"
+buttonlabelinnerhtml = "Success"
 [[Elements.Components]]
 Type = "Ch5 Tab Button"
 Editable = true
@@ -768,28 +227,327 @@ buttonhalignlabel = "center"
 buttonvalignlabel = "middle"
 buttoniconposition = "first"
 buttonshape = "rectangle"
-buttontype = "success"
+buttontype = "warning"
 pd-receivestateenable = ""
 pd-receivestateshow = ""
 affectedByPreviewState = "True"
 customvstheme = "theme"
-id = "iciq"
-componentName = "Tab Button_7"
+id = "ir7e"
+componentName = "Tab Button_5"
 ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Success"
+ccid_Label = "Warning"
 ccid_linkSendReceive = "True"
 assetid = "0"
 ccid_imageIconType = "iconclass"
 ccid_ComponentType = "Tab Button"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "iyp1g9je72wol"
-buttonlabelinnerhtml = "Success"
+oldID = "ihmf7"
+buttonlabelinnerhtml = "Warning"
+[[Elements.Components]]
+Type = "Ch5 Tab Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+componentNumber = "3"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+componentNumber = "4"
+
+[Elements.Components.Attributes]
+numberofitems = "4"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+indexid = "idx"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonshape = "rectangle"
+buttontype = "danger"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+affectedByPreviewState = "True"
+customvstheme = "theme"
+id = "in6b"
+componentName = "Tab Button_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Danger"
+ccid_linkSendReceive = "True"
+assetid = "0"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Tab Button"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihmf7"
+buttonlabelinnerhtml = "Danger"
+[[Elements.Components]]
+Type = "Ch5 Tab Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+componentNumber = "3"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+componentNumber = "4"
+
+[Elements.Components.Attributes]
+numberofitems = "4"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+indexid = "idx"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonshape = "rectangle"
+buttontype = "text"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+affectedByPreviewState = "True"
+customvstheme = "theme"
+id = "ih9x"
+componentName = "Tab Button_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Text"
+ccid_linkSendReceive = "True"
+assetid = "0"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Tab Button"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihmf7"
+buttonlabelinnerhtml = "Text"
+[[Elements.Components]]
+Type = "Ch5 Tab Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+componentNumber = "3"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+componentNumber = "4"
+
+[Elements.Components.Attributes]
+numberofitems = "4"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+indexid = "idx"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonshape = "rectangle"
+buttontype = "info"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+affectedByPreviewState = "True"
+customvstheme = "theme"
+id = "iua5"
+componentName = "Tab Button_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Info"
+ccid_linkSendReceive = "True"
+assetid = "0"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Tab Button"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihmf7"
+buttonlabelinnerhtml = "Info"
+[[Elements.Components]]
+Type = "Ch5 Tab Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+componentNumber = "3"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+componentNumber = "4"
+
+[Elements.Components.Attributes]
+numberofitems = "4"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+indexid = "idx"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonshape = "rectangle"
+buttontype = "primary"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+affectedByPreviewState = "True"
+customvstheme = "theme"
+id = "i4we"
+componentName = "Tab Button_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Primary"
+ccid_linkSendReceive = "True"
+assetid = "0"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Tab Button"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihmf7"
+buttonlabelinnerhtml = "Primary"
+[[Elements.Components]]
+Type = "Ch5 Tab Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+componentNumber = "3"
+[[Elements.Components.Components]]
+Type = "Ch5 Tab Button Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+componentNumber = "4"
+
+[Elements.Components.Attributes]
+numberofitems = "4"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+indexid = "idx"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonshape = "rectangle"
+buttontype = "default"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+affectedByPreviewState = "True"
+customvstheme = "theme"
+id = "iyzy"
+componentName = "Tab Button"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Default"
+ccid_linkSendReceive = "True"
+assetid = "0"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Tab Button"
+devicesVisited = "[\"TSW-1070\"]"
+buttonlabelinnerhtml = "Default"
 [[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Success"
+Content = "Tabs Rectangular"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -798,12 +556,152 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_8"
+componentName = "Html-text_7"
 ccid_ComponentType = "Html-text"
-id = "i6ys"
+id = "iun0"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "i2gw"
+oldID = "inp7khpag2i61"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Secondary"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_6"
+ccid_ComponentType = "Html-text"
+id = "i9ag"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i72mmulwz41mn"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Warning"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_5"
+ccid_ComponentType = "Html-text"
+id = "i263"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i5z51acnsfmyx"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Danger"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_4"
+ccid_ComponentType = "Html-text"
+id = "ip15"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ilfkypafwmxby"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Text"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_3"
+ccid_ComponentType = "Html-text"
+id = "iuht"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i9b0x4bx4itjx"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Info"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_2"
+ccid_ComponentType = "Html-text"
+id = "i6qx"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ii9rkx51ro30h"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Primary"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_1"
+ccid_ComponentType = "Html-text"
+id = "i24m"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ilp5idl7d4pwa"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Default"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text"
+ccid_ComponentType = "Html-text"
+id = "iv56"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihasn"
 
 [Elements.Attributes]
 categoryname = "Widget Components"

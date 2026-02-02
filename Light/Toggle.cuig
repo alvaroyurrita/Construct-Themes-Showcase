@@ -1,16 +1,18 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-01 18:33:36.785627-05:00
+Created = 2026-02-02 16:21:22.930563-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-01 18:33:36.785622-05:00
+Modified = 2026-02-02 16:21:22.930554-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w1b10bf19-2867-4e98-a46a-92b3a629a74f" id="i5d5" componentName="Toggle-Rectangle" ccid_ComponentType="Widget" ccid_WidgetName="Toggle-Rectangle" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i6ba" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template>
+<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w1b10bf19-2867-4e98-a46a-92b3a629a74f" id="i5d5" componentname="Toggle-Rectangle" ccid_componenttype="Widget" ccid_widgetname="Toggle-Rectangle" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i6ba" componentname="NavBar" ccid_componenttype="Widget" ccid_widgetname="NavBar" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-template>
+
+
 
 {Css}
 @media (max-width: 99999px) { #i5d5 { display: block; left: 152px; top: 0; position: absolute } #wrapper { background-color: #ffffff } #i6ba { display: block; left: 0; top: 0; position: absolute } }
@@ -23,7 +25,7 @@ Name = "Toggle"
 PageMode = "absolute"
 Id = "a06df15c-d646-4178-9e39-3519431ffdef"
 StartPage = "False"
-PreloadPage = "True"
+PreloadPage = "False"
 CachePage = "True"
 VisibilityJoin = "VisibilityJoin"
 DisplayBackgroundColor = "False"
@@ -33,7 +35,10 @@ TransitionDuration = "1.00s"
 TransitionDelay = "0.00s"
 
 [[Elements]]
+Name = ""
 Type = "Ch5 Template"
+Status = ""
+Content = ""
 
 [Elements.Attributes]
 transitionduration = "1s"
@@ -45,7 +50,10 @@ ccid_ComponentType = "Widget"
 ccid_WidgetName = "Toggle-Rectangle"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements]]
+Name = ""
 Type = "Ch5 Template"
+Status = ""
+Content = ""
 
 [Elements.Attributes]
 transitionduration = "1s"

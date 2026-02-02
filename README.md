@@ -41,4 +41,8 @@ The Slider theme does not support theming the following slider component
 * Slider Title
     * Content
 
+## Tabs
+
+For some reason whenthe tabs are shown in both the touchpanel or the browser, some of them get pushed all the way up, even though they display fine under construct
+
 
