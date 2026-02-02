@@ -43,6 +43,6 @@ The Slider theme does not support theming the following slider component
 
 ## Tabs
 
-For some reason whenthe tabs are shown in both the touchpanel or the browser, some of them get pushed all the way up, even though they display fine under construct
+~~For some reason whenthe tabs are shown in both the touchpanel or the browser, some of them get pushed all the way up, even though they display fine under construct~~ Selecting all the offending objects and pressing the up and down arrow to make them all move up and down one step, fixed the issue
 
 
