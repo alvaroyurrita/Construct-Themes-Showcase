@@ -9,7 +9,12 @@ Use it to test your themes and ensure they work as expected across all UI elemen
 * User Interface Plugin: 1.4401.12.0
 * CH5 Version: 2.17.0
 
+> [!WARNING]
+> Do not load the CH5z in an actual touchpanel. The contents are too large, and the panel won't be able to handle it.  Download the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
+
 # Issues found while working on this projects
+
+
 
 ## Slider Advanced Ticks
 
