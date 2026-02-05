@@ -77,7 +77,7 @@ Function Main() {
 	SliderAdvancedTitle = "Sliders<br/>Advanced";
 	SliderFaderTitle = "Sliders<br/>Fader";
 	SliderGaugeTitle = "Sliders<br/>Gauge";
-	SliderRangeTitle = "Sliders<br/>Min/Max";
+	SliderRangeTitle = "Sliders<br/>Range";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
 }

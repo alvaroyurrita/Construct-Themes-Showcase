@@ -33,8 +33,8 @@ foreach ($file in $files) {
         $newContent = $newContent -replace 'slidertype = "fader"', 'slidertype = "range"'
         $newContent = $newContent -replace 'range="false"', 'range="true"'
         $newContent = $newContent -replace 'range = "false"', 'range = "true"'
-        $newContent = $newContent -replace 'customvstheme="custom"', 'customvstheme="theme"'
-        $newContent = $newContent -replace 'customvstheme = "custom"', 'customvstheme = "theme"'
+        $newContent = $newContent -replace 'customvstheme="theme"', 'customvstheme="theme"'
+        $newContent = $newContent -replace 'customvstheme = "theme"', 'customvstheme = "theme"'
         
 
         # 7. Replace GUID with new one
@@ -72,7 +72,7 @@ foreach ($file in $files) {
 
             $updatedPageContent = $pageContent -replace [regex]::Escape($oldAttributesText), $newAttributesText
             $updatedPageContent = $updatedPageContent -replace 'Sliders-Adv', 'Sliders-Rng'
-            $updatedPageContent = $updatedPageContent -replace 'Advance Slider', 'Range Slider'
+            $updatedPageContent = $updatedPageContent -replace 'Advanced Slider', 'Range Slider'
             $updatedPageContent = $updatedPageContent -replace $widgetId, $newGuid
             Set-Content -Path $newPageFilePath -Value $updatedPageContent -Encoding UTF8 -NoNewline
             Write-Host "✓ Created Page: $newPageFilePath" -ForegroundColor Green

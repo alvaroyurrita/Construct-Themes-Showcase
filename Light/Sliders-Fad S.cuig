@@ -1,19 +1,19 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-02 12:37:40.716208-05:00
+Created = 2026-02-05 13:26:39.468101-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-02 12:37:40.7162-05:00
+Modified = 2026-02-05 13:26:39.468098-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="ii8rf" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w325bd2f6-fe29-46d6-90c5-db7255d3b559" id="ih0a4" componentName="Advance Slider Features" ccid_ComponentType="Widget" ccid_WidgetName="Advance Slider Features" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa01dbb5f-e19d-42d7-a583-03d7b457ac30" id="gkkqk" componentName="Sliders-Adv S Rec" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Rec" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="136"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w56561fa5-3ec3-49ea-aab7-7fd47a968425" id="puisi" componentName="Sliders-Adv S Rec Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Rec Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="135"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2b569f05-5306-4440-81b3-6aa4f2483855" id="swogq" componentName="Sliders-Adv S Rec Ticks Tools" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Rec Ticks Tools" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="134"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w091642c9-b4ad-4568-96d4-540ae0b65c38" id="exdiy" componentName="Sliders-Adv S R-Rec" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S R-Rec" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="133"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wdb001455-47c1-4dd0-a2a8-2c790082f876" id="vhhdz" componentName="Sliders-Adv S R-Rec Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S R-Rec Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="132"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wf49f0105-fdcd-487f-a402-7b188e6d611a" id="rrnod" componentName="Sliders-Adv S R-Rec Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S R-Rec Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="131"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w4de4e862-5ceb-4716-adf3-3d89cdabc9e4" id="wvqbp" componentName="Sliders-Adv S Ovl" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Ovl" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="130"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wcf060a2e-5bd9-4448-9392-15b0a1fd810e" id="eqdtt" componentName="Sliders-Adv S Ovl Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Ovl Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="129"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w74034b79-4d05-444f-90d2-b8328f38c8ea" id="svhwl" componentName="Sliders-Adv S Ovl Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Ovl Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="128"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd1ec3e4e-0aee-4876-8616-9c1d7e728713" id="sjasg" componentName="Sliders-Adv S Crcl" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Crcl" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="127"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w15f2957d-03ba-404e-9a36-ffe25d9b2751" id="ixuud" componentName="Sliders-Adv S Crcl Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Crcl Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="126"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w226a36f0-6201-41da-af2a-b9494f1f0a5f" id="tsele" componentName="Sliders-Adv S Crcl Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Adv S Crcl Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="125"></ch5-template>
+<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w325bd2f6-fe29-46d6-90c5-db7255d3b559" id="ig6ma" componentName="Slider Attributes" ccid_ComponentType="Widget" ccid_WidgetName="Slider Attributes" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="ii8rf" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa01dbb5f-e19d-42d7-a583-03d7b457ac30" id="gkkqk" componentName="Sliders-Adv S Rec" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Rec" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="136"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w56561fa5-3ec3-49ea-aab7-7fd47a968425" id="puisi" componentName="Sliders-Adv S Rec Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Rec Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="135"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2b569f05-5306-4440-81b3-6aa4f2483855" id="swogq" componentName="Sliders-Adv S Rec Ticks Tools" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Rec Ticks Tools" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="134"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w091642c9-b4ad-4568-96d4-540ae0b65c38" id="exdiy" componentName="Sliders-Adv S R-Rec" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S R-Rec" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="133"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wdb001455-47c1-4dd0-a2a8-2c790082f876" id="vhhdz" componentName="Sliders-Adv S R-Rec Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S R-Rec Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="132"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wf49f0105-fdcd-487f-a402-7b188e6d611a" id="rrnod" componentName="Sliders-Adv S R-Rec Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S R-Rec Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="131"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w4de4e862-5ceb-4716-adf3-3d89cdabc9e4" id="wvqbp" componentName="Sliders-Adv S Ovl" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Ovl" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="130"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wcf060a2e-5bd9-4448-9392-15b0a1fd810e" id="eqdtt" componentName="Sliders-Adv S Ovl Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Ovl Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="129"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w74034b79-4d05-444f-90d2-b8328f38c8ea" id="svhwl" componentName="Sliders-Adv S Ovl Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Ovl Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="128"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd1ec3e4e-0aee-4876-8616-9c1d7e728713" id="sjasg" componentName="Sliders-Adv S Crcl" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Crcl" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="127"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w15f2957d-03ba-404e-9a36-ffe25d9b2751" id="ixuud" componentName="Sliders-Adv S Crcl Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Crcl Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="126"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w226a36f0-6201-41da-af2a-b9494f1f0a5f" id="tsele" componentName="Sliders-Adv S Crcl Ticks Tool" ccid_ComponentType="Widget" ccid_WidgetName="Sliders-Fad S Crcl Ticks Tool" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="125"></ch5-template>
 
 {Css}
-@media (max-width: 99999px){#tsele{display:none;left:116px;top:0;position:absolute;z-index:96;}#ixuud{display:none;left:116px;top:0;position:absolute;z-index:97;}#sjasg{display:none;left:116px;top:0;position:absolute;z-index:98;}#svhwl{display:none;left:116px;top:0;position:absolute;z-index:99;}#eqdtt{display:none;left:116px;top:0;position:absolute;z-index:100;}#wvqbp{display:none;left:116px;top:0;position:absolute;z-index:101;}#rrnod{display:none;left:116px;top:0;position:absolute;z-index:102;}#vhhdz{display:none;left:116px;top:0;position:absolute;z-index:103;}#exdiy{display:none;left:116px;top:0;position:absolute;z-index:104;}#swogq{display:none;left:116px;top:0;position:absolute;z-index:105;}#puisi{display:none;left:116px;top:0;position:absolute;z-index:106;}#gkkqk{display:none;left:116px;top:0;position:absolute;z-index:107;}#ii8rf{display:block;left:0;top:0;position:absolute;z-index:109;}#ih0a4{display:block;left:765px;top:590px;position:absolute;z-index:108;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ii8rf{display:block;left:0;top:0;position:absolute;z-index:109;}#ih0a4{display:block;left:765px;top:590px;position:absolute;z-index:108;}}
+@media (max-width: 99999px){#tsele{display:none;left:116px;top:0;position:absolute;z-index:124;}#ixuud{display:none;left:116px;top:0;position:absolute;z-index:125;}#sjasg{display:none;left:116px;top:0;position:absolute;z-index:126;}#svhwl{display:none;left:116px;top:0;position:absolute;z-index:127;}#eqdtt{display:none;left:116px;top:0;position:absolute;z-index:128;}#wvqbp{display:none;left:116px;top:0;position:absolute;z-index:129;}#rrnod{display:none;left:116px;top:0;position:absolute;z-index:130;}#vhhdz{display:none;left:116px;top:0;position:absolute;z-index:131;}#exdiy{display:none;left:116px;top:0;position:absolute;z-index:132;}#swogq{display:none;left:116px;top:0;position:absolute;z-index:133;}#puisi{display:none;left:116px;top:0;position:absolute;z-index:134;}#gkkqk{display:none;left:116px;top:0;position:absolute;z-index:135;}#ii8rf{display:block;left:0;top:0;position:absolute;z-index:137;}#ig6ma{display:block;left:765px;top:590px;position:absolute;z-index:138;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ii8rf{display:block;left:0;top:0;position:absolute;z-index:137;}#ig6ma{display:block;left:765px;top:590px;position:absolute;z-index:138;}}
 
 {PageAttributes}
 
@@ -37,6 +37,18 @@ Type = "Ch5 Template"
 [Elements.Attributes]
 transitionduration = "1s"
 transitiondelay = "0s"
+templateid = "w325bd2f6-fe29-46d6-90c5-db7255d3b559"
+id = "ig6ma"
+componentName = "Slider Attributes"
+ccid_ComponentType = "Widget"
+ccid_WidgetName = "Slider Attributes"
+devicesVisited = "[\"TSW-1070\"]"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
 templateid = "w2e3f1caf-9fde-4031-ab72-59ca643cfb70"
 id = "ii8rf"
 componentName = "NavBar"
@@ -49,23 +61,11 @@ Type = "Ch5 Template"
 [Elements.Attributes]
 transitionduration = "1s"
 transitiondelay = "0s"
-templateid = "w325bd2f6-fe29-46d6-90c5-db7255d3b559"
-id = "ih0a4"
-componentName = "Advance Slider Features"
-ccid_ComponentType = "Widget"
-ccid_WidgetName = "Advance Slider Features"
-devicesVisited = "[\"TSW-1070\"]"
-[[Elements]]
-Type = "Ch5 Template"
-
-[Elements.Attributes]
-transitionduration = "1s"
-transitiondelay = "0s"
 templateid = "wa01dbb5f-e19d-42d7-a583-03d7b457ac30"
 id = "gkkqk"
 componentName = "Sliders-Adv S Rec"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Rec"
+ccid_WidgetName = "Sliders-Fad S Rec"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "136"
 [[Elements]]
@@ -78,7 +78,7 @@ templateid = "w56561fa5-3ec3-49ea-aab7-7fd47a968425"
 id = "puisi"
 componentName = "Sliders-Adv S Rec Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Rec Tool"
+ccid_WidgetName = "Sliders-Fad S Rec Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "135"
 [[Elements]]
@@ -91,7 +91,7 @@ templateid = "w2b569f05-5306-4440-81b3-6aa4f2483855"
 id = "swogq"
 componentName = "Sliders-Adv S Rec Ticks Tools"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Rec Ticks Tools"
+ccid_WidgetName = "Sliders-Fad S Rec Ticks Tools"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "134"
 [[Elements]]
@@ -104,7 +104,7 @@ templateid = "w091642c9-b4ad-4568-96d4-540ae0b65c38"
 id = "exdiy"
 componentName = "Sliders-Adv S R-Rec"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S R-Rec"
+ccid_WidgetName = "Sliders-Fad S R-Rec"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "133"
 [[Elements]]
@@ -117,7 +117,7 @@ templateid = "wdb001455-47c1-4dd0-a2a8-2c790082f876"
 id = "vhhdz"
 componentName = "Sliders-Adv S R-Rec Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S R-Rec Tool"
+ccid_WidgetName = "Sliders-Fad S R-Rec Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "132"
 [[Elements]]
@@ -130,7 +130,7 @@ templateid = "wf49f0105-fdcd-487f-a402-7b188e6d611a"
 id = "rrnod"
 componentName = "Sliders-Adv S R-Rec Ticks Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S R-Rec Ticks Tool"
+ccid_WidgetName = "Sliders-Fad S R-Rec Ticks Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "131"
 [[Elements]]
@@ -143,7 +143,7 @@ templateid = "w4de4e862-5ceb-4716-adf3-3d89cdabc9e4"
 id = "wvqbp"
 componentName = "Sliders-Adv S Ovl"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Ovl"
+ccid_WidgetName = "Sliders-Fad S Ovl"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "130"
 [[Elements]]
@@ -156,7 +156,7 @@ templateid = "wcf060a2e-5bd9-4448-9392-15b0a1fd810e"
 id = "eqdtt"
 componentName = "Sliders-Adv S Ovl Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Ovl Tool"
+ccid_WidgetName = "Sliders-Fad S Ovl Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "129"
 [[Elements]]
@@ -169,7 +169,7 @@ templateid = "w74034b79-4d05-444f-90d2-b8328f38c8ea"
 id = "svhwl"
 componentName = "Sliders-Adv S Ovl Ticks Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Ovl Ticks Tool"
+ccid_WidgetName = "Sliders-Fad S Ovl Ticks Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "128"
 [[Elements]]
@@ -182,7 +182,7 @@ templateid = "wd1ec3e4e-0aee-4876-8616-9c1d7e728713"
 id = "sjasg"
 componentName = "Sliders-Adv S Crcl"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Crcl"
+ccid_WidgetName = "Sliders-Fad S Crcl"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "127"
 [[Elements]]
@@ -195,7 +195,7 @@ templateid = "w15f2957d-03ba-404e-9a36-ffe25d9b2751"
 id = "ixuud"
 componentName = "Sliders-Adv S Crcl Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Crcl Tool"
+ccid_WidgetName = "Sliders-Fad S Crcl Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "126"
 [[Elements]]
@@ -208,7 +208,7 @@ templateid = "w226a36f0-6201-41da-af2a-b9494f1f0a5f"
 id = "tsele"
 componentName = "Sliders-Adv S Crcl Ticks Tool"
 ccid_ComponentType = "Widget"
-ccid_WidgetName = "Sliders-Adv S Crcl Ticks Tool"
+ccid_WidgetName = "Sliders-Fad S Crcl Ticks Tool"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "125"
 
