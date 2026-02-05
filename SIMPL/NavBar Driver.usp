@@ -2,7 +2,7 @@ Digital_Input SelectButtonsPressed;
 Digital_Input SelectSlidersAdvancedPressed;
 Digital_Input SelectSlidersFaderPressed;
 Digital_Input SelectSlidersGaugePressed;
-Digital_Input SelectSlidersMinMaxPressed;
+Digital_Input SelectSlidersRangePressed;
 Digital_Input SelectTabsPressed;
 Digital_Input SelectTogglesPressed;
 
@@ -11,7 +11,7 @@ Digital_Output SelectButtonsSelected;
 Digital_Output SelectSlidersAdvancedSelected;
 Digital_Output SelectSlidersFaderSelected;
 Digital_Output SelectSlidersGaugeSelected;
-Digital_Output SelectSlidersMinMaxSelected;
+Digital_Output SelectSlidersRangeSelected;
 Digital_Output SelectTabsSelected;
 Digital_Output SelectTogglesSelected;
 
@@ -21,7 +21,7 @@ String_Output ButtonTitle;
 String_Output SliderAdvancedTitle;
 String_Output SliderFaderTitle;
 String_Output SliderGaugeTitle;
-String_Output SliderMinMaxTitle;
+String_Output SliderRangeTitle;
 String_Output TabTitle;
 String_Output ToggleTitle;
 
@@ -32,7 +32,7 @@ Function UnselectAll(){
 	SelectSlidersAdvancedSelected = 0;
 	SelectSlidersFaderSelected = 0;
 	SelectSlidersGaugeSelected = 0;
-	SelectSlidersMinMaxSelected = 0;
+	SelectSlidersRangeSelected = 0;
 	SelectTabsSelected = 0;
 	SelectTogglesSelected = 0;
 }
@@ -42,7 +42,7 @@ Push SelectButtonsPressed
 Push SelectSlidersAdvancedPressed 
 Push SelectSlidersFaderPressed 
 Push SelectSlidersGaugePressed 
-Push SelectSlidersMinMaxPressed 
+Push SelectSlidersRangePressed 
 Push SelectTabsPressed 
 Push SelectTogglesPressed {
 	UnselectAll();
@@ -58,8 +58,8 @@ Push SelectTogglesPressed {
 	} Else If (SelectSlidersGaugePressed = 1) {
 		SelectSlidersGaugeSelected = 1;	
 		CurrentSelection = 2;
-	} Else If (SelectSlidersMinMaxPressed = 1) {
-		SelectSlidersMinMaxSelected = 1;	
+	} Else If (SelectSlidersRangePressed = 1) {
+		SelectSlidersRangeSelected = 1;	
 		CurrentSelection = 2;
 	} Else If (SelectTabsPressed = 1) {
 		SelectTabsSelected = 1;	
@@ -77,7 +77,7 @@ Function Main() {
 	SliderAdvancedTitle = "Sliders<br/>Advanced";
 	SliderFaderTitle = "Sliders<br/>Fader";
 	SliderGaugeTitle = "Sliders<br/>Gauge";
-	SliderMinMaxTitle = "Sliders<br/>Min/Max";
+	SliderRangeTitle = "Sliders<br/>Min/Max";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
 }

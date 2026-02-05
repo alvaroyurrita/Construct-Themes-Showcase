@@ -1,0 +1,569 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2026-02-02 14:40:47.102084-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2026-02-02 14:40:47.10208-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="ikpwtq7o9r" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="ijiigbtkpjrgf" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="izpt">X-Large</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="i8rxlkr5eih0v" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="izn1">Large</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="iz5obbhujcxjj" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ikbb">Regular</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="i6k1zehxjbzci" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihvh">Small</div><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="ixfbigz9s9fe1" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iyn8">X-Small</div><ch5-slider nohandle="false" size="x-large" orientation="vertical" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="ie1ohr3nt13m6" componentname="Slider_4" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="range" range="true" oldid="iuui" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="vertical" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="ittiqc07ix8yg" componentname="Slider_3" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="range" range="true" oldid="i544" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="vertical" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="iepz758hiktoj" componentname="Slider_2" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="range" range="true" oldid="i0x7" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="vertical" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="iqdp4v8gtvp8b" componentname="Slider_1" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="range" range="true" oldid="iigo" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="vertical" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="ilxiywt6kr7zq" componentname="Slider" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="range" range="true" oldid="ij5d" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="i74ef0f9jskse" componentname="Slider_14" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="range" range="true" oldid="is2x" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="iptnwq8rlldjs" componentname="Slider_13" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="range" range="true" oldid="ijqh" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="iv22tvpm6o5ft" componentname="Slider_12" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="range" range="true" oldid="i01v" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="iq4nazcw71wte" componentname="Slider_11" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="range" range="true" oldid="in8n" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rectangle" handlesize="x-small" tooltipshowtype="off" tooltipdisplaytype="%" value="50" slidertype="range" customvstheme="theme" id="ihbbpnrg3bf3p" componentname="Slider_10" ccid_linksendreceive="True" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="range" range="true" oldid="ig6z" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="10" showtickvalues="false"></ch5-slider><div data-mytext="myText" componentname="Html-text_15" ccid_componenttype="Html-text" id="iqahoh30sw8hi" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iyt7">X-Large</div><div data-mytext="myText" componentname="Html-text_14" ccid_componenttype="Html-text" id="ibj1ujf8s4xe3" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="icoj">Large</div><div data-mytext="myText" componentname="Html-text_13" ccid_componenttype="Html-text" id="ipb1qk98irjrq" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="im3w">Regular</div><div data-mytext="myText" componentname="Html-text_12" ccid_componenttype="Html-text" id="i2ur22pah9xsz" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="irqe">Small</div><div data-mytext="myText" componentname="Html-text_11" ccid_componenttype="Html-text" id="imx5l4hrjvoe2" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ij63">X-Small</div><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="ikaqzqiwq09wv" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ihxw">Sliders Range Rectangle X-Small Handle&nbsp;</div></div>
+
+{Css}
+@media (max-width: 99999px) { #ikpwtq7o9r { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #izxkxzewhs6ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip8xwmq7hcgcv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8n68ah8jccni .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ioqyrr4toadmj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i9xgjbvv4vluj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i24upna624j9t .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ihdq4ivuqb2nl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #io9hkdn0w3gwd .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ir8zq986n65xh .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3dst03rp2jho .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibd55hx4577jw .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i77tqhfg2s5ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3of2jw8l0j4v .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ifsxjosinj53e .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ig6z .ch5-slider :not(i):not(svg) { font-family: Roboto } #ig6z .noUi-touch-area { slidertouchareapadding_padding: 0px } #ihbbpnrg3bf3p { width: 200px; height: 61px; display: block; left: 98px; top: 109px; position: absolute; z-index: 606 } #in8n .ch5-slider :not(i):not(svg) { font-family: Roboto } #in8n .noUi-touch-area { slidertouchareapadding_padding: 0px } #iq4nazcw71wte { width: 250px; height: 61px; display: block; left: 98px; top: 254px; position: absolute; z-index: 607 } #i01v .ch5-slider :not(i):not(svg) { font-family: Roboto } #i01v .noUi-touch-area { slidertouchareapadding_padding: 0px } #iv22tvpm6o5ft { width: 300px; height: 61px; display: block; left: 98px; top: 399px; position: absolute; z-index: 608 } #ijqh .ch5-slider :not(i):not(svg) { font-family: Roboto } #ijqh .noUi-touch-area { slidertouchareapadding_padding: 0px } #iptnwq8rlldjs { width: 426px; height: 45px; display: block; left: 98px; top: 544px; position: absolute; z-index: 609 } #is2x .ch5-slider :not(i):not(svg) { font-family: Roboto } #is2x .noUi-touch-area { slidertouchareapadding_padding: 0px } #i74ef0f9jskse { width: 526px; height: 45px; display: block; left: 98px; top: 689px; position: absolute; z-index: 610 } #ij5d .ch5-slider :not(i):not(svg) { font-family: Roboto } #ij5d .noUi-touch-area { slidertouchareapadding_padding: 0px } #ilxiywt6kr7zq { width: 35px; height: 200px; display: block; left: 459px; top: 102px; position: absolute; z-index: 611 } #iigo .ch5-slider :not(i):not(svg) { font-family: Roboto } #iigo .noUi-touch-area { slidertouchareapadding_padding: 0px } #iqdp4v8gtvp8b { width: 35px; height: 250px; display: block; left: 602px; top: 102px; position: absolute; z-index: 612 } #i0x7 .ch5-slider :not(i):not(svg) { font-family: Roboto } #i0x7 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iepz758hiktoj { width: 35px; height: 300px; display: block; left: 745px; top: 102px; position: absolute; z-index: 613 } #i544 .ch5-slider :not(i):not(svg) { font-family: Roboto } #i544 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ittiqc07ix8yg { width: 25px; height: 445px; display: block; left: 888px; top: 102px; position: absolute; z-index: 614 } #iuui .ch5-slider :not(i):not(svg) { font-family: Roboto } #iuui .noUi-touch-area { slidertouchareapadding_padding: 0px } #ie1ohr3nt13m6 { width: 25px; height: 545px; display: block; left: 1030px; top: 102px; position: absolute; z-index: 615 } #ikaqzqiwq09wv { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 324px; top: 20px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 600 } #imx5l4hrjvoe2 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 15px; top: 125px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 601 } #i2ur22pah9xsz { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 15px; top: 270px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 602 } #ipb1qk98irjrq { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 15px; top: 415px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 603 } #ibj1ujf8s4xe3 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 15px; top: 560px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 604 } #iqahoh30sw8hi { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 15px; top: 705px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 605 } #ihbbpnrg3bf3p .ch5-slider :not(i):not(svg) { font-family: Roboto } #iq4nazcw71wte .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iv22tvpm6o5ft .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iptnwq8rlldjs .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i74ef0f9jskse .ch5-slider :not(i):not(svg) { font-family: Roboto } #ilxiywt6kr7zq .ch5-slider .ch5-title-container { width: 35px } #ilxiywt6kr7zq .ch5-slider :not(i):not(svg) { font-family: Roboto } #iqdp4v8gtvp8b .ch5-slider .ch5-title-container { width: 35px } #iqdp4v8gtvp8b .ch5-slider :not(i):not(svg) { font-family: Roboto } #iepz758hiktoj .ch5-slider .ch5-title-container { width: 35px } #iepz758hiktoj .ch5-slider :not(i):not(svg) { font-family: Roboto } #ittiqc07ix8yg .ch5-slider .ch5-title-container { width: 35px } #ittiqc07ix8yg .ch5-slider :not(i):not(svg) { font-family: Roboto } #ie1ohr3nt13m6 .ch5-slider .ch5-title-container { width: 35px } #ie1ohr3nt13m6 .ch5-slider :not(i):not(svg) { font-family: Roboto } #ixfbigz9s9fe1 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 441px; top: 63px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 616 } #i6k1zehxjbzci { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 594px; top: 63px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 617 } #iz5obbhujcxjj { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 727px; top: 63px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 618 } #i8rxlkr5eih0v { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 880px; top: 63px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 619 } #ijiigbtkpjrgf { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 1012px; top: 63px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 620 } #ihbbpnrg3bf3p .ch5-slider .ch5-title-container { width: 200px } #iq4nazcw71wte .ch5-slider .ch5-title-container { width: 250px } #iv22tvpm6o5ft .ch5-slider .ch5-title-container { width: 300px } #iptnwq8rlldjs .ch5-slider .ch5-title-container { width: 200px } #i74ef0f9jskse .ch5-slider .ch5-title-container { width: undefined } #wrapper { background-color: #ffffff } .widget-container { z-index: 0 } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #ikpwtq7o9r { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #ipku { display: block } #iu3m { display: block } #icn0 { display: block } #ihbbpnrg3bf3p { width: 200px; height: 61px; display: block; left: 98px; top: 109px; position: absolute; z-index: 606 } #inoa { display: block } #isa1 { display: block } #ijyd { display: block } #iq4nazcw71wte { width: 250px; height: 61px; display: block; left: 98px; top: 254px; position: absolute; z-index: 607 } #i73q { display: block } #im4v { display: block } #iokg { display: block } #iv22tvpm6o5ft { width: 300px; height: 61px; display: block; left: 98px; top: 399px; position: absolute; z-index: 608 } #ixtb { display: block } #iwkk { display: block } #iine { display: block } #iptnwq8rlldjs { width: 426px; height: 45px; display: block; left: 98px; top: 544px; position: absolute; z-index: 609 } #ic5f { display: block } #ilzz { display: block } #i3km { display: block } #i74ef0f9jskse { width: 526px; height: 45px; display: block; left: 98px; top: 689px; position: absolute; z-index: 610 } #iguu { display: block } #i1m8 { display: block } #inpn { display: block } #ilxiywt6kr7zq { width: 35px; height: 200px; display: block; left: 459px; top: 102px; position: absolute; z-index: 611 } #i3q7 { display: block } #iojx { display: block } #idam { display: block } #iqdp4v8gtvp8b { width: 35px; height: 250px; display: block; left: 602px; top: 102px; position: absolute; z-index: 612 } #igtd { display: block } #idok { display: block } #iosa { display: block } #iepz758hiktoj { width: 35px; height: 300px; display: block; left: 745px; top: 102px; position: absolute; z-index: 613 } #i04a { display: block } #ifd6 { display: block } #ir2c { display: block } #ittiqc07ix8yg { width: 25px; height: 445px; display: block; left: 888px; top: 102px; position: absolute; z-index: 614 } #i6yz { display: block } #iylf { display: block } #iux5 { display: block } #ie1ohr3nt13m6 { width: 25px; height: 545px; display: block; left: 1030px; top: 102px; position: absolute; z-index: 615 } #ikaqzqiwq09wv { left: 324px; z-index: 600 } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Sliders-Rng XS Rec"
+PageMode = "absolute"
+Id = "a7462aa6-c939-4ee9-8a43-1bb82ef412d3"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_4"
+ccid_ComponentType = "Html-text"
+id = "ijiigbtkpjrgf"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "izpt"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_3"
+ccid_ComponentType = "Html-text"
+id = "i8rxlkr5eih0v"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "izn1"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_2"
+ccid_ComponentType = "Html-text"
+id = "iz5obbhujcxjj"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ikbb"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_1"
+ccid_ComponentType = "Html-text"
+id = "i6k1zehxjbzci"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihvh"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text"
+ccid_ComponentType = "Html-text"
+id = "ixfbigz9s9fe1"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iyn8"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "ie1ohr3nt13m6"
+componentName = "Slider_4"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "advanced"
+range = "true"
+oldID = "iuui"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "ittiqc07ix8yg"
+componentName = "Slider_3"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "advanced"
+range = "true"
+oldID = "i544"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "iepz758hiktoj"
+componentName = "Slider_2"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "advanced"
+range = "true"
+oldID = "i0x7"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "iqdp4v8gtvp8b"
+componentName = "Slider_1"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "advanced"
+range = "true"
+oldID = "iigo"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "ilxiywt6kr7zq"
+componentName = "Slider"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "advanced"
+range = "true"
+oldID = "ij5d"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "i74ef0f9jskse"
+componentName = "Slider_14"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "advanced"
+range = "true"
+oldID = "is2x"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "iptnwq8rlldjs"
+componentName = "Slider_13"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousslidertype = "range"
+range = "true"
+oldID = "ijqh"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "iv22tvpm6o5ft"
+componentName = "Slider_12"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousslidertype = "range"
+range = "true"
+oldID = "i01v"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "iq4nazcw71wte"
+componentName = "Slider_11"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousslidertype = "range"
+range = "true"
+oldID = "in8n"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "Ch5 Slider"
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rectangle"
+handlesize = "x-small"
+tooltipshowtype = "off"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "range"
+customvstheme = "theme"
+id = "ihbbpnrg3bf3p"
+componentName = "Slider_10"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "advanced"
+range = "true"
+oldID = "ig6z"
+ccid_ActiveFont = "'Roboto'"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "10"
+showtickvalues = "false"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_15"
+ccid_ComponentType = "Html-text"
+id = "iqahoh30sw8hi"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iyt7"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_14"
+ccid_ComponentType = "Html-text"
+id = "ibj1ujf8s4xe3"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "icoj"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_13"
+ccid_ComponentType = "Html-text"
+id = "ipb1qk98irjrq"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "im3w"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_12"
+ccid_ComponentType = "Html-text"
+id = "i2ur22pah9xsz"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "irqe"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_11"
+ccid_ComponentType = "Html-text"
+id = "imx5l4hrjvoe2"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ij63"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Sliders Range Rectangle X-Small Handle&nbsp;"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_7"
+ccid_ComponentType = "Html-text"
+id = "ikaqzqiwq09wv"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihxw"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "ikpwtq7o9r"
+devicesVisited = "[\"TSW-1070\"]"
+defaultWidth = "975px"
+defaultHeight = "800px"
+
