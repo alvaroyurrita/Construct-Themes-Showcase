@@ -12,7 +12,11 @@ Use it to test your themes and ensure they work as expected across all UI elemen
 > [!WARNING]
 > Do not load the CH5z in an actual touchpanel. The contents are too large, and the panel won't be able to handle it.  Download the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
 
-# Issues found while working on this projects
+# Observations found while working on this projects
+
+## SIMPL Contracts
+
+It would have been nice to be able to assign certain cotracts as global.  IT appears that when assigning a widget to a page, the contracts generated are per page. I can see how that is important when the elements of a widget are buttons, butn when the element is something like a nav bar, that is used in several pages at once, a new contract is generated in simple under each page, which means the signals need to be duplicated between contracts.  A global setting, would bubble the contract to the top, so the signals would only need to be created and maintained in one place.
 
 
 

@@ -1,27 +1,18 @@
 Digital_Input SelectButtonsPressed;
-Digital_Input SelectSlidersAdvancedPressed;
-Digital_Input SelectSlidersFaderPressed;
-Digital_Input SelectSlidersGaugePressed;
-Digital_Input SelectSlidersRangePressed;
+Digital_Input SelectSlidersPressed;
 Digital_Input SelectTabsPressed;
 Digital_Input SelectTogglesPressed;
 
 
 Digital_Output SelectButtonsSelected;
-Digital_Output SelectSlidersAdvancedSelected;
-Digital_Output SelectSlidersFaderSelected;
-Digital_Output SelectSlidersGaugeSelected;
-Digital_Output SelectSlidersRangeSelected;
+Digital_Output SelectSlidersSelected;
 Digital_Output SelectTabsSelected;
 Digital_Output SelectTogglesSelected;
 
 Analog_Output NumberOfButtons;
 
 String_Output ButtonTitle;
-String_Output SliderAdvancedTitle;
-String_Output SliderFaderTitle;
-String_Output SliderGaugeTitle;
-String_Output SliderRangeTitle;
+String_Output SliderTitle;
 String_Output TabTitle;
 String_Output ToggleTitle;
 
@@ -29,37 +20,22 @@ integer CurrentSelection;
 
 Function UnselectAll(){
 	SelectButtonsSelected = 0;
-	SelectSlidersAdvancedSelected = 0;
-	SelectSlidersFaderSelected = 0;
-	SelectSlidersGaugeSelected = 0;
-	SelectSlidersRangeSelected = 0;
+	SelectSlidersSelected = 0;
 	SelectTabsSelected = 0;
 	SelectTogglesSelected = 0;
 }
 
 
 Push SelectButtonsPressed 
-Push SelectSlidersAdvancedPressed 
-Push SelectSlidersFaderPressed 
-Push SelectSlidersGaugePressed 
-Push SelectSlidersRangePressed 
+Push SelectSlidersPressed 
 Push SelectTabsPressed 
 Push SelectTogglesPressed {
 	UnselectAll();
 	If (SelectButtonsPressed = 1) {
 		SelectButtonsSelected = 1;	
 		CurrentSelection = 1;
-	} Else If (SelectSlidersAdvancedPressed = 1) {
-		SelectSlidersAdvancedSelected = 1;	
-		CurrentSelection = 2;
-	} Else If (SelectSlidersFaderPressed = 1) {
-		SelectSlidersFaderSelected = 1;	
-		CurrentSelection = 2;
-	} Else If (SelectSlidersGaugePressed = 1) {
-		SelectSlidersGaugeSelected = 1;	
-		CurrentSelection = 2;
-	} Else If (SelectSlidersRangePressed = 1) {
-		SelectSlidersRangeSelected = 1;	
+	} Else If (SelectSlidersPressed = 1) {
+		SelectSlidersSelected = 1;	
 		CurrentSelection = 2;
 	} Else If (SelectTabsPressed = 1) {
 		SelectTabsSelected = 1;	
@@ -71,13 +47,10 @@ Push SelectTogglesPressed {
 }
 
 Function Main() {
-	NumberOfButtons = 7;
+	NumberOfButtons = 4;
 	SelectButtonsSelected = 1;
 	ButtonTitle = "Buttons";
-	SliderAdvancedTitle = "Sliders<br/>Advanced";
-	SliderFaderTitle = "Sliders<br/>Fader";
-	SliderGaugeTitle = "Sliders<br/>Gauge";
-	SliderRangeTitle = "Sliders<br/>Range";
+	SliderTitle = "Sliders";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
 }
