@@ -133,16 +133,15 @@ Function Main() {
 	NumberOfShapesButtons = 3;
 	NumberOfFeaturesButtons = 3;
 
-	SelectRectangleSelected = 1;
 	ShapeSelected = 2;
 	RoundRectangleTitle = "Round Rectangle";
 	RectangleTitle = "Rectangle";
 	TabTitle = "Tab";
+	SetShape();
 
-	SelectSimpleSelected = 1;
 	FeatureSelected = 1;
 	SimpleTitle = "Simple";
 	IconsTitle = "Icons";
 	IconsTextTitle = "Icons + Text";
-	SelectWidget();
+	SetFeature();
 }

@@ -1,53 +1,102 @@
+Digital_Input SelectAnimationPressed;
 Digital_Input SelectButtonsPressed;
+Digital_Input SelectDpadsPressed;
+Digital_Input SelectKeypadsPressed;
+Digital_Input SelectMediaPlayerPressed;
+Digital_Input SelectOtherPressed;
 Digital_Input SelectSlidersPressed;
 Digital_Input SelectTabsPressed;
 Digital_Input SelectTogglesPressed;
-Digital_Input SelectDpasPressed;
+Digital_Input SelectVideoPressed;
+Digital_Input SelectVideoSwitcherPressed;
 
 
+Digital_Output SelectAnimationSelected;
 Digital_Output SelectButtonsSelected;
+Digital_Output SelectDpadsSelected;
+Digital_Output SelectKeypadSelected;
+Digital_Output SelectMediaPlayerSelected;
+Digital_Output SelectOtherSelected;
 Digital_Output SelectSlidersSelected;
 Digital_Output SelectTabsSelected;
 Digital_Output SelectTogglesSelected;
-Digital_Output SelectDpadSelected;
+Digital_Output SelectVideoSelected;
+Digital_Output SelectVideoSwitcherSelected;
+
 
 Analog_Output NumberOfButtons;
 
+String_Output AnimationTitle;
 String_Output ButtonTitle;
+String_Output DpadTitle;
+String_Output KeypadTitle;
+String_Output MediaPlayerTitle;
+String_Output OtherTitle;
 String_Output SliderTitle;
 String_Output TabTitle;
 String_Output ToggleTitle;
-String_Output DpadTitle;
+String_Output VideoTitle;
+String_Output VideoSwitcherTitle;
 
 integer CurrentSelection;
 
 Function UnselectAll() {
+	SelectAnimationSelected = 0;
 	SelectButtonsSelected = 0;
+	SelectDpadsSelected = 0;
+	SelectKeypadSelected = 0;
+	SelectMediaPlayerSelected = 0;
+	SelectOtherSelected = 0;
 	SelectSlidersSelected = 0;
 	SelectTabsSelected = 0;
 	SelectTogglesSelected = 0;
-	SelectDpadSelected = 0;
+	SelectVideoSelected = 0;
+	SelectVideoSwitcherSelected = 0;
 }
 Function SelectSection() {
 	CSwitch (CurrentSelection) {
 		Case (1): {
-			SelectButtonsSelected = 1;
+			SelectAnimationSelected = 1;
 			Break;
 		}
 		Case (2): {
-			SelectSlidersSelected = 1;
+			SelectButtonsSelected = 1;
 			Break;
 		}
 		Case (3): {
-			SelectTabsSelected = 1;
+			SelectDpadsSelected = 1;
 			Break;
 		}
 		Case (4): {
-			SelectTogglesSelected = 1;
+			SelectKeypadSelected = 1;
 			Break;
 		}
 		Case (5): {
-			SelectDpadSelected = 1;
+			SelectMediaPlayerSelected = 1;
+			Break;
+		}
+		Case (6): {
+			SelectOtherSelected = 1;
+			Break;
+		}
+		Case (7): {
+			SelectSlidersSelected = 1;
+			Break;
+		}
+		Case (8): {
+			SelectTabsSelected = 1;
+			Break;
+		}
+		Case (9): {
+			SelectTogglesSelected = 1;
+			Break;
+		}
+		Case (10): {
+			SelectVideoSelected = 1;
+			Break;
+		}
+		Case (11): {
+			SelectVideoSwitcherSelected = 1;
 			Break;
 		}
 	}
@@ -56,33 +105,63 @@ Function SetSection(){
 	UnselectAll();
 	SelectSection();
 }
-Push SelectButtonsPressed {
+Push SelectAnimationPressed{
 	CurrentSelection = 1;
 	SetSection();
 }
-Push SelectSlidersPressed {
+Push SelectButtonsPressed{
 	CurrentSelection = 2;
 	SetSection();
 }
-Push SelectTabsPressed {
+Push SelectDpadsPressed{
 	CurrentSelection = 3;
 	SetSection();
 }
-Push SelectTogglesPressed {
+Push SelectKeypadsPressed{
 	CurrentSelection = 4;
 	SetSection();
 }
-Push SelectDpasPressed {
+Push SelectMediaPlayerPressed{
 	CurrentSelection = 5;
+	SetSection();
+}
+Push SelectOtherPressed{
+	CurrentSelection = 6;
+	SetSection();
+}
+Push SelectSlidersPressed{
+	CurrentSelection = 7;
+	SetSection();
+}
+Push SelectTabsPressed{
+	CurrentSelection = 8;
+	SetSection();
+}
+Push SelectTogglesPressed{
+	CurrentSelection = 9;
+	SetSection();
+}
+Push SelectVideoPressed{
+	CurrentSelection = 10;
+	SetSection();
+}
+Push SelectVideoSwitcherPressed{
+	CurrentSelection = 11;
 	SetSection();
 }
 
 Function Main() {
-	NumberOfButtons = 5;
-	SelectButtonsSelected = 1;
+	NumberOfButtons = 11;
+	SelectButtonsSelected = 2;
+	AnimationTitle = "Animations";
 	ButtonTitle = "Buttons";
+	DpadTitle = "Dpads";
+	KeypadTitle = "Keypads";
+	MediaPlayerTitle = "Media Player";
+	OtherTitle = "Other";
 	SliderTitle = "Sliders";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
-	DpadTitle = "Dpads";
+	VideoTitle = "Videos";
+	VideoSwitcherTitle = "Video Switchers";
 }

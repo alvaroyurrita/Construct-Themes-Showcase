@@ -153,18 +153,17 @@ Function Main() {
 	NumberOfShapesButtons = 5;
 	NumberOfFeaturesButtons = 3;
 
-	SelectRoundRectangleSelected = 1;
 	ShapeSelected = 1;
 	RoundRectangleTitle = "Round Rectangle";
 	CircleTitle = "Circle";
 	RectangleTitle = "Rectangle";
 	TabTitle = "Tab";
 	OvalTitle = "Oval";
+	SetShape();
 
-	SelectSimpleSelected = 1;
 	FeatureSelected = 1;
 	SimpleTitle = "Simple";
 	IconsTitle = "Icons";
 	IconsTextTitle = "Icons + Text";
-	SelectWidget();
+	SetFeature();
 }

@@ -1,0 +1,126 @@
+Digital_Input SelectXXLargePressed;
+Digital_Input SelectXLargePressed;
+Digital_Input SelectLargePressed;
+Digital_Input SelectRegularPressed;
+Digital_Input SelectSmallPressed;
+Digital_Input SelectXSmallPressed;
+Digital_Input _SKIP_;
+
+
+Digital_Output SelectXXLargeSelected;
+Digital_Output SelectXLargeSelected;
+Digital_Output SelectLargeSelected;
+Digital_Output SelectRegularSelected;
+Digital_Output SelectSmallSelected;
+Digital_Output SelectXSmallSelected;
+Digital_Output _SKIP_;
+Digital_Output Widgets[6];
+Digital_Output _SKIP_;
+Analog_Output NumberOfSizeButtons;
+String_Output _SKIP_;
+String_Output XXLargeTitle;
+String_Output XLargeTitle;
+String_Output LargeTitle;
+String_Output RegularTitle;
+String_Output SmallTitle;
+String_Output XSmallTitle;
+
+Integer SizeSelected;
+
+
+Function SelectWidget() {
+	Integer selectedWidget, i;
+
+	selectedWidget = SizeSelected;
+	For (i = 1 to 6) {
+		If (i = selectedWidget) {
+			Widgets[i] = 1;
+		}
+		Else {
+			Widgets[i] = 0;
+		}
+	}
+}
+
+// #Region Shape
+Function UnselectAllSizeButtons() {
+	SelectXXLargeSelected = 0;
+	SelectXLargeSelected = 0;
+	SelectLargeSelected = 0;
+	SelectRegularSelected = 0;
+	SelectSmallSelected = 0;
+	SelectXSmallSelected = 0;
+}
+Function SetSizeButtons() {
+	CSwitch (SizeSelected) {
+		Case (1): {
+			SelectXXLargeSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectXLargeSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectLargeSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectRegularSelected = 1;
+			Break;
+		}
+		Case (5): {
+			SelectSmallSelected = 1;
+			Break;
+		}
+		Case (6): {
+			SelectXSmallSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetSize() {
+	UnselectAllSizeButtons();
+	SetSizeButtons();
+	SelectWidget();
+}
+Push SelectXXLargePressed {
+	SizeSelected = 1;
+	SetSize();
+}
+Push SelectXLargePressed {
+	SizeSelected = 2;
+	SetSize();
+}
+Push SelectLargePressed {
+	SizeSelected = 3;
+	SetSize();
+}
+Push SelectRegularPressed {
+	SizeSelected = 4;
+	SetSize();
+}
+Push SelectSmallPressed {
+	SizeSelected = 5;
+	SetSize();
+}
+Push SelectXSmallPressed {
+	SizeSelected = 6;
+	SetSize();
+}
+// #EndRegion
+
+
+Function Main() {
+	NumberOfSizeButtons = 6;
+
+	SizeSelected = 1;
+	XXLargeTitle = "XX Large";
+	XLargeTitle = "XLarge";
+	LargeTitle = "Large";
+	RegularTitle = "Regular";
+	SmallTitle = "Small";
+	XSmallTitle = "X Small";
+
+	SetSize();
+}

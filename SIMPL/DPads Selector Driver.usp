@@ -109,14 +109,14 @@ Function Main() {
 	NumberOfShapesButtons = 2;
 	NumberOfTypesButtons = 2;
 
-	SelectPlusSelected = 1;
 	ShapeSelected = 1;
 	PlusTitle = "Plus";
 	CircleTitle = "Circle";
+	SetShape();
 
 	SelectType1Selected = 1;
 	TypeSelected = 1;
 	Type1Title = "Type 1";
 	Type2Title = "Type 2";
-	SelectWidget();
+	SetType();
 }
