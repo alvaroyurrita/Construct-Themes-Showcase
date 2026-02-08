@@ -1,0 +1,294 @@
+Digital_Input SelectSize1Pressed;
+Digital_Input SelectSize2Pressed;
+Digital_Input _SKIP_;
+Digital_Input SelectSquarePressed;
+Digital_Input SelectRoundRectanglePressed;
+Digital_Input SelectCirclePressed;
+Digital_Input _SKIP_;
+Digital_Input SelectDefaultPressed;
+Digital_Input SelectPrimaryPressed;
+Digital_Input SelectInfoPressed;
+Digital_Input SelectTextPressed;
+Digital_Input SelectDangerPressed;
+Digital_Input SelectWarningPressed;
+Digital_Input SelectSuccessPressed;
+Digital_Input SelectSecondaryPressed;
+Digital_Input _SKIP_;
+Digital_Input SelectKeypadSelected;
+
+
+Digital_Output SelectSize1Selected;
+Digital_Output SelectSize2Selected;
+Digital_Output _SKIP_;
+Digital_Output SelectSquareSelected;
+Digital_Output SelectRoundRectangleSelected;
+Digital_Output SelectCircleSelected;
+Digital_Output _SKIP_;
+Digital_Output SelectDefaultSelected;
+Digital_Output SelectPrimarySelected;
+Digital_Output SelectInfoSelected;
+Digital_Output SelectTextSelected;
+Digital_Output SelectDangerSelected;
+Digital_Output SelectWarningSelected;
+Digital_Output SelectSuccessSelected;
+Digital_Output SelectSecondarySelected;
+Digital_Output _SKIP_;
+Digital_Output Size1PageView;
+Digital_Output Size2PageView;
+Digital_Output _SKIP_;
+Digital_Output Widgets[24];
+Digital_Output _SKIP_;
+Analog_Output NumberOfSizeButtons;
+Analog_Output NumberOfShapeButtons;
+Analog_Output NumberOfTypeButtons;
+Analog_Output _SKIP_;
+String_Output KeyboardSize1Title;
+String_Output KeyboardSize2Title;
+String_Output _SKIP_;
+String_Output SquareTitle;
+String_Output RoundRectangleTitle;
+String_Output CircleTitle;
+String_Output _SKIP_;
+String_Output DefaultTitle;
+String_Output PrimaryTitle;
+String_Output InfoTitle;
+String_Output TextTitle;
+String_Output DangerTitle;
+String_Output WarningTitle;
+String_Output SuccessTitle;
+String_Output SecondaryTitle;
+
+Integer SizeSelected;
+Integer ShapeSelected;
+Integer TypeSelected;
+
+Function SelectWidget() {
+	Integer selectedWidget, i;
+
+	selectedWidget = (ShapeSelected - 1) * 8 + TypeSelected;
+	For (i = 1 to 24) {
+		If (i = selectedWidget) {
+			Widgets[i] = 1;
+		}
+		Else {
+			Widgets[i] = 0;
+		}
+	}
+}
+
+// #Region Size
+Function UnselectAllSizeButtons() {
+	SelectSize1Selected = 0;
+	SelectSize2Selected = 0;
+
+}
+Function ClearAllSizePages() {
+	Size1PageView = 0;
+	Size2PageView = 0;
+}
+Function SetSizePage() {
+	CSwitch (SizeSelected) {
+		Case (1): {
+			Size1PageView = 1;
+			Break;
+		}
+		Case (2): {
+			Size2PageView = 1;
+			Break;
+		}
+	}
+}
+Function SetSizeButtons() {
+	CSwitch (SizeSelected) {
+		Case (1): {
+			SelectSize1Selected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectSize2Selected = 1;
+			Break;
+		}
+
+	}
+}
+Function SetSize() {
+	UnselectAllSizeButtons();
+	SetSizeButtons();
+	ClearAllSizePages();
+	SetSizePage();
+	SelectWidget();
+}
+Push SelectSize1Pressed {
+	SizeSelected = 1;
+	SetSize();
+}
+Push SelectSize2Pressed {
+	SizeSelected = 2;
+	SetSize();
+}
+// #EndRegion
+
+// #Region Shape
+Function UnselectAllShapeButtons() {
+	SelectSquareSelected = 0;
+	SelectRoundRectangleSelected = 0;
+	SelectCircleSelected = 0;
+}
+Function SetShapeButtons() {
+	CSwitch (ShapeSelected) {
+		Case (1): {
+			SelectSquareSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectRoundRectangleSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectCircleSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetShape() {
+	UnselectAllShapeButtons();
+	SetShapeButtons();
+	SelectWidget();
+}
+Push SelectSquarePressed {
+	ShapeSelected = 1;
+	SetShape();
+}
+Push SelectRoundRectanglePressed {
+	ShapeSelected = 2;
+	SetShape();
+}
+Push SelectCirclePressed {
+	ShapeSelected = 3;
+	SetShape();
+}
+// #EndRegion
+
+// #Region Type
+Function UnselectAllTypeButtons() {
+	SelectDefaultSelected = 0;
+	SelectPrimarySelected = 0;
+	SelectInfoSelected = 0;
+	SelectTextSelected = 0;
+	SelectDangerSelected = 0;
+	SelectWarningSelected = 0;
+	SelectSuccessSelected = 0;
+	SelectSecondarySelected = 0;
+}
+Function SetTypeButtons() {
+	CSwitch (TypeSelected) {
+		Case (1): {
+			SelectDefaultSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectPrimarySelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectInfoSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectTextSelected = 1;
+			Break;
+		}
+		Case (5): {
+			SelectDangerSelected = 1;
+			Break;
+		}
+		Case (6): {
+			SelectWarningSelected = 1;
+			Break;
+		}
+		Case (7): {
+			SelectSuccessSelected = 1;
+			Break;
+		}
+		Case (8): {
+			SelectSecondarySelected = 1;
+			Break;
+		}
+	}
+}
+Function SetType() {
+	UnselectAllTypeButtons();
+	SetTypeButtons();
+	SelectWidget();
+}
+Push SelectDefaultPressed {
+	TypeSelected = 1;
+	SetType();
+}
+Push SelectPrimaryPressed {
+	TypeSelected = 2;
+	SetType();
+}
+Push SelectInfoPressed {
+	TypeSelected = 3;
+	SetType();
+}
+Push SelectTextPressed {
+	TypeSelected = 4;
+	SetType();
+}
+Push SelectDangerPressed {
+	TypeSelected = 5;
+	SetType();
+}
+Push SelectWarningPressed {
+	TypeSelected = 6;
+	SetType();
+}
+Push SelectSuccessPressed {
+	TypeSelected = 7;
+	SetType();
+}
+Push SelectSecondaryPressed {
+	TypeSelected = 8;
+	SetType();
+}
+// #EndRegion
+
+Push SelectKeypadSelected {
+	SetSize();
+	SetType();
+	SetShape();
+}
+
+Release SelectKeypadSelected {
+	UnselectAllTypeButtons();
+	ClearAllSizePages();
+	UnselectAllSizeButtons();
+}
+
+
+Function Main() {
+	NumberOfTypeButtons = 8;
+	NumberOfShapeButtons = 3;
+	NumberOfSizeButtons = 2;
+
+	SizeSelected = 1;
+	KeyboardSize1Title = "Size 1";
+	KeyboardSize2Title = "Size 2";
+
+	ShapeSelected = 1;
+	SquareTitle = "Square";
+	RoundRectangleTitle = "Round<br/>Rectangle";
+	CircleTitle = "Circle";
+
+	TypeSelected = 1;
+	DefaultTitle = "Default";
+	PrimaryTitle = "Primary";
+	InfoTitle = "Info";
+	TextTitle = "Text";
+	DangerTitle = "Danger";
+	WarningTitle = "Warning";
+	SuccessTitle = "Success";
+	SecondaryTitle = "Secondary";
+}

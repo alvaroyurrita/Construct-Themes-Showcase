@@ -16,6 +16,7 @@ Write-Host "Found $($files.Count) files to process"
 Write-Host ""
 
 $KeyboardNewTypes = @(
+    "Default",
     "Primary",
     "Info",
     "Text",
@@ -25,10 +26,11 @@ $KeyboardNewTypes = @(
     "Secondary"
 )
 
-$KeyboardNewShapes = @(
-    "Square",
-    "Circle"
-)
+$KeyboardNewShapes = @{
+    RR="Rounded-Rectangle"
+    SQ="Square"
+    CI="Circle"
+}
 
 $successCount = 0
 $errorCount = 0
@@ -36,23 +38,29 @@ $errorCount = 0
 foreach ($file in $files) {
     $fileNumber = [regex]::Match($file.Name, 'Keypad-Size([0-9])').Groups[1].Value
     # Create New Shape Loop
-    foreach ($shape in $KeyboardNewShapes) {
-        $shapeShort = $shape.Substring(0, 2).ToUpper()
+    foreach ($shape in $KeyboardNewShapes.GetEnumerator()) {
+        $shapeShort = $shape.Key
         $shapeFilenamePart = "Keypad-Size$fileNumber-$shapeShort-"
         # Create New Type Loop
         foreach ($type in $KeyboardNewTypes) {
+            $newFileName = "$shapeFilenamePart$type.cuiw"
+            if ($file.Name -eq $newFileName) {
+                Write-Host "⚠️  Skipping existing file: $newFileName" -ForegroundColor Yellow
+                continue
+            }
 
             $oldContent = Get-Content $file.FullName -Raw -Encoding UTF8
             $newContent = $oldContent
         
             # 1. Replace "Default" with New Type
-            $newContent = $newContent -replace 'Default', $type
-            $newContent = $newContent -replace 'type="default"', "type=`"$($type.ToLower())`""
-            $newContent = $newContent -replace 'type = "default"', "type = `"$($type.ToLower())`""
+            $newContent = $newContent -creplace 'Default', $type
+            $newContent = $newContent -creplace 'type="default"', "type=`"$($type.ToLower())`""
+            $newContent = $newContent -creplace 'type = "default"', "type = `"$($type.ToLower())`""
 
             #2. Replace "RoundRectangle" with New Shape
-            $newContent = $newContent -replace 'Rounded-Rectangle', $shape
-            $newContent = $newContent -replace 'Rounded-Rectangle'.ToLower(), $shape.ToLower()
+            $newContent = $newContent -creplace 'Rounded-Rectangle', $shape.Value
+            $newContent = $newContent -creplace 'Rounded-Rectangle'.ToLower(), $shape.Value.ToLower()
+            $newContent = $newContent -creplace 'RR', $shapeShort
 
             # 3. Replace GUID with new one
             $newGuid = [guid]::NewGuid().ToString()
@@ -69,10 +77,6 @@ foreach ($file in $files) {
             Write-Host "✓ Created Widget: $newFileName" -ForegroundColor Green
             
             $successCount++
-        }
-        catch {
-            Write-Host "✗ Error processing $($file.Name): $_" -ForegroundColor Red
-            $errorCount++
         }
     }
 }
