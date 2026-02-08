@@ -271,7 +271,7 @@ Function SetFeature() {
 	SelectWidget();
 }
 Push SelectSimplePressed {
-	FeatureSelected = 1;
+	FeatureSelected = 3;
 	SetFeature();
 }
 Push SelectToolTipPressed {
@@ -279,7 +279,7 @@ Push SelectToolTipPressed {
 	SetFeature();
 }
 Push SelectToolTipTicksPressed {
-	FeatureSelected = 3;
+	FeatureSelected = 1;
 	SetFeature();
 }
 // #EndRegion
