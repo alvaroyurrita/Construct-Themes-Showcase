@@ -147,6 +147,10 @@ Push SelectIconsPressed {
 	FeatureSelected = 2;
 	SetFeature();
 }
+Push SelectIconsTextPressed {
+	FeatureSelected = 3;
+	SetFeature();
+}
 // #EndRegion
 
 Function Main() {

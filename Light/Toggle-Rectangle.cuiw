@@ -1,20 +1,20 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-01-29 22:51:51.718525-05:00
+Created = 2026-02-08 15:06:44.218465-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-01-29 22:51:51.71852-05:00
+Modified = 2026-02-08 15:06:44.218449-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="inefe5prax" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><div data-mytext="myText" componentName="Html-text" ccid_ComponentType="Html-text" id="ikfa" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihasn">Circle</div><div data-mytext="myText" componentName="Html-text_1" ccid_ComponentType="Html-text" id="iv9z" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ilp5idl7d4pwa">Rectangle</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="i2w9" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="inp7khpag2i61">Toggle Buttons</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="id1s" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i0y8xqhgtr2s1">X-Small</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="idok" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i8uiculd3tqki">Small</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="ih6v" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifx9lvvgbot0z">Regular</div><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="i9hb" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iieetaos4zw3i">Large</div><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="isua" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="irt7c3h36h01l">X-Large</div><ch5-toggle handleshape="circle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="ic7nj" componentName="Toggle" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small">
-              </ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="ix1iei85jindr" componentName="Toggle_1" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ic7nj"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="i5zugwe9t6dqs" componentName="Toggle_2" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="ic7nj"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="ivswhgl72lsva" componentName="Toggle_3" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ic7nj"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="i7k3fcxgitu68" componentName="Toggle_4" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="ic7nj"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="in96gbwhhftdc" componentName="Toggle_5" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="ic7nj"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="i0i986z3xgo5p" componentName="Toggle_6" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ix1iei85jindr"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="ivpfnn0miuia2" componentName="Toggle_7" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="i5zugwe9t6dqs"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="i4k5hhj9jnjll" componentName="Toggle_8" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivswhgl72lsva"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="is18glga7quv1" componentName="Toggle_9" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="i7k3fcxgitu68"></ch5-toggle><div data-mytext="myText" componentName="Html-text_2" ccid_ComponentType="Html-text" id="is8liru58h87h" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ikfa">Circle</div><div data-mytext="myText" componentName="Html-text_3" ccid_ComponentType="Html-text" id="ixoik51ygu2o5" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iv9z">Rectangle</div><ch5-toggle handleshape="circle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="i2e61iw7y912y" componentName="Toggle_10" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="ic7nj" iconon="fas fa-adjust" iconoff="fab fa-algolia"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="ixjequn6gn1zm" componentName="Toggle_11" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ix1iei85jindr" iconon="fas fa-adjust" iconoff="fab fa-algolia"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="i76cf43ktk4fg" componentName="Toggle_12" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="i5zugwe9t6dqs" iconon="fas fa-adjust" iconoff="fab fa-algolia"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="ib3iounk5ge04" componentName="Toggle_13" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivswhgl72lsva" iconon="fas fa-adjust" iconoff="fab fa-algolia"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="iggtv40l7yn1k" componentName="Toggle_14" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="i7k3fcxgitu68" iconon="fas fa-adjust" iconoff="fab fa-algolia"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="iii7c6w4z81hi" componentName="Toggle_15" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="in96gbwhhftdc" iconon="fas fa-bacterium" iconoff="fab fa-atlassian"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="id7bfz7nkamxk" componentName="Toggle_16" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="i0i986z3xgo5p" iconon="fas fa-bacterium" iconoff="fab fa-atlassian"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="imr63jlnfnarq" componentName="Toggle_17" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="ivpfnn0miuia2" iconon="fas fa-bacterium" iconoff="fab fa-atlassian"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="i82zh3b0n8foi" componentName="Toggle_18" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="i4k5hhj9jnjll" iconon="fas fa-bacterium" iconoff="fab fa-atlassian"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="ibfjaqs68nfjl" componentName="Toggle_19" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="is18glga7quv1" iconon="fas fa-bacterium" iconoff="fab fa-atlassian"></ch5-toggle><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="i3hwhwvm8yc92" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i2w9">Toggle Buttons With Icons</div></div>
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="inefe5prax" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="i3hwhwvm8yc92" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i2w9">Toggle Buttons With Icons</div><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="ibfjaqs68nfjl" componentName="Toggle_19" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="is18glga7quv1" iconon="fas fa-bacterium" iconoff="fab fa-atlassian" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="i82zh3b0n8foi" componentName="Toggle_18" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="i4k5hhj9jnjll" iconon="fas fa-bacterium" iconoff="fab fa-atlassian" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="imr63jlnfnarq" componentName="Toggle_17" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="ivpfnn0miuia2" iconon="fas fa-bacterium" iconoff="fab fa-atlassian" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="id7bfz7nkamxk" componentName="Toggle_16" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="i0i986z3xgo5p" iconon="fas fa-bacterium" iconoff="fab fa-atlassian" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="iii7c6w4z81hi" componentName="Toggle_15" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="in96gbwhhftdc" iconon="fas fa-bacterium" iconoff="fab fa-atlassian" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="iggtv40l7yn1k" componentName="Toggle_14" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="i7k3fcxgitu68" iconon="fas fa-adjust" iconoff="fab fa-algolia" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="ib3iounk5ge04" componentName="Toggle_13" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivswhgl72lsva" iconon="fas fa-adjust" iconoff="fab fa-algolia" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="i76cf43ktk4fg" componentName="Toggle_12" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="i5zugwe9t6dqs" iconon="fas fa-adjust" iconoff="fab fa-algolia" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="ixjequn6gn1zm" componentName="Toggle_11" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ix1iei85jindr" iconon="fas fa-adjust" iconoff="fab fa-algolia" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="i2e61iw7y912y" componentName="Toggle_10" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="ic7nj" iconon="fas fa-adjust" iconoff="fab fa-algolia" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><div data-mytext="myText" componentName="Html-text_3" ccid_ComponentType="Html-text" id="ixoik51ygu2o5" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iv9z">Rectangle</div><div data-mytext="myText" componentName="Html-text_2" ccid_ComponentType="Html-text" id="is8liru58h87h" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ikfa">Circle</div><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="is18glga7quv1" componentName="Toggle_9" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="i7k3fcxgitu68" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="i4k5hhj9jnjll" componentName="Toggle_8" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivswhgl72lsva" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="ivpfnn0miuia2" componentName="Toggle_7" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="i5zugwe9t6dqs" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="i0i986z3xgo5p" componentName="Toggle_6" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ix1iei85jindr" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="rectangle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="in96gbwhhftdc" componentName="Toggle_5" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="ic7nj" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-large" value="false" customvstheme="theme" id="i7k3fcxgitu68" componentName="Toggle_4" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="ic7nj" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="large" value="false" customvstheme="theme" id="ivswhgl72lsva" componentName="Toggle_3" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ic7nj" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="regular" value="false" customvstheme="theme" id="i5zugwe9t6dqs" componentName="Toggle_2" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="regular" oldID="ic7nj" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="small" value="false" customvstheme="theme" id="ix1iei85jindr" componentName="Toggle_1" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="ic7nj" sendeventonclick="71" pd-receivestatevalue="71"></ch5-toggle><ch5-toggle handleshape="circle" orientation="horizontal" size="x-small" value="false" customvstheme="theme" id="ic7nj" componentName="Toggle" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="" ccid_ComponentType="Toggle" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" sendeventonclick="71" pd-receivestatevalue="71">
+              </ch5-toggle><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="isua" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="irt7c3h36h01l">X-Large</div><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="i9hb" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iieetaos4zw3i">Large</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="ih6v" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifx9lvvgbot0z">Regular</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="idok" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i8uiculd3tqki">Small</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="id1s" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i0y8xqhgtr2s1">X-Small</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="i2w9" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="inp7khpag2i61">Toggle Buttons</div><div data-mytext="myText" componentName="Html-text_1" ccid_ComponentType="Html-text" id="iv9z" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ilp5idl7d4pwa">Rectangle</div><div data-mytext="myText" componentName="Html-text" ccid_ComponentType="Html-text" id="ikfa" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihasn">Circle</div></div>
 
 {Css}
-@media (max-width: 99999px){#isua{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:832px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;}#i9hb{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:640px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#id1s{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:160px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i2w9{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:410px;top:32px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#iv9z{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:230px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ikfa{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:145px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#inefe5prax{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#ic7nj .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ix1iei85jindr .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i5zugwe9t6dqs .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ivswhgl72lsva .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i7k3fcxgitu68 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ic7nj{width:80px;display:block;left:149px;top:136px;position:absolute;}#idok{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:315px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ix1iei85jindr{width:90px;display:block;left:288px;top:134px;position:absolute;}#ih6v{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:460px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i5zugwe9t6dqs{width:100px;display:block;left:439px;top:133px;position:absolute;}#ivswhgl72lsva{width:125px;display:block;left:596px;top:128px;position:absolute;}#i7k3fcxgitu68{width:150px;display:block;left:786px;top:124px;position:absolute;}#in96gbwhhftdc .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i0i986z3xgo5p .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ivpfnn0miuia2 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i4k5hhj9jnjll .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#is18glga7quv1 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#in96gbwhhftdc{width:80px;display:block;left:149px;top:221px;position:absolute;}#i0i986z3xgo5p{width:90px;display:block;left:288px;top:219px;position:absolute;}#ivpfnn0miuia2{width:100px;display:block;left:439px;top:218px;position:absolute;}#i4k5hhj9jnjll{width:125px;display:block;left:596px;top:213px;position:absolute;}#is18glga7quv1{width:150px;display:block;left:786px;top:209px;position:absolute;}#i76cf43ktk4fg{width:100px;display:block;left:435px;top:401px;position:absolute;}#ib3iounk5ge04{width:125px;display:block;left:592px;top:396px;position:absolute;}#iggtv40l7yn1k{width:150px;display:block;left:782px;top:392px;position:absolute;}#iii7c6w4z81hi{width:80px;display:block;left:153px;top:489px;position:absolute;}#id7bfz7nkamxk{width:90px;display:block;left:292px;top:487px;position:absolute;}#is8liru58h87h{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:'Roboto';left:18px;top:413px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ixoik51ygu2o5{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:498px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#i2e61iw7y912y .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ixjequn6gn1zm .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i76cf43ktk4fg .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ib3iounk5ge04 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#iggtv40l7yn1k .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#iii7c6w4z81hi .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#id7bfz7nkamxk .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#imr63jlnfnarq .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i82zh3b0n8foi .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ibfjaqs68nfjl .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i3hwhwvm8yc92{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:353px;top:351px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#ibfjaqs68nfjl{width:150px;display:block;left:786px;top:477px;position:absolute;}#i82zh3b0n8foi{width:125px;display:block;left:596px;top:481px;position:absolute;}#imr63jlnfnarq{width:100px;display:block;left:439px;top:486px;position:absolute;}#ixjequn6gn1zm{width:90px;display:block;left:288px;top:402px;position:absolute;}#i2e61iw7y912y{width:80px;display:block;left:149px;top:404px;position:absolute;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#isua{left:832px;top:83px;position:absolute;width:auto;height:auto;}#i9hb{left:640px;top:83px;}#id1s{left:160px;top:83px;position:absolute;}#i2w9{left:410px;top:32px;position:absolute;}#iv9z{top:230px;left:18px;}#ikfa{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:145px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;}#inefe5prax{width:975px;height:800px;left:0;top:0;position:absolute;}#ic7nj{width:80px;display:block;left:149px;top:136px;position:absolute;}#idok{left:315px;top:83px;}#ix1iei85jindr{top:134px;left:288px;width:90px;}#ih6v{left:460px;top:83px;}#i5zugwe9t6dqs{top:133px;left:439px;width:100px;}#ivswhgl72lsva{top:128px;left:596px;width:125px;}#i7k3fcxgitu68{left:786px;top:124px;position:absolute;width:150px;}#in96gbwhhftdc{top:221px;left:149px;width:80px;}#i0i986z3xgo5p{top:219px;left:288px;width:90px;}#ivpfnn0miuia2{top:218px;left:439px;width:100px;}#i4k5hhj9jnjll{top:213px;left:596px;width:125px;}#is18glga7quv1{top:209px;left:786px;width:150px;}#is8liru58h87h{left:18px;top:413px;}#ixoik51ygu2o5{left:18px;top:498px;position:absolute;}#i76cf43ktk4fg{left:435px;top:401px;}#ib3iounk5ge04{left:592px;top:396px;}#iggtv40l7yn1k{left:782px;top:392px;}#iii7c6w4z81hi{left:153px;top:489px;}#id7bfz7nkamxk{left:292px;top:487px;}#i3hwhwvm8yc92{left:353px;top:351px;position:absolute;}#ibfjaqs68nfjl{left:786px;top:477px;}#i82zh3b0n8foi{left:596px;top:481px;}#imr63jlnfnarq{left:439px;top:486px;}#ixjequn6gn1zm{left:288px;top:402px;}#i2e61iw7y912y{left:149px;top:404px;}}
+@media (max-width: 99999px){#isua{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:832px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:609;}#i9hb{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:640px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:608;}#id1s{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:160px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:605;}#i2w9{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:410px;top:32px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:604;}#iv9z{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:230px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:603;}#ikfa{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:145px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:602;}#inefe5prax{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#ic7nj .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ix1iei85jindr .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i5zugwe9t6dqs .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ivswhgl72lsva .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i7k3fcxgitu68 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#idok{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:315px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:606;}#ih6v{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:460px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:607;}#in96gbwhhftdc .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i0i986z3xgo5p .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ivpfnn0miuia2 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i4k5hhj9jnjll .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#is18glga7quv1 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#is8liru58h87h{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:'Roboto';left:18px;top:413px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:620;}#ixoik51ygu2o5{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:498px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:621;}#i2e61iw7y912y .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ixjequn6gn1zm .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i76cf43ktk4fg .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ib3iounk5ge04 .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#iggtv40l7yn1k .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#iii7c6w4z81hi .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#id7bfz7nkamxk .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#imr63jlnfnarq .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i82zh3b0n8foi .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#ibfjaqs68nfjl .ch5-toggle :not(i):not(svg){font-family:'Roboto';}#i3hwhwvm8yc92{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:353px;top:351px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:632;}#wrapper{background-color:#ffffff;}#ibfjaqs68nfjl{width:undefined;display:block;left:786px;top:477px;position:absolute;z-index:631;}#imr63jlnfnarq{width:undefined;display:block;left:439px;top:486px;position:absolute;z-index:629;}#id7bfz7nkamxk{width:undefined;display:block;left:292px;top:487px;position:absolute;z-index:628;}#iii7c6w4z81hi{width:undefined;display:block;left:153px;top:489px;position:absolute;z-index:627;}#iggtv40l7yn1k{width:undefined;display:block;left:782px;top:392px;position:absolute;z-index:626;}#ib3iounk5ge04{width:undefined;display:block;left:592px;top:396px;position:absolute;z-index:625;}#i76cf43ktk4fg{width:undefined;display:block;left:435px;top:401px;position:absolute;z-index:624;}#ixjequn6gn1zm{width:undefined;display:block;left:288px;top:402px;position:absolute;z-index:623;}#i2e61iw7y912y{width:undefined;display:block;left:149px;top:404px;position:absolute;z-index:622;}#is18glga7quv1{width:undefined;display:block;left:786px;top:209px;position:absolute;z-index:619;}#i4k5hhj9jnjll{width:undefined;display:block;left:596px;top:213px;position:absolute;z-index:618;}#in96gbwhhftdc{width:undefined;display:block;left:149px;top:221px;position:absolute;z-index:615;}#i7k3fcxgitu68{width:undefined;display:block;left:786px;top:124px;position:absolute;z-index:614;}#ivswhgl72lsva{width:undefined;display:block;left:596px;top:128px;position:absolute;z-index:613;}#i5zugwe9t6dqs{width:undefined;display:block;left:439px;top:133px;position:absolute;z-index:612;}#ix1iei85jindr{width:undefined;display:block;left:288px;top:134px;position:absolute;z-index:611;}#ic7nj{width:undefined;display:block;left:149px;top:136px;position:absolute;z-index:610;}#i0i986z3xgo5p{width:undefined;display:block;left:288px;top:219px;position:absolute;z-index:616;}#ivpfnn0miuia2{width:undefined;display:block;left:439px;top:218px;position:absolute;z-index:617;}#i82zh3b0n8foi{width:undefined;display:block;left:596px;top:481px;position:absolute;z-index:630;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#isua{left:832px;top:83px;position:absolute;width:auto;height:auto;z-index:609;}#i9hb{left:640px;top:83px;z-index:608;}#id1s{left:160px;top:83px;position:absolute;z-index:605;}#i2w9{left:410px;top:32px;position:absolute;z-index:604;}#iv9z{top:230px;left:18px;z-index:603;}#ikfa{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:18px;top:145px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:602;}#inefe5prax{width:975px;height:800px;left:0;top:0;position:absolute;}#idok{left:315px;top:83px;z-index:606;}#ih6v{left:460px;top:83px;z-index:607;}#is8liru58h87h{left:18px;top:413px;z-index:620;}#ixoik51ygu2o5{left:18px;top:498px;position:absolute;z-index:621;}#i3hwhwvm8yc92{left:353px;top:351px;position:absolute;z-index:632;}#ibfjaqs68nfjl{left:786px;top:477px;z-index:631;width:undefined;}#imr63jlnfnarq{left:439px;top:486px;z-index:629;width:undefined;}#id7bfz7nkamxk{left:292px;top:487px;z-index:628;width:undefined;}#iii7c6w4z81hi{left:153px;top:489px;z-index:627;width:undefined;}#iggtv40l7yn1k{left:782px;top:392px;z-index:626;width:undefined;}#ib3iounk5ge04{left:592px;top:396px;z-index:625;width:undefined;}#i76cf43ktk4fg{left:435px;top:401px;z-index:624;width:undefined;}#ixjequn6gn1zm{left:288px;top:402px;z-index:623;width:undefined;}#i2e61iw7y912y{left:149px;top:404px;z-index:622;width:undefined;}#is18glga7quv1{top:209px;left:786px;width:undefined;z-index:619;}#i4k5hhj9jnjll{top:213px;left:596px;width:undefined;z-index:618;}#in96gbwhhftdc{top:221px;left:149px;width:undefined;z-index:615;}#i7k3fcxgitu68{left:786px;top:124px;position:absolute;width:undefined;z-index:614;}#ivswhgl72lsva{top:128px;left:596px;width:undefined;z-index:613;}#i5zugwe9t6dqs{top:133px;left:439px;width:undefined;z-index:612;}#ix1iei85jindr{top:134px;left:288px;width:undefined;z-index:611;}#ic7nj{width:undefined;display:block;left:149px;top:136px;position:absolute;z-index:610;}#i0i986z3xgo5p{top:219px;left:288px;width:undefined;z-index:616;}#ivpfnn0miuia2{top:218px;left:439px;width:undefined;z-index:617;}#i82zh3b0n8foi{left:596px;top:481px;z-index:630;width:undefined;}}
 
 {PageAttributes}
 
@@ -33,7 +33,7 @@ Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Circle"
+Content = "Toggle Buttons With Icons"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -42,12 +42,242 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text"
+componentName = "Html-text_4"
 ccid_ComponentType = "Html-text"
-id = "ikfa"
+id = "i3hwhwvm8yc92"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihasn"
+oldID = "i2w9"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "x-large"
+value = "false"
+customvstheme = "theme"
+id = "ibfjaqs68nfjl"
+componentName = "Toggle_19"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+oldID = "is18glga7quv1"
+iconon = "fas fa-bacterium"
+iconoff = "fab fa-atlassian"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "large"
+value = "false"
+customvstheme = "theme"
+id = "i82zh3b0n8foi"
+componentName = "Toggle_18"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+oldID = "i4k5hhj9jnjll"
+iconon = "fas fa-bacterium"
+iconoff = "fab fa-atlassian"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "regular"
+value = "false"
+customvstheme = "theme"
+id = "imr63jlnfnarq"
+componentName = "Toggle_17"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+oldID = "ivpfnn0miuia2"
+iconon = "fas fa-bacterium"
+iconoff = "fab fa-atlassian"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "small"
+value = "false"
+customvstheme = "theme"
+id = "id7bfz7nkamxk"
+componentName = "Toggle_16"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+oldID = "i0i986z3xgo5p"
+iconon = "fas fa-bacterium"
+iconoff = "fab fa-atlassian"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "x-small"
+value = "false"
+customvstheme = "theme"
+id = "iii7c6w4z81hi"
+componentName = "Toggle_15"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "in96gbwhhftdc"
+iconon = "fas fa-bacterium"
+iconoff = "fab fa-atlassian"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "x-large"
+value = "false"
+customvstheme = "theme"
+id = "iggtv40l7yn1k"
+componentName = "Toggle_14"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+oldID = "i7k3fcxgitu68"
+iconon = "fas fa-adjust"
+iconoff = "fab fa-algolia"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "large"
+value = "false"
+customvstheme = "theme"
+id = "ib3iounk5ge04"
+componentName = "Toggle_13"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+oldID = "ivswhgl72lsva"
+iconon = "fas fa-adjust"
+iconoff = "fab fa-algolia"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "regular"
+value = "false"
+customvstheme = "theme"
+id = "i76cf43ktk4fg"
+componentName = "Toggle_12"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+oldID = "i5zugwe9t6dqs"
+iconon = "fas fa-adjust"
+iconoff = "fab fa-algolia"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "small"
+value = "false"
+customvstheme = "theme"
+id = "ixjequn6gn1zm"
+componentName = "Toggle_11"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+oldID = "ix1iei85jindr"
+iconon = "fas fa-adjust"
+iconoff = "fab fa-algolia"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "x-small"
+value = "false"
+customvstheme = "theme"
+id = "i2e61iw7y912y"
+componentName = "Toggle_10"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "ic7nj"
+iconon = "fas fa-adjust"
+iconoff = "fab fa-algolia"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
 [[Elements.Components]]
 Type = "html-text"
 
@@ -62,18 +292,18 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_1"
+componentName = "Html-text_3"
 ccid_ComponentType = "Html-text"
-id = "iv9z"
+id = "ixoik51ygu2o5"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ilp5idl7d4pwa"
+oldID = "iv9z"
 [[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Toggle Buttons"
+Content = "Circle"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -82,18 +312,231 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_7"
+componentName = "Html-text_2"
 ccid_ComponentType = "Html-text"
-id = "i2w9"
+id = "is8liru58h87h"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "inp7khpag2i61"
+oldID = "ikfa"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "x-large"
+value = "false"
+customvstheme = "theme"
+id = "is18glga7quv1"
+componentName = "Toggle_9"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+oldID = "i7k3fcxgitu68"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "large"
+value = "false"
+customvstheme = "theme"
+id = "i4k5hhj9jnjll"
+componentName = "Toggle_8"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+oldID = "ivswhgl72lsva"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "regular"
+value = "false"
+customvstheme = "theme"
+id = "ivpfnn0miuia2"
+componentName = "Toggle_7"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+oldID = "i5zugwe9t6dqs"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "small"
+value = "false"
+customvstheme = "theme"
+id = "i0i986z3xgo5p"
+componentName = "Toggle_6"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+oldID = "ix1iei85jindr"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "rectangle"
+orientation = "horizontal"
+size = "x-small"
+value = "false"
+customvstheme = "theme"
+id = "in96gbwhhftdc"
+componentName = "Toggle_5"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "ic7nj"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "x-large"
+value = "false"
+customvstheme = "theme"
+id = "i7k3fcxgitu68"
+componentName = "Toggle_4"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+oldID = "ic7nj"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "large"
+value = "false"
+customvstheme = "theme"
+id = "ivswhgl72lsva"
+componentName = "Toggle_3"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+oldID = "ic7nj"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "regular"
+value = "false"
+customvstheme = "theme"
+id = "i5zugwe9t6dqs"
+componentName = "Toggle_2"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+oldID = "ic7nj"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "small"
+value = "false"
+customvstheme = "theme"
+id = "ix1iei85jindr"
+componentName = "Toggle_1"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+oldID = "ic7nj"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
+[[Elements.Components]]
+Type = "Ch5 Toggle"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+handleshape = "circle"
+orientation = "horizontal"
+size = "x-small"
+value = "false"
+customvstheme = "theme"
+id = "ic7nj"
+componentName = "Toggle"
+ccid_linkSendReceive = "True"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_ComponentType = "Toggle"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+sendeventonclick = "71"
+pd-receivestatevalue = "71"
 [[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "X-Small"
+Content = "X-Large"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -102,52 +545,12 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_8"
+componentName = "Html-text_12"
 ccid_ComponentType = "Html-text"
-id = "id1s"
+id = "isua"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "i0y8xqhgtr2s1"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_9"
-ccid_ComponentType = "Html-text"
-id = "idok"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i8uiculd3tqki"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_10"
-ccid_ComponentType = "Html-text"
-id = "ih6v"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ifx9lvvgbot0z"
+oldID = "irt7c3h36h01l"
 [[Elements.Components]]
 Type = "html-text"
 
@@ -173,7 +576,7 @@ Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "X-Large"
+Content = "Regular"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -182,211 +585,18 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_12"
+componentName = "Html-text_10"
 ccid_ComponentType = "Html-text"
-id = "isua"
+id = "ih6v"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "irt7c3h36h01l"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "\n              "
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "x-small"
-value = "false"
-customvstheme = "theme"
-id = "ic7nj"
-componentName = "Toggle"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-small"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "small"
-value = "false"
-customvstheme = "theme"
-id = "ix1iei85jindr"
-componentName = "Toggle_1"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "small"
-oldID = "ic7nj"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "regular"
-value = "false"
-customvstheme = "theme"
-id = "i5zugwe9t6dqs"
-componentName = "Toggle_2"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "regular"
-oldID = "ic7nj"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "large"
-value = "false"
-customvstheme = "theme"
-id = "ivswhgl72lsva"
-componentName = "Toggle_3"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "large"
-oldID = "ic7nj"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "x-large"
-value = "false"
-customvstheme = "theme"
-id = "i7k3fcxgitu68"
-componentName = "Toggle_4"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-large"
-oldID = "ic7nj"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "x-small"
-value = "false"
-customvstheme = "theme"
-id = "in96gbwhhftdc"
-componentName = "Toggle_5"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-small"
-oldID = "ic7nj"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "small"
-value = "false"
-customvstheme = "theme"
-id = "i0i986z3xgo5p"
-componentName = "Toggle_6"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "small"
-oldID = "ix1iei85jindr"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "regular"
-value = "false"
-customvstheme = "theme"
-id = "ivpfnn0miuia2"
-componentName = "Toggle_7"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "regular"
-oldID = "i5zugwe9t6dqs"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "large"
-value = "false"
-customvstheme = "theme"
-id = "i4k5hhj9jnjll"
-componentName = "Toggle_8"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "large"
-oldID = "ivswhgl72lsva"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "x-large"
-value = "false"
-customvstheme = "theme"
-id = "is18glga7quv1"
-componentName = "Toggle_9"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-large"
-oldID = "i7k3fcxgitu68"
+oldID = "ifx9lvvgbot0z"
 [[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Circle"
+Content = "Small"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -395,12 +605,52 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_2"
+componentName = "Html-text_9"
 ccid_ComponentType = "Html-text"
-id = "is8liru58h87h"
+id = "idok"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ikfa"
+oldID = "i8uiculd3tqki"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_8"
+ccid_ComponentType = "Html-text"
+id = "id1s"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i0y8xqhgtr2s1"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Toggle Buttons"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_7"
+ccid_ComponentType = "Html-text"
+id = "i2w9"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "inp7khpag2i61"
 [[Elements.Components]]
 Type = "html-text"
 
@@ -415,228 +665,18 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_3"
+componentName = "Html-text_1"
 ccid_ComponentType = "Html-text"
-id = "ixoik51ygu2o5"
+id = "iv9z"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "iv9z"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "x-small"
-value = "false"
-customvstheme = "theme"
-id = "i2e61iw7y912y"
-componentName = "Toggle_10"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-small"
-oldID = "ic7nj"
-iconon = "fas fa-adjust"
-iconoff = "fab fa-algolia"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "small"
-value = "false"
-customvstheme = "theme"
-id = "ixjequn6gn1zm"
-componentName = "Toggle_11"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "small"
-oldID = "ix1iei85jindr"
-iconon = "fas fa-adjust"
-iconoff = "fab fa-algolia"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "regular"
-value = "false"
-customvstheme = "theme"
-id = "i76cf43ktk4fg"
-componentName = "Toggle_12"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "regular"
-oldID = "i5zugwe9t6dqs"
-iconon = "fas fa-adjust"
-iconoff = "fab fa-algolia"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "large"
-value = "false"
-customvstheme = "theme"
-id = "ib3iounk5ge04"
-componentName = "Toggle_13"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "large"
-oldID = "ivswhgl72lsva"
-iconon = "fas fa-adjust"
-iconoff = "fab fa-algolia"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "circle"
-orientation = "horizontal"
-size = "x-large"
-value = "false"
-customvstheme = "theme"
-id = "iggtv40l7yn1k"
-componentName = "Toggle_14"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-large"
-oldID = "i7k3fcxgitu68"
-iconon = "fas fa-adjust"
-iconoff = "fab fa-algolia"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "x-small"
-value = "false"
-customvstheme = "theme"
-id = "iii7c6w4z81hi"
-componentName = "Toggle_15"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-small"
-oldID = "in96gbwhhftdc"
-iconon = "fas fa-bacterium"
-iconoff = "fab fa-atlassian"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "small"
-value = "false"
-customvstheme = "theme"
-id = "id7bfz7nkamxk"
-componentName = "Toggle_16"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "small"
-oldID = "i0i986z3xgo5p"
-iconon = "fas fa-bacterium"
-iconoff = "fab fa-atlassian"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "regular"
-value = "false"
-customvstheme = "theme"
-id = "imr63jlnfnarq"
-componentName = "Toggle_17"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "regular"
-oldID = "ivpfnn0miuia2"
-iconon = "fas fa-bacterium"
-iconoff = "fab fa-atlassian"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "large"
-value = "false"
-customvstheme = "theme"
-id = "i82zh3b0n8foi"
-componentName = "Toggle_18"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "large"
-oldID = "i4k5hhj9jnjll"
-iconon = "fas fa-bacterium"
-iconoff = "fab fa-atlassian"
-[[Elements.Components]]
-Type = "Ch5 Toggle"
-Editable = true
-
-[Elements.Components.Attributes]
-handleshape = "rectangle"
-orientation = "horizontal"
-size = "x-large"
-value = "false"
-customvstheme = "theme"
-id = "ibfjaqs68nfjl"
-componentName = "Toggle_19"
-ccid_linkSendReceive = "True"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_ComponentType = "Toggle"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_lastSizeSelected = "x-large"
-oldID = "is18glga7quv1"
-iconon = "fas fa-bacterium"
-iconoff = "fab fa-atlassian"
+oldID = "ilp5idl7d4pwa"
 [[Elements.Components]]
 Type = "html-text"
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Toggle Buttons With Icons"
+Content = "Circle"
 Removable = false
 Draggable = false
 Highlightable = 0
@@ -645,12 +685,12 @@ _InnerText = false
 
 [Elements.Components.Attributes]
 data-mytext = "myText"
-componentName = "Html-text_4"
+componentName = "Html-text"
 ccid_ComponentType = "Html-text"
-id = "i3hwhwvm8yc92"
+id = "ikfa"
 ccid_ActiveFont = "'Roboto'"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "i2w9"
+oldID = "ihasn"
 
 [Elements.Attributes]
 categoryname = "Widget Components"
