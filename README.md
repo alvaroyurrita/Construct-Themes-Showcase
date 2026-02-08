@@ -14,11 +14,6 @@ Use it to test your themes and ensure they work as expected across all UI elemen
 
 # Observations found while working on this projects
 
-## Joins
-There seems to be a limit to how many object gets assign the same join. It was observerd in the Buttons Page that not all pages will update the state of the button (driven by the same toggle simbol in SIMPL).  Some pages will show the Selected State in all the buttons, while other pages worked fine.  
-
-A different join was assigned per Feature to aliviate the issue
-
 ## SIMPL Contracts
 
 It would have been nice to be able to assign certain cotracts as global.  IT appears that when assigning a widget to a page, the contracts generated are per page. I can see how that is important when the elements of a widget are buttons, butn when the element is something like a nav bar, that is used in several pages at once, a new contract is generated in simple under each page, which means the signals need to be duplicated between contracts.  A global setting, would bubble the contract to the top, so the signals would only need to be created and maintained in one place.
