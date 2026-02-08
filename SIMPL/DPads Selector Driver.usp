@@ -1,0 +1,122 @@
+Digital_Input SelectPlusPressed;
+Digital_Input SelectCirclePressed;
+Digital_Input _SKIP_;
+Digital_Input SelectType1Pressed;
+Digital_Input SelectType2Pressed;
+Digital_Input _SKIP_;
+
+
+Digital_Output SelectPlusSelected;
+Digital_Output SelectCircleSelected;
+Digital_Output _SKIP_;
+Digital_Output SelectType1Selected;
+Digital_Output SelectType2Selected;
+Digital_Output _SKIP_;
+Digital_Output Widgets[4];
+Digital_Output _SKIP_;
+Analog_Output NumberOfShapesButtons;
+Analog_Output NumberOfTypesButtons;
+Analog_Output _SKIP_;
+String_Output PlusTitle;
+String_Output CircleTitle;
+String_Output _SKIP_;
+String_Output Type1Title;
+String_Output Type2Title;
+
+Integer ShapeSelected;
+Integer TypeSelected;
+
+
+Function SelectWidget() {
+	Integer selectedWidget, i;
+
+	selectedWidget = (ShapeSelected - 1) * 2 + TypeSelected;
+	For (i = 1 to 4) {
+		If (i = selectedWidget) {
+			Widgets[i] = 1;
+		}
+		Else {
+			Widgets[i] = 0;
+		}
+	}
+}
+
+// #Region Shape
+Function UnselectAllShapeButtons() {
+	SelectPlusSelected = 0;
+	SelectCircleSelected = 0;
+}
+Function SetShapeButtons() {
+	CSwitch (ShapeSelected) {
+		Case (1): {
+			SelectPlusSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectCircleSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetShape() {
+	UnselectAllShapeButtons();
+	SetShapeButtons();
+	SelectWidget();
+}
+Push SelectPlusPressed {
+	ShapeSelected = 1;
+	SetShape();
+}
+Push SelectCirclePressed {
+	ShapeSelected = 2;
+	SetShape();
+}
+// #EndRegion
+
+// #Region Type
+Function UnselectAllTypeButtons() {
+	SelectType1Selected = 0;
+	SelectType2Selected = 0;
+}
+Function SetTypeButtons() {
+	CSwitch (TypeSelected) {
+		Case (1): {
+			SelectType1Selected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectType2Selected = 1;
+			Break;
+		}
+	}
+}
+Function SetType() {
+	UnselectAllTypeButtons();
+	SetTypeButtons();
+	SelectWidget();
+}
+Push SelectType1Pressed {
+	TypeSelected = 1;
+	SetType();
+}
+Push SelectType2Pressed {
+	TypeSelected = 2;
+	SetType();
+}
+// #EndRegion
+
+Function Main() {
+	NumberOfShapesButtons = 2;
+	NumberOfTypesButtons = 2;
+
+	SelectPlusSelected = 1;
+	ShapeSelected = 1;
+	PlusTitle = "Plus";
+	CircleTitle = "Circle";
+
+	SelectType1Selected = 1;
+	TypeSelected = 1;
+	Type1Title = "Type 1";
+	Type2Title = "Type 2";
+	SelectWidget();
+}

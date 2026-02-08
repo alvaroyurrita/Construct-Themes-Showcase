@@ -2,12 +2,14 @@ Digital_Input SelectButtonsPressed;
 Digital_Input SelectSlidersPressed;
 Digital_Input SelectTabsPressed;
 Digital_Input SelectTogglesPressed;
+Digital_Input SelectDpasPressed;
 
 
 Digital_Output SelectButtonsSelected;
 Digital_Output SelectSlidersSelected;
 Digital_Output SelectTabsSelected;
 Digital_Output SelectTogglesSelected;
+Digital_Output SelectDpadSelected;
 
 Analog_Output NumberOfButtons;
 
@@ -15,42 +17,72 @@ String_Output ButtonTitle;
 String_Output SliderTitle;
 String_Output TabTitle;
 String_Output ToggleTitle;
+String_Output DpadTitle;
 
 integer CurrentSelection;
 
-Function UnselectAll(){
+Function UnselectAll() {
 	SelectButtonsSelected = 0;
 	SelectSlidersSelected = 0;
 	SelectTabsSelected = 0;
 	SelectTogglesSelected = 0;
+	SelectDpadSelected = 0;
 }
-
-
-Push SelectButtonsPressed 
-Push SelectSlidersPressed 
-Push SelectTabsPressed 
-Push SelectTogglesPressed {
+Function SelectSection() {
+	CSwitch (CurrentSelection) {
+		Case (1): {
+			SelectButtonsSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectSlidersSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectTabsSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectTogglesSelected = 1;
+			Break;
+		}
+		Case (5): {
+			SelectDpadSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetSection(){
 	UnselectAll();
-	If (SelectButtonsPressed = 1) {
-		SelectButtonsSelected = 1;	
-		CurrentSelection = 1;
-	} Else If (SelectSlidersPressed = 1) {
-		SelectSlidersSelected = 1;	
-		CurrentSelection = 2;
-	} Else If (SelectTabsPressed = 1) {
-		SelectTabsSelected = 1;	
-		CurrentSelection = 3;
-	} Else If (SelectTogglesPressed = 1) {
-		SelectTogglesSelected = 1;	
-		CurrentSelection = 4;
-	} 
+	SelectSection();
+}
+Push SelectButtonsPressed {
+	CurrentSelection = 1;
+	SetSection();
+}
+Push SelectSlidersPressed {
+	CurrentSelection = 2;
+	SetSection();
+}
+Push SelectTabsPressed {
+	CurrentSelection = 3;
+	SetSection();
+}
+Push SelectTogglesPressed {
+	CurrentSelection = 4;
+	SetSection();
+}
+Push SelectDpasPressed {
+	CurrentSelection = 5;
+	SetSection();
 }
 
 Function Main() {
-	NumberOfButtons = 4;
+	NumberOfButtons = 5;
 	SelectButtonsSelected = 1;
 	ButtonTitle = "Buttons";
 	SliderTitle = "Sliders";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
+	DpadTitle = "Dpads";
 }

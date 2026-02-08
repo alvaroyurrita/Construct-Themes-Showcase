@@ -10,10 +10,6 @@ Digital_Input SelectIconsTextPressed;
 Digital_Input _SKIP_;
 
 
-
-
-
-
 Digital_Output SelectRoundRectangleSelected;
 Digital_Output SelectCircleSelected;
 Digital_Output SelectRectangleSelected;
@@ -30,7 +26,7 @@ Analog_Output NumberOfShapesButtons;
 Analog_Output NumberOfFeaturesButtons;
 Analog_Output _SKIP_;
 String_Output RoundRectangleTitle;
-String_Output CircleTitle;  
+String_Output CircleTitle;
 String_Output RectangleTitle;
 String_Output TabTitle;
 String_Output OvalTitle;
@@ -42,93 +38,133 @@ String_Output IconsTextTitle;
 Integer ShapeSelected;
 Integer FeatureSelected;
 
+Function SelectWidget() {
+	Integer selectedWidget, i;
 
-Function SelectWidget(){
-    Integer selectedWidget, i;
-        
-    selectedWidget = (ShapeSelected - 1) * 3 + FeatureSelected;
-    For (i = 1 to 15) {
-        If (i = selectedWidget) {
-            Widgets[i] = 1;
-        } Else {
-            Widgets[i] = 0;
-        }
-    }
+	selectedWidget = (ShapeSelected - 1) * 3 + FeatureSelected;
+	For (i = 1 to 15) {
+		If (i = selectedWidget) {
+			Widgets[i] = 1;
+		}
+		Else {
+			Widgets[i] = 0;
+		}
+	}
 }
 
-Function UnselectShapeButtons() {
-    SelectRoundRectangleSelected = 0;
-    SelectCircleSelected = 0;
-    SelectRectangleSelected = 0;
-    SelectTabSelected = 0;
-    SelectOvalSelected = 0;
+// #Region Shape
+Function UnselectAllShapeButtons() {
+	SelectRoundRectangleSelected = 0;
+	SelectCircleSelected = 0;
+	SelectRectangleSelected = 0;
+	SelectTabSelected = 0;
+	SelectOvalSelected = 0;
 }
-Function UnselectFeatureButtons() {
-    SelectSimpleSelected = 0;
-    SelectIconsSelected = 0;
-    SelectIconsTextSelected = 0;
+Function SelectShapeButton() {
+	CSwitch (ShapeSelected) {
+		Case (1): {
+			SelectRoundRectangleSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectCircleSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectRectangleSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectTabSelected = 1;
+			Break;
+		}
+		Case (5): {
+			SelectOvalSelected = 1;
+			Break;
+		}
+	}
 }
-
-Push SelectRoundRectanglePressed
-Push SelectCirclePressed
-Push SelectRectanglePressed
-Push SelectTabPressed 
+Function SetShape() {
+	UnselectAllShapeButtons();
+	SelectShapeButton();
+	SelectWidget();
+}
+Push SelectRoundRectanglePressed {
+	ShapeSelected = 1;
+	SetShape();
+}
+Push SelectCirclePressed {
+	ShapeSelected = 2;
+	SetShape();
+}
+Push SelectRectanglePressed {
+	ShapeSelected = 3;
+	SetShape();
+}
+Push SelectTabPressed {
+	ShapeSelected = 4;
+	SetShape();
+}
 Push SelectOvalPressed {
-    UnselectShapeButtons();
-    if (SelectRoundRectanglePressed = 1) {
-        SelectRoundRectangleSelected = 1;
-        ShapeSelected = 1;
-    } Else If (SelectCirclePressed = 1) {
-        SelectCircleSelected = 1;
-        ShapeSelected = 2;
-    } Else If (SelectRectanglePressed = 1) {
-        SelectRectangleSelected = 1;
-        ShapeSelected = 3;
-    } Else If (SelectTabPressed = 1) {
-        SelectTabSelected = 1;
-        ShapeSelected = 4;
-    } Else If (SelectOvalPressed = 1) {
-        SelectOvalSelected = 1;
-        ShapeSelected = 5;
-    }
-    SelectWidget();
+	ShapeSelected = 5;
+	SetShape();
 }
+// #EndRegion
 
-Push SelectSimplePressed
-Push SelectIconsPressed
-Push SelectIconsTextPressed  {
-    UnselectFeatureButtons();
-    if (SelectSimplePressed = 1) {
-        SelectSimpleSelected = 1;
-        FeatureSelected = 1;
-    } Else If (SelectIconsPressed = 1) {
-        SelectIconsSelected = 1;        
-        FeatureSelected = 2;
-    } Else If (SelectIconsTextPressed = 1) {
-        SelectIconsTextSelected = 1;
-        FeatureSelected = 3;
-    }
-    SelectWidget();
+
+// #Region Feature
+Function UnselectAllFeatureButtons() {
+	SelectSimpleSelected = 0;
+	SelectIconsSelected = 0;
+	SelectIconsTextSelected = 0;
 }
-
-
+Function SetFeatureButton() {
+	CSwitch (FeatureSelected) {
+		Case (1): {
+			SelectSimpleSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectIconsSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectIconsTextSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetFeature() {
+	UnselectAllFeatureButtons();
+	SetFeatureButton();
+	SelectWidget();
+}
+Push SelectSimplePressed {
+	FeatureSelected = 1;
+	SetFeature();
+}
+Push SelectIconsPressed {
+	FeatureSelected = 2;
+	SetFeature();
+}
+// #EndRegion
 
 Function Main() {
-    NumberOfShapesButtons = 5;
-    NumberOfFeaturesButtons = 3;
+	NumberOfShapesButtons = 5;
+	NumberOfFeaturesButtons = 3;
 
-    SelectRoundRectangleSelected = 1;
-    ShapeSelected = 1;
-    RoundRectangleTitle = "Round Rectangle";
-    CircleTitle = "Circle";
-    RectangleTitle = "Rectangle";
-    TabTitle = "Tab";
-    OvalTitle = "Oval";
+	SelectRoundRectangleSelected = 1;
+	ShapeSelected = 1;
+	RoundRectangleTitle = "Round Rectangle";
+	CircleTitle = "Circle";
+	RectangleTitle = "Rectangle";
+	TabTitle = "Tab";
+	OvalTitle = "Oval";
 
-    SelectSimpleSelected = 1;
-    FeatureSelected = 1;
-    SimpleTitle = "Simple";
-    IconsTitle = "Icons";
-    IconsTextTitle = "Icons + Text";
-    SelectWidget();
+	SelectSimpleSelected = 1;
+	FeatureSelected = 1;
+	SimpleTitle = "Simple";
+	IconsTitle = "Icons";
+	IconsTextTitle = "Icons + Text";
+	SelectWidget();
 }

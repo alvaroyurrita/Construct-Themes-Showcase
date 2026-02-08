@@ -28,6 +28,8 @@
   InputSigType3=Digital
   InputCue4=SelectTogglesPressed
   InputSigType4=Digital
+  InputCue5=SelectDpasPressed
+  InputSigType5=Digital
   OutputCue1=SelectButtonsSelected
   OutputSigType1=Digital
   OutputCue2=SelectSlidersSelected
@@ -36,6 +38,8 @@
   OutputSigType3=Digital
   OutputCue4=SelectTogglesSelected
   OutputSigType4=Digital
+  OutputCue5=SelectDpadSelected
+  OutputSigType5=Digital
   OutputList2Cue1=NumberOfButtons
   OutputList2SigType1=Analog
   OutputList2Cue2=ButtonTitle
@@ -46,15 +50,17 @@
   OutputList2SigType4=Serial
   OutputList2Cue5=ToggleTitle
   OutputList2SigType5=Serial
+  OutputList2Cue6=DpadTitle
+  OutputList2SigType6=Serial
   ParamCue1=[Reference Name]
-  MinVariableInputs=4
-  MaxVariableInputs=4
+  MinVariableInputs=5
+  MaxVariableInputs=5
   MinVariableInputsList2=0
   MaxVariableInputsList2=0
-  MinVariableOutputs=4
-  MaxVariableOutputs=4
-  MinVariableOutputsList2=5
-  MaxVariableOutputsList2=5
+  MinVariableOutputs=5
+  MaxVariableOutputs=5
+  MinVariableOutputsList2=6
+  MaxVariableOutputsList2=6
   MinVariableParams=0
   MaxVariableParams=0
   Expand=expand_separately
@@ -88,4 +94,8 @@
   H=1
   Tp=1
   NoS=False
+[END]
+[BEGIN]
+ObjTp=Status
+HeaderCompatible=False
 [END]

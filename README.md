@@ -10,7 +10,7 @@ Use it to test your themes and ensure they work as expected across all UI elemen
 * CH5 Version: 2.17.0
 
 > [!WARNING]
-> Do not load the CH5z in an actual touchpanel. The contents are too large, and the panel won't be able to handle it.  Download the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
+> This projet is to big. Loading the CH5z in a touch panel will result in very slow performance or even crashing, even when Preload and Cache has been turn off in every page. For best results (still not ideal) upload the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
 
 # Observations found while working on this projects
 

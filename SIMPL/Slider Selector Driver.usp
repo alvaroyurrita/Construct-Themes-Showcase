@@ -119,56 +119,6 @@ Integer ShapeSelected;
 Integer FeatureSelected;
 Integer SizeSelected;
 
-Function SelectTypePage() {
-	SelectSlidersAdvancedSelected = 0;
-	SelectSlidersFaderSelected = 0;
-	SelectSlidersGaugeSelected = 0;
-	SelectSlidersRangeSelected = 0;
-
-	If (SelectSlidersSelected = 0)
-		return;
-
-	if (SliderTypeSelected = 1) {
-		SelectSlidersAdvancedSelected = 1;
-	}
-	Else If (SliderTypeSelected = 2) {
-		SelectSlidersFaderSelected = 1;
-	}
-	Else If (SliderTypeSelected = 3) {
-		SelectSlidersGaugeSelected = 1;
-	}
-	Else If (SliderTypeSelected = 4) {
-		SelectSlidersRangeSelected = 1;
-	}
-}
-
-Function SelectSizePage() {
-	XLargePageView = 0;
-	LargePageView = 0;
-	RegularPageView = 0;
-	SmallPageView = 0;
-	XSmallPageView = 0;
-
-	if (SelectSlidersSelected = 0)
-		return;
-
-	If (SizeSelected = 1) {
-		LargePageView = 1;
-	}
-	Else If (SizeSelected = 2) {
-		RegularPageView = 1;
-	}
-	Else If (SizeSelected = 3) {
-		SmallPageView = 1;
-	}
-	Else If (SizeSelected = 4) {
-		XLargePageView = 1;
-	}
-	Else If (SizeSelected = 5) {
-		XSmallPageView = 1;
-	}
-}
-
 Function SelectWidget() {
 	Integer selectedWidget, i;
 
@@ -183,33 +133,7 @@ Function SelectWidget() {
 	}
 }
 
-Function UnselectAllSliderButtons() {
-	SelectSlidersAdvancedSelected = 0;
-	SelectSlidersFaderSelected = 0;
-	SelectSlidersGaugeSelected = 0;
-	SelectSlidersRangeSelected = 0;
-}
-
-Function UnselectShapeButtons() {
-	SelectRoundRectangleSelected = 0;
-	SelectCircleSelected = 0;
-	SelectRectangleSelected = 0;
-	SelectOvalSelected = 0;
-}
-
-Function UnselectFeatureButtons() {
-	SelectSimpleSelected = 0;
-	SelectToolTipSelected = 0;
-	SelectToolTipTicksSelected = 0;
-}
-
-Function UnselectSizeButtons() {
-	SelectXLargeSelected = 0;
-	SelectLargeSelected = 0;
-	SelectRegularSelected = 0;
-	SelectSmallSelected = 0;
-	SelectXSmallSelected = 0;
-}
+// #Region Enable Buttons
 
 Function EnableAllTypeButtons() {
 	SelectSlidersAdvancedEnabled = 1;
@@ -238,126 +162,282 @@ Function EnableAllSizeButtons() {
 	SelectSmallEnabled = 1;
 	SelectXSmallEnabled = 1;
 }
+// #EndRegion
 
-Push SelectSlidersAdvancedPressed Push SelectSlidersFaderPressed Push SelectSlidersGaugePressed Push SelectSlidersRangePressed {
-	UnselectAllSliderButtons();
-	if (SelectSlidersAdvancedPressed = 1) {
-		SelectSlidersAdvancedSelected = 1;
-		SliderTypeSelected = 1;
-		EnableAllShapeButtons();
-		EnableAllSizeButtons();
-		EnableAllFeatureButtons();
-		ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
-	}
-	Else If (SelectSlidersFaderPressed = 1) {
-		SelectSlidersFaderSelected = 1;
-		SliderTypeSelected = 2;
-		EnableAllShapeButtons();
-		EnableAllSizeButtons();
-		EnableAllFeatureButtons();
-		ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
-	}
-	Else If (SelectSlidersGaugePressed = 1) {
-		SelectSlidersGaugeSelected = 1;
-		SliderTypeSelected = 3;
+// #Region Type
+Function UnselectAllTypeButtons() {
+	SelectSlidersAdvancedSelected = 0;
+	SelectSlidersFaderSelected = 0;
+	SelectSlidersGaugeSelected = 0;
+	SelectSlidersRangeSelected = 0;
+}
+Function SetTypeButtons() {
+	CSwitch (SliderTypeSelected) {
+		Case (1): {
+			SelectSlidersAdvancedSelected = 1;
+			EnableAllShapeButtons();
+			EnableAllSizeButtons();
+			EnableAllFeatureButtons();
+			ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
+			Break;
+		}
+		Case (2): {
+			SelectSlidersFaderSelected = 1;
+			EnableAllShapeButtons();
+			EnableAllSizeButtons();
+			EnableAllFeatureButtons();
+			ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
+			Break;
+		}
+		Case (3): {
+			SelectSlidersGaugeSelected = 1;
+			ToolTipTicksTitle = "Ticks";
 
-		ToolTipTicksTitle = "Ticks";
+			SelectRoundRectangleEnabled = 0;
+			SelectCircleEnabled = 0;
+			SelectRectangleEnabled = 0;
+			SelectOvalEnabled = 0;
 
+			SelectXLargeEnabled = 0;
+			SelectLargeEnabled = 0;
+			SelectRegularEnabled = 0;
+			SelectSmallEnabled = 0;
+			SelectXSmallEnabled = 0;
 
-		SelectRoundRectangleEnabled = 0;
-		SelectCircleEnabled = 0;
-		SelectRectangleEnabled = 0;
-		SelectOvalEnabled = 0;
-
-		SelectXLargeEnabled = 0;
-		SelectLargeEnabled = 0;
-		SelectRegularEnabled = 0;
-		SelectSmallEnabled = 0;
-		SelectXSmallEnabled = 0;
-
-		SelectToolTipEnabled = 0;
-	}
-	Else If (SelectSlidersRangePressed = 1) {
-		SelectSlidersRangeSelected = 1;
-		SliderTypeSelected = 4;
-		EnableAllShapeButtons();
-		EnableAllSizeButtons();
-		EnableAllFeatureButtons();
-		ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
+			SelectToolTipEnabled = 0;
+			Break;
+		}
+		Case (4): {
+			SelectSlidersRangeSelected = 1;
+			EnableAllShapeButtons();
+			EnableAllSizeButtons();
+			EnableAllFeatureButtons();
+			ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
+			Break;
+		}
 	}
 }
-
-
-Push SelectRoundRectanglePressed Push SelectCirclePressed Push SelectRectanglePressed Push SelectOvalPressed {
-	UnselectShapeButtons();
-	if (SelectCirclePressed = 1) {
-		SelectCircleSelected = 1;
-		ShapeSelected = 1;
-	}
-	Else If (SelectOvalPressed = 1) {
-		SelectOvalSelected = 1;
-		ShapeSelected = 2;
-	}
-	Else If (SelectRoundRectanglePressed = 1) {
-		SelectRoundRectangleSelected = 1;
-		ShapeSelected = 3;
-	}
-	Else If (SelectRectanglePressed = 1) {
-		SelectRectangleSelected = 1;
-		ShapeSelected = 4;
-	}
+Function SetType() {
+	UnselectAllTypeButtons();
+	SetTypeButtons();
 	SelectWidget();
 }
+Push SelectSlidersAdvancedPressed {
+	SliderTypeSelected = 1;
+	SetType();
+}
+Push SelectSlidersFaderPressed {
+	SliderTypeSelected = 2;
+	SetType();
+}
+Push SelectSlidersGaugePressed {
+	SliderTypeSelected = 3;
+	SetType();
+}
+Push SelectSlidersRangePressed {
+	SliderTypeSelected = 4;
+	SetType();
+}
+// #EndRegion
 
-Push SelectSimplePressed Push SelectToolTipPressed Push SelectToolTipTicksPressed {
-	UnselectFeatureButtons();
-	if (SelectToolTipTicksPressed = 1) {
-		SelectToolTipTicksSelected = 1;
-		FeatureSelected = 1;
-		EnableAllTypeButtons();
+// #Region Feature
+Function UnselectAllFeatureButtons() {
+	SelectSimpleSelected = 0;
+	SelectToolTipSelected = 0;
+	SelectToolTipTicksSelected = 0;
+}
+Function SetFeatureButtons() {
+	CSwitch (FeatureSelected) {
+		Case (1): {
+			SelectToolTipTicksSelected = 1;
+			EnableAllTypeButtons();
+			Break;
+		}
+		Case (2): {
+			SelectToolTipSelected = 1;
+			SelectSlidersGaugeEnabled = 0;
+			Break;
+		}
+		Case (3): {
+			SelectSimpleSelected = 1;
+			EnableAllTypeButtons();
+			Break;
+		}
 	}
-	Else If (SelectToolTipPressed = 1) {
-		SelectToolTipSelected = 1;
-		FeatureSelected = 2;
-		SelectSlidersGaugeEnabled = 0;
-	}
-	Else If (SelectSimplePressed = 1) {
-		SelectSimpleSelected = 1;
-		FeatureSelected = 3;
-		EnableAllTypeButtons();
-	}
+}
+Function SetFeature() {
+	UnselectAllFeatureButtons();
+	SetFeatureButtons();
 	SelectWidget();
 }
+Push SelectSimplePressed {
+	FeatureSelected = 1;
+	SetFeature();
+}
+Push SelectToolTipPressed {
+	FeatureSelected = 2;
+	SetFeature();
+}
+Push SelectToolTipTicksPressed {
+	FeatureSelected = 3;
+	SetFeature();
+}
+// #EndRegion
 
-Push SelectXLargePressed Push SelectLargePressed Push SelectRegularPressed Push SelectSmallPressed Push SelectXSmallPressed {
-	UnselectSizeButtons();
-	if (SelectXLargePressed = 1) {
-		SelectXlargeSelected = 1;
-		SizeSelected = 4;
+// #Region Shape
+Function UnselectAllShapeButtons() {
+	SelectRoundRectangleSelected = 0;
+	SelectCircleSelected = 0;
+	SelectRectangleSelected = 0;
+	SelectOvalSelected = 0;
+}
+Function SetShapeButtons() {
+	CSwitch (ShapeSelected) {
+		Case (1): {
+			SelectCircleSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectOvalSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectRoundRectangleSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectRectangleSelected = 1;
+			Break;
+		}
 	}
-	Else If (SelectLargePressed = 1) {
-		SelectLargeSelected = 1;
-		SizeSelected = 1;
-	}
-	Else If (SelectRegularPressed = 1) {
-		SelectRegularSelected = 1;
-		SizeSelected = 2;
-	}
-	Else If (SelectSmallPressed = 1) {
-		SelectSmallSelected = 1;
-		SizeSelected = 3;
-	}
-	Else If (SelectXSmallPressed = 1) {
-		SelectXSmallSelected = 1;
-		SizeSelected = 5;
-	}
+}
+Function SetShape() {
+	UnselectAllShapeButtons();
+	SetShapeButtons();
 	SelectWidget();
-	SelectSizePage();
+}
+Push SelectCirclePressed {
+	ShapeSelected = 1;
+	SetShape();
+}
+Push SelectOvalPressed {
+	ShapeSelected = 2;
+	SetShape();
+}
+Push SelectRoundRectanglePressed {
+	ShapeSelected = 3;
+	SetShape();
+}
+Push SelectRectanglePressed {
+	ShapeSelected = 4;
+	SetShape();
+}
+// #EndRegion
+
+// #Region Size
+Function UnselectAllSizeButtons() {
+	SelectXLargeSelected = 0;
+	SelectLargeSelected = 0;
+	SelectRegularSelected = 0;
+	SelectSmallSelected = 0;
+	SelectXSmallSelected = 0;
+}
+Function ClearAllSizePages() {
+	XLargePageView = 0;
+	LargePageView = 0;
+	RegularPageView = 0;
+	SmallPageView = 0;
+	XSmallPageView = 0;
+}
+Function SetSizePage() {
+	CSwitch (SizeSelected) {
+		Case (1): {
+			LargePageView = 1;
+			Break;
+		}
+		Case (2): {
+			RegularPageView = 1;
+			Break;
+		}
+		Case (3): {
+			SmallPageView = 1;
+			Break;
+		}
+		Case (4): {
+			XLargePageView = 1;
+			Break;
+		}
+		Case (5): {
+			XSmallPageView = 1;
+			Break;
+		}
+	}
+}
+Function SetSizeButtons() {
+	CSwitch (SizeSelected) {
+		Case (1): {
+			SelectLargeSelected = 1;
+			Break;
+		}
+		Case (2): {
+			SelectRegularSelected = 1;
+			Break;
+		}
+		Case (3): {
+			SelectSmallSelected = 1;
+			Break;
+		}
+		Case (4): {
+			SelectXlargeSelected = 1;
+			Break;
+		}
+		Case (5): {
+			SelectXSmallSelected = 1;
+			Break;
+		}
+	}
+}
+Function SetSize() {
+	UnselectAllSizeButtons();
+	SetSizeButtons();
+	ClearAllSizePages();
+	SetSizePage();
+	SelectWidget();
+}
+Push SelectLargePressed {
+	SizeSelected = 1;
+	SetSize();
+}
+Push SelectRegularPressed {
+	SizeSelected = 2;
+	SetSize();
+}
+Push SelectSmallPressed {
+	SizeSelected = 3;
+	SetSize();
+}
+Push SelectXLargePressed {
+	SizeSelected = 4;
+	SetSize();
+}
+Push SelectXSmallPressed {
+	SizeSelected = 5;
+	SetSize();
+}
+// #EndRegion
+
+
+Push SelectSlidersSelected {
+	SetType();
+	SetSize();
+	SetShape();
+	SetFeature();
 }
 
-Change SelectSlidersSelected {
-	SelectTypePage();
-	SelectSizePage();
+Release SelectSlidersSelected {
+	UnselectAllTypeButtons();
+	ClearAllSizePages();
+	UnselectAllSizeButtons();
 }
 
 
@@ -368,38 +448,31 @@ Function Main() {
 	NumberOfSizesButtons = 5;
 
 	SliderTypeSelected = 1;
-	SelectSlidersAdvancedSelected = 0;
 	SliderAdvancedTitle = "Sliders<br/>Advanced";
 	SliderFaderTitle = "Sliders<br/>Fader";
 	SliderGaugeTitle = "Sliders<br/>Gauge";
 	SliderRangeTitle = "Sliders<br/>Range";
 
-	SelectRoundRectangleSelected = 1;
-	ShapeSelected = 4;
-	RoundRectangleTitle = "Round<br/>Rectangle";
-	CircleTitle = "Circle";
-	RectangleTitle = "Rectangle";
-	OvalTitle = "Oval";
-
-	SelectSimpleSelected = 1;
+	ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
+	ToolTipTitle = "Tool Tip";
 	FeatureSelected = 3;
 	SimpleTitle = "Simple";
-	ToolTipTitle = "Tool Tip";
-	ToolTipTicksTitle = "Tool Tip<br/>+ Ticks";
 
+	CircleTitle = "Circle";
+	OvalTitle = "Oval";
+	ShapeSelected = 3;
+	RoundRectangleTitle = "Round<br/>Rectangle";
+	RectangleTitle = "Rectangle";
 
-	SelectXLargeSelected = 1;
-	SizeSelected = 4;
-	XLargeTitle = "Extra Large";
 	LargeTitle = "Large";
 	RegularTitle = "Regular";
 	SmallTitle = "Small";
+	SizeSelected = 4;
+	XLargeTitle = "Extra Large";
 	XSmallTitle = "Extra Small";
 
 	EnableAllTypeButtons();
 	EnableAllSizeButtons();
 	EnableAllFeatureButtons();
 	EnableAllShapeButtons();
-
-	SelectWidget();
 }
