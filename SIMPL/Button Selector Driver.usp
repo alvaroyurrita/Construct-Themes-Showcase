@@ -154,7 +154,7 @@ Function Main() {
 	NumberOfFeaturesButtons = 3;
 
 	ShapeSelected = 1;
-	RoundRectangleTitle = "Round Rectangle";
+	RoundRectangleTitle = "Round<br/>Rectangle";
 	CircleTitle = "Circle";
 	RectangleTitle = "Rectangle";
 	TabTitle = "Tab";

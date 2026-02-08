@@ -157,11 +157,11 @@ Function Main() {
 	ButtonTitle = "Buttons";
 	DpadTitle = "Dpads";
 	KeypadTitle = "Keypads";
-	MediaPlayerTitle = "Media Player";
+	MediaPlayerTitle = "Media<br/>Player";
 	OtherTitle = "Other";
 	SliderTitle = "Sliders";
 	TabTitle = "Tabs";
 	ToggleTitle = "Toggles";
 	VideoTitle = "Videos";
-	VideoSwitcherTitle = "Video Switchers";
+	VideoSwitcherTitle = "Video<br/>Switchers";
 }
