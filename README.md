@@ -30,10 +30,6 @@ Below are some screenshot of the showcase using the Light Theme
 
 # Observations found while working on this projects
 
-## SIMPL Contracts
-
-It would have been nice to be able to assign certain cotracts as global.  IT appears that when assigning a widget to a page, the contracts generated are per page. I can see how that is important when the elements of a widget are buttons, butn when the element is something like a nav bar, that is used in several pages at once, a new contract is generated in simple under each page, which means the signals need to be duplicated between contracts.  A global setting, would bubble the contract to the top, so the signals would only need to be created and maintained in one place.
-
 ## Slider Advanced Ticks
 
 Ticks need to be entered exactly as explained [here](https://sdkcon78221.crestron.com/downloads/ShowcaseApp/ch5-slider/ticks.html):

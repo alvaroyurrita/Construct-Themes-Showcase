@@ -1,20 +1,19 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-08 14:11:27.251646-05:00
+Created = 2026-02-09 14:23:42.017958-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-08 14:11:27.251639-05:00
+Modified = 2026-02-09 14:23:42.017952-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="id9b" componentname="NavBar" ccid_componenttype="Widget" ccid_widgetname="NavBar" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-button-list centeritems="false" columns="1" endless="false" numberofitems="2" orientation="vertical" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="Contract Enabled" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="theme" loaditems="visible-only" id="iozv" componentname="SizeSelector" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" oldid="i0u7" contractitemlabeltype="innerHTML" usecontractfornumitems="true"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-button-list-individual-button></ch5-button-list><ch5-button-list centeritems="false" columns="1" endless="false" numberofitems="3" orientation="vertical" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="Contract Enabled" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="theme" loaditems="visible-only" id="ib7k" componentname="ShapeSelector" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" oldid="ien8l" contractitemlabeltype="innerHTML" usecontractfornumitems="true"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-button-list-individual-button></ch5-button-list><ch5-button-list centeritems="false" columns="1" endless="false" numberofitems="8" orientation="vertical" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="Contract Enabled" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="theme" loaditems="visible-only" id="ip83" componentname="TypeSelector" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" oldid="itko1oryjvuhz" contractitemlabeltype="innerHTML" usecontractfornumitems="true"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 5" componentnumber="5"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 6" componentnumber="6"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 7" componentnumber="7"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 8" componentnumber="8"></ch5-button-list-individual-button></ch5-button-list><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wfac8dd0c-4ffd-4e58-a23f-9783582fcda6" id="iramh" componentname="Keypad-Size2-SQ-Default" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Default" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="250"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w70705730-56ef-42c1-b4a2-618f47bed9d5" id="i3yd3" componentname="Keypad-Size2-SQ-Primary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Primary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="251"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w66be4fe9-0cee-44c6-83e9-355ee9aabd2a" id="ihkld" componentname="Keypad-Size2-SQ-Info" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Info" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="252"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa59f6d93-326e-4a57-ad95-48c8ce7410b1" id="ie8fp" componentname="Keypad-Size2-SQ-Text" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Text" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="253"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb33cbf95-dfcc-42c0-8963-1159db31853b" id="i1005" componentname="Keypad-Size2-SQ-Danger" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Danger" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="254"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w16a5adb5-6726-4aba-a3c9-f82c4ab8f52e" id="ix3ud" componentname="Keypad-Size2-SQ-Warning" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Warning" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="255"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w35308baa-d6ce-4d96-8cd8-0c63dff60b56" id="il13g" componentname="Keypad-Size2-SQ-Success" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Success" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="256"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wf772bf39-cdaf-4415-96e5-27a906d05122" id="ipwxv" componentname="Keypad-Size2-SQ-Secondary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-SQ-Secondary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="257"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wae4af489-66c7-4ccb-9784-821c350fa99a" id="ix265" componentname="Keypad-Size2-RR-Default" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Default" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="258"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w9e45c5af-0292-49bb-9aa6-4094400cf907" id="i377n" componentname="Keypad-Size2-RR-Primary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Primary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="259"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w02a2c392-ebe8-48b7-854a-cdc9a587263d" id="iiv41" componentname="Keypad-Size2-RR-Info" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Info" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="260"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w4195ad9a-def1-4a81-bd84-f947c7a093ce" id="iydyu" componentname="Keypad-Size2-RR-Text" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Text" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="261"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb62ee1f8-22ea-4ac1-9f9b-a480312c5984" id="iermb" componentname="Keypad-Size2-RR-Danger" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Danger" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="262"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w3a6a779c-f68e-4ba6-b33d-f90d419c1ed5" id="ictzn" componentname="Keypad-Size2-RR-Warning" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Warning" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="263"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wbf595446-2e2f-4c08-83fa-69902efbaef7" id="il3vv" componentname="Keypad-Size2-RR-Success" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Success" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="264"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb1533be6-0c8e-4497-93cd-7830f36de353" id="i6n97" componentname="Keypad-Size2-RR-Secondary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-RR-Secondary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="265"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa4357d73-97c9-4108-b32e-beb3c37201b5" id="ii3md" componentname="Keypad-Size2-CI-Default" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Default" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="266"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w672a8eab-cd82-4838-a049-7cb78bdbaed1" id="inu0l" componentname="Keypad-Size2-CI-Primary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Primary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="267"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w302506d8-09d8-4fd5-ac20-f4648b428994" id="ibu8m" componentname="Keypad-Size2-CI-Info" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Info" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="268"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wae231fae-c336-4d42-aaef-dd8b73a3577c" id="ifcxh" componentname="Keypad-Size2-CI-Text" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Text" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="269"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w686fada5-3de5-42e3-a958-3c43eef586f5" id="ie8g4" componentname="Keypad-Size2-CI-Danger" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Danger" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="270"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wc09c9eb2-75f5-49f0-b350-d40f27d61a7a" id="i5ofl" componentname="Keypad-Size2-CI-Warning" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Warning" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="271"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="waf70a409-f5cd-433b-af9b-e8f4b81261ee" id="i2pnu" componentname="Keypad-Size2-CI-Success" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Success" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="272"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd4960824-873b-48ea-be2a-f9c6772efe5e" id="ijoxg" componentname="Keypad-Size2-CI-Secondary" ccid_componenttype="Widget" ccid_widgetname="Keypad-Size2-CI-Secondary" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="273"></ch5-template><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="isvg" componentname="Formatted-Text_2" ccid_activefont="'Roboto'" ccid_label="Size" labelinnerhtml="Size" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="igti"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iiqz" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="Type" labelinnerhtml="Type" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="in8qo"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i1n1" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Shape" labelinnerhtml="Shape" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
-              </ch5-text>
+<ch5-template transitionduration="1s" transitiondelay="0s" templateid="wbecbceda-cd2f-4f27-86d6-112a1b09d364" id="ivppz" componentName="Keypad Attributes" ccid_ComponentType="Widget" ccid_WidgetName="Keypad Attributes" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="id9b" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wfac8dd0c-4ffd-4e58-a23f-9783582fcda6" id="iramh" componentName="Keypad-Size2-SQ-Default" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Default" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="250"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w70705730-56ef-42c1-b4a2-618f47bed9d5" id="i3yd3" componentName="Keypad-Size2-SQ-Primary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Primary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="251"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w66be4fe9-0cee-44c6-83e9-355ee9aabd2a" id="ihkld" componentName="Keypad-Size2-SQ-Info" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Info" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="252"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa59f6d93-326e-4a57-ad95-48c8ce7410b1" id="ie8fp" componentName="Keypad-Size2-SQ-Text" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Text" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="253"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb33cbf95-dfcc-42c0-8963-1159db31853b" id="i1005" componentName="Keypad-Size2-SQ-Danger" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Danger" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="254"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w16a5adb5-6726-4aba-a3c9-f82c4ab8f52e" id="ix3ud" componentName="Keypad-Size2-SQ-Warning" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Warning" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="255"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w35308baa-d6ce-4d96-8cd8-0c63dff60b56" id="il13g" componentName="Keypad-Size2-SQ-Success" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Success" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="256"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wf772bf39-cdaf-4415-96e5-27a906d05122" id="ipwxv" componentName="Keypad-Size2-SQ-Secondary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-SQ-Secondary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="257"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wae4af489-66c7-4ccb-9784-821c350fa99a" id="ix265" componentName="Keypad-Size2-RR-Default" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Default" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="258"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w9e45c5af-0292-49bb-9aa6-4094400cf907" id="i377n" componentName="Keypad-Size2-RR-Primary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Primary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="259"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w02a2c392-ebe8-48b7-854a-cdc9a587263d" id="iiv41" componentName="Keypad-Size2-RR-Info" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Info" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="260"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w4195ad9a-def1-4a81-bd84-f947c7a093ce" id="iydyu" componentName="Keypad-Size2-RR-Text" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Text" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="261"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb62ee1f8-22ea-4ac1-9f9b-a480312c5984" id="iermb" componentName="Keypad-Size2-RR-Danger" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Danger" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="262"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w3a6a779c-f68e-4ba6-b33d-f90d419c1ed5" id="ictzn" componentName="Keypad-Size2-RR-Warning" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Warning" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="263"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wbf595446-2e2f-4c08-83fa-69902efbaef7" id="il3vv" componentName="Keypad-Size2-RR-Success" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Success" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="264"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wb1533be6-0c8e-4497-93cd-7830f36de353" id="i6n97" componentName="Keypad-Size2-RR-Secondary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-RR-Secondary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="265"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wa4357d73-97c9-4108-b32e-beb3c37201b5" id="ii3md" componentName="Keypad-Size2-CI-Default" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Default" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="266"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w672a8eab-cd82-4838-a049-7cb78bdbaed1" id="inu0l" componentName="Keypad-Size2-CI-Primary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Primary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="267"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w302506d8-09d8-4fd5-ac20-f4648b428994" id="ibu8m" componentName="Keypad-Size2-CI-Info" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Info" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="268"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wae231fae-c336-4d42-aaef-dd8b73a3577c" id="ifcxh" componentName="Keypad-Size2-CI-Text" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Text" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="269"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w686fada5-3de5-42e3-a958-3c43eef586f5" id="ie8g4" componentName="Keypad-Size2-CI-Danger" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Danger" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="270"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wc09c9eb2-75f5-49f0-b350-d40f27d61a7a" id="i5ofl" componentName="Keypad-Size2-CI-Warning" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Warning" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="271"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="waf70a409-f5cd-433b-af9b-e8f4b81261ee" id="i2pnu" componentName="Keypad-Size2-CI-Success" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Success" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="272"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd4960824-873b-48ea-be2a-f9c6772efe5e" id="ijoxg" componentName="Keypad-Size2-CI-Secondary" ccid_ComponentType="Widget" ccid_WidgetName="Keypad-Size2-CI-Secondary" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="273"></ch5-template>
 
 {Css}
-@media (max-width: 99999px){#ib7k .ch5-button-list :not(i):not(svg){font-family:"Roboto";}#id9b{display:block;left:0;top:0;position:absolute;z-index:103;}#i1n1 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i1n1 .ch5-text :not(i):not(svg){font-family:"Roboto";}#i1n1{display:block;left:1133px;top:16px;position:absolute;width:132px;height:48px;--ch5-text--width:132px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;z-index:73;}#ip83 .ch5-button-list :not(i):not(svg){font-family:"Roboto";}#iiqz .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iiqz .ch5-text :not(i):not(svg){font-family:"Roboto";}#iiqz{display:block;left:1133px;top:258px;position:absolute;width:132px;height:48px;--ch5-text--width:132px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;z-index:74;}#isvg .ch5-text{min-height:10px;min-width:10px;padding:0px;}#isvg .ch5-text :not(i):not(svg){font-family:"Roboto";}#isvg{display:block;left:992px;top:597px;position:absolute;width:132px;height:48px;--ch5-text--width:132px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;z-index:75;}#iozv .ch5-button-list :not(i):not(svg){font-family:"Roboto";}#iict78tocwrl4 .ch5-button :not(i):not(svg){font-family:"Roboto";}#ickkq6iy25mx3 .ch5-button :not(i):not(svg){font-family:"Roboto";}#i2s2gl4ia8rc9 .ch5-button :not(i):not(svg){font-family:"Roboto";}#isc6wfu5s222v .ch5-button :not(i):not(svg){font-family:"Roboto";}#i2rqi2e0eo0l4 .ch5-button :not(i):not(svg){font-family:"Roboto";}#ie8g4{display:none;left:156px;top:0;position:absolute;z-index:79;}#ii3md{display:none;left:156px;top:0;position:absolute;z-index:83;}#ibu8m{display:none;left:156px;top:0;position:absolute;z-index:81;}#inu0l{display:none;left:156px;top:0;position:absolute;z-index:82;}#ijoxg{display:none;left:156px;top:0;position:absolute;z-index:76;}#i2pnu{display:none;left:156px;top:0;position:absolute;z-index:77;}#ifcxh{display:none;left:156px;top:0;position:absolute;z-index:80;}#i5ofl{display:none;left:156px;top:0;position:absolute;z-index:78;}#iermb{display:none;left:156px;top:0;position:absolute;z-index:87;}#ix265{display:none;left:156px;top:0;position:absolute;z-index:91;}#iiv41{display:none;left:156px;top:0;position:absolute;z-index:89;}#i377n{display:none;left:156px;top:0;position:absolute;z-index:90;}#i6n97{display:none;left:156px;top:0;position:absolute;z-index:84;}#il3vv{display:none;left:156px;top:0;position:absolute;z-index:85;}#iydyu{display:none;left:156px;top:0;position:absolute;z-index:88;}#ictzn{display:none;left:156px;top:0;position:absolute;z-index:86;}#i1005{display:none;left:156px;top:0;position:absolute;z-index:95;}#iramh{display:block;left:156px;top:0;position:absolute;z-index:99;}#ihkld{display:none;left:156px;top:0;position:absolute;z-index:97;}#i3yd3{display:none;left:156px;top:0;position:absolute;z-index:98;}#ipwxv{display:none;left:156px;top:0;position:absolute;z-index:92;}#ie8fp{display:none;left:156px;top:0;position:absolute;z-index:96;}#ix3ud{display:none;left:156px;top:0;position:absolute;z-index:94;}#il13g{display:none;left:156px;top:0;position:absolute;z-index:93;}#wrapper{background-color:#ffffff;}#iozv{width:132px;height:122px;listbuttonhsize_width:100px;listbuttonvsize_height:58px;listbuttonspacing_row-gap:0px;listbuttonspacing_column-gap:0px;buttonlistdefaultimage_width:21px;buttonlistdefaultimage_height:21px;display:block;left:991px;top:649px;position:absolute;z-index:102;}#ib7k{width:132px;height:198px;listbuttonhsize_width:100px;listbuttonvsize_height:58px;listbuttonspacing_row-gap:0px;listbuttonspacing_column-gap:0px;buttonlistdefaultimage_width:21px;buttonlistdefaultimage_height:21px;display:block;left:1133px;top:62px;position:absolute;z-index:101;}#ip83{width:132px;height:480px;listbuttonhsize_width:100px;listbuttonvsize_height:58px;listbuttonspacing_row-gap:0px;listbuttonspacing_column-gap:0px;buttonlistdefaultimage_width:21px;buttonlistdefaultimage_height:21px;display:block;left:1133px;top:304px;position:absolute;z-index:100;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#id9b{display:block;left:0;top:0;position:absolute;z-index:103;}#i1n1{display:block;left:1133px;top:16px;position:absolute;width:132px;height:48px;--ch5-text--width:132px;Label_font-size:23px;--ch5-text--font-size:23px;z-index:73;}#iiqz{left:1133px;top:258px;position:absolute;width:132px;height:48px;z-index:74;}#isvg{left:992px;top:597px;z-index:75;position:absolute;width:132px;height:48px;}#ie8g4{display:none;left:156px;top:0;position:absolute;z-index:79;}#ii3md{display:none;left:156px;top:0;position:absolute;z-index:83;}#ibu8m{display:none;left:156px;top:0;position:absolute;z-index:81;}#inu0l{display:none;left:156px;top:0;position:absolute;z-index:82;}#ijoxg{display:none;left:156px;top:0;position:absolute;z-index:76;}#i2pnu{display:none;left:156px;top:0;position:absolute;z-index:77;}#ifcxh{display:none;left:156px;top:0;position:absolute;z-index:80;}#i5ofl{display:none;left:156px;top:0;position:absolute;z-index:78;}#iermb{display:none;left:156px;top:0;position:absolute;z-index:87;}#ix265{display:none;left:156px;top:0;position:absolute;z-index:91;}#iiv41{display:none;left:156px;top:0;position:absolute;z-index:89;}#i377n{display:none;left:156px;top:0;position:absolute;z-index:90;}#i6n97{display:none;left:156px;top:0;position:absolute;z-index:84;}#il3vv{display:none;left:156px;top:0;position:absolute;z-index:85;}#iydyu{display:none;left:156px;top:0;position:absolute;z-index:88;}#ictzn{display:none;left:156px;top:0;position:absolute;z-index:86;}#i1005{display:none;left:156px;top:0;position:absolute;z-index:95;}#iramh{display:block;left:156px;top:0;position:absolute;z-index:99;}#ihkld{display:none;left:156px;top:0;position:absolute;z-index:97;}#i3yd3{display:none;left:156px;top:0;position:absolute;z-index:98;}#ipwxv{display:none;left:156px;top:0;position:absolute;z-index:92;}#ie8fp{display:none;left:156px;top:0;position:absolute;z-index:96;}#ix3ud{display:none;left:156px;top:0;position:absolute;z-index:94;}#il13g{display:none;left:156px;top:0;position:absolute;z-index:93;}#iozv{left:991px;top:649px;position:absolute;width:132px;height:122px;z-index:102;}#ib7k{left:1133px;top:62px;position:absolute;width:132px;height:198px;z-index:101;}#ip83{left:1133px;top:304px;position:absolute;width:132px;height:480px;z-index:100;}}
+@media (max-width: 99999px){#id9b{display:block;left:0;top:0;position:absolute;z-index:103;}#iict78tocwrl4 .ch5-button :not(i):not(svg){font-family:"Roboto";}#ickkq6iy25mx3 .ch5-button :not(i):not(svg){font-family:"Roboto";}#i2s2gl4ia8rc9 .ch5-button :not(i):not(svg){font-family:"Roboto";}#isc6wfu5s222v .ch5-button :not(i):not(svg){font-family:"Roboto";}#i2rqi2e0eo0l4 .ch5-button :not(i):not(svg){font-family:"Roboto";}#ie8g4{display:none;left:156px;top:0;position:absolute;z-index:79;}#ii3md{display:none;left:156px;top:0;position:absolute;z-index:83;}#ibu8m{display:none;left:156px;top:0;position:absolute;z-index:81;}#inu0l{display:none;left:156px;top:0;position:absolute;z-index:82;}#ijoxg{display:none;left:156px;top:0;position:absolute;z-index:76;}#i2pnu{display:none;left:156px;top:0;position:absolute;z-index:77;}#ifcxh{display:none;left:156px;top:0;position:absolute;z-index:80;}#i5ofl{display:none;left:156px;top:0;position:absolute;z-index:78;}#iermb{display:none;left:156px;top:0;position:absolute;z-index:87;}#ix265{display:none;left:156px;top:0;position:absolute;z-index:91;}#iiv41{display:none;left:156px;top:0;position:absolute;z-index:89;}#i377n{display:none;left:156px;top:0;position:absolute;z-index:90;}#i6n97{display:none;left:156px;top:0;position:absolute;z-index:84;}#il3vv{display:none;left:156px;top:0;position:absolute;z-index:85;}#iydyu{display:none;left:156px;top:0;position:absolute;z-index:88;}#ictzn{display:none;left:156px;top:0;position:absolute;z-index:86;}#i1005{display:none;left:156px;top:0;position:absolute;z-index:95;}#iramh{display:block;left:156px;top:0;position:absolute;z-index:99;}#ihkld{display:none;left:156px;top:0;position:absolute;z-index:97;}#i3yd3{display:none;left:156px;top:0;position:absolute;z-index:98;}#ipwxv{display:none;left:156px;top:0;position:absolute;z-index:92;}#ie8fp{display:none;left:156px;top:0;position:absolute;z-index:96;}#ix3ud{display:none;left:156px;top:0;position:absolute;z-index:94;}#il13g{display:none;left:156px;top:0;position:absolute;z-index:93;}#wrapper{background-color:#ffffff;}#ivppz{display:block;left:1000px;top:0;position:absolute;z-index:103;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#id9b{display:block;left:0;top:0;position:absolute;z-index:103;}#ie8g4{display:none;left:156px;top:0;position:absolute;z-index:79;}#ii3md{display:none;left:156px;top:0;position:absolute;z-index:83;}#ibu8m{display:none;left:156px;top:0;position:absolute;z-index:81;}#inu0l{display:none;left:156px;top:0;position:absolute;z-index:82;}#ijoxg{display:none;left:156px;top:0;position:absolute;z-index:76;}#i2pnu{display:none;left:156px;top:0;position:absolute;z-index:77;}#ifcxh{display:none;left:156px;top:0;position:absolute;z-index:80;}#i5ofl{display:none;left:156px;top:0;position:absolute;z-index:78;}#iermb{display:none;left:156px;top:0;position:absolute;z-index:87;}#ix265{display:none;left:156px;top:0;position:absolute;z-index:91;}#iiv41{display:none;left:156px;top:0;position:absolute;z-index:89;}#i377n{display:none;left:156px;top:0;position:absolute;z-index:90;}#i6n97{display:none;left:156px;top:0;position:absolute;z-index:84;}#il3vv{display:none;left:156px;top:0;position:absolute;z-index:85;}#iydyu{display:none;left:156px;top:0;position:absolute;z-index:88;}#ictzn{display:none;left:156px;top:0;position:absolute;z-index:86;}#i1005{display:none;left:156px;top:0;position:absolute;z-index:95;}#iramh{display:block;left:156px;top:0;position:absolute;z-index:99;}#ihkld{display:none;left:156px;top:0;position:absolute;z-index:97;}#i3yd3{display:none;left:156px;top:0;position:absolute;z-index:98;}#ipwxv{display:none;left:156px;top:0;position:absolute;z-index:92;}#ie8fp{display:none;left:156px;top:0;position:absolute;z-index:96;}#ix3ud{display:none;left:156px;top:0;position:absolute;z-index:94;}#il13g{display:none;left:156px;top:0;position:absolute;z-index:93;}#ivppz{display:block;left:1000px;top:0;position:absolute;z-index:103;}}
 
 {PageAttributes}
 
@@ -34,271 +33,24 @@ Type = "Ch5 Template"
 [Elements.Attributes]
 transitionduration = "1s"
 transitiondelay = "0s"
+templateid = "wbecbceda-cd2f-4f27-86d6-112a1b09d364"
+id = "ivppz"
+componentName = "Keypad Attributes"
+ccid_ComponentType = "Widget"
+ccid_WidgetName = "Keypad Attributes"
+devicesVisited = "[\"TSW-1070\"]"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
 templateid = "w2e3f1caf-9fde-4031-ab72-59ca643cfb70"
 id = "id9b"
 componentName = "NavBar"
 ccid_ComponentType = "Widget"
 ccid_WidgetName = "NavBar"
 devicesVisited = "[\"TSW-1070\"]"
-[[Elements]]
-Type = "Ch5 Button List"
-Editable = true
-
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-
-[Elements.Attributes]
-centeritems = "false"
-columns = "1"
-endless = "false"
-numberofitems = "2"
-orientation = "vertical"
-previewstate = "buttonnormal"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-rows = "1"
-scrollbar = "true"
-scrolltoposition = "0"
-stretch = "null"
-indexid = "idx"
-customclass = "ccid-custom"
-buttoncheckboxposition = "left"
-buttoncheckboxshow = "false"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonmode = "0"
-buttonshape = "rounded-rectangle"
-buttontype = "default"
-buttoniconurlfilltype = "initial"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-pd-receivestatescrolltoposition = ""
-pd-receivestatenumberofitems = "Contract Enabled"
-pd-buttonreceivestateselected = "Contract Enabled"
-pd-buttonreceivestatescriptlabelhtml = "Contract Enabled"
-pd-buttonreceivestateiconclass = ""
-buttonsendeventonclick = "Contract Enabled"
-pd-buttonreceivestateenable = ""
-pd-buttonreceivestateshow = ""
-usecontractforeachbuttonselection = "false"
-affectedByPreviewState = "True"
-customvstheme = "theme"
-loaditems = "visible-only"
-id = "iozv"
-componentName = "SizeSelector"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_linkSendReceive = "True"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Button List"
-devicesVisited = "[\"TSW-1070\"]"
-assetid = "0"
-pd-receivestateselectedbutton = ""
-oldID = "i0u7"
-contractitemlabeltype = "innerHTML"
-useContractForNumItems = "true"
-[[Elements]]
-Type = "Ch5 Button List"
-Editable = true
-
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-
-[Elements.Attributes]
-centeritems = "false"
-columns = "1"
-endless = "false"
-numberofitems = "3"
-orientation = "vertical"
-previewstate = "buttonnormal"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-rows = "1"
-scrollbar = "true"
-scrolltoposition = "0"
-stretch = "null"
-indexid = "idx"
-customclass = "ccid-custom"
-buttoncheckboxposition = "left"
-buttoncheckboxshow = "false"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonmode = "0"
-buttonshape = "rounded-rectangle"
-buttontype = "default"
-buttoniconurlfilltype = "initial"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-pd-receivestatescrolltoposition = ""
-pd-receivestatenumberofitems = "Contract Enabled"
-pd-buttonreceivestateselected = "Contract Enabled"
-pd-buttonreceivestatescriptlabelhtml = "Contract Enabled"
-pd-buttonreceivestateiconclass = ""
-buttonsendeventonclick = "Contract Enabled"
-pd-buttonreceivestateenable = ""
-pd-buttonreceivestateshow = ""
-usecontractforeachbuttonselection = "false"
-affectedByPreviewState = "True"
-customvstheme = "theme"
-loaditems = "visible-only"
-id = "ib7k"
-componentName = "ShapeSelector"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_linkSendReceive = "True"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Button List"
-devicesVisited = "[\"TSW-1070\"]"
-assetid = "0"
-pd-receivestateselectedbutton = ""
-oldID = "ien8l"
-contractitemlabeltype = "innerHTML"
-useContractForNumItems = "true"
-[[Elements]]
-Type = "Ch5 Button List"
-Editable = true
-
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 1"
-componentNumber = "1"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 2"
-componentNumber = "2"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 3"
-componentNumber = "3"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 4"
-componentNumber = "4"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 5"
-componentNumber = "5"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 6"
-componentNumber = "6"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 7"
-componentNumber = "7"
-[[Elements.Components]]
-Type = "Ch5 Button List Individual Button"
-
-[Elements.Components.Attributes]
-ccid_imageIconType = "iconclass"
-componentName = "Individual Button 8"
-componentNumber = "8"
-
-[Elements.Attributes]
-centeritems = "false"
-columns = "1"
-endless = "false"
-numberofitems = "8"
-orientation = "vertical"
-previewstate = "buttonnormal"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-rows = "1"
-scrollbar = "true"
-scrolltoposition = "0"
-stretch = "null"
-indexid = "idx"
-customclass = "ccid-custom"
-buttoncheckboxposition = "left"
-buttoncheckboxshow = "false"
-buttonhalignlabel = "center"
-buttonvalignlabel = "middle"
-buttoniconposition = "first"
-buttonmode = "0"
-buttonshape = "rounded-rectangle"
-buttontype = "default"
-buttoniconurlfilltype = "initial"
-pd-receivestateenable = ""
-pd-receivestateshow = ""
-pd-receivestatescrolltoposition = ""
-pd-receivestatenumberofitems = "Contract Enabled"
-pd-buttonreceivestateselected = "Contract Enabled"
-pd-buttonreceivestatescriptlabelhtml = "Contract Enabled"
-pd-buttonreceivestateiconclass = ""
-buttonsendeventonclick = "Contract Enabled"
-pd-buttonreceivestateenable = ""
-pd-buttonreceivestateshow = ""
-usecontractforeachbuttonselection = "false"
-affectedByPreviewState = "True"
-customvstheme = "theme"
-loaditems = "visible-only"
-id = "ip83"
-componentName = "TypeSelector"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = ""
-ccid_linkSendReceive = "True"
-ccid_imageIconType = "iconclass"
-ccid_ComponentType = "Button List"
-devicesVisited = "[\"TSW-1070\"]"
-assetid = "0"
-pd-receivestateselectedbutton = ""
-oldID = "itko1oryjvuhz"
-contractitemlabeltype = "innerHTML"
-useContractForNumItems = "true"
 [[Elements]]
 Type = "Ch5 Template"
 
@@ -611,70 +363,4 @@ ccid_ComponentType = "Widget"
 ccid_WidgetName = "Keypad-Size2-CI-Secondary"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "273"
-[[Elements]]
-Type = "Ch5 Text"
-Editable = true
-
-[Elements.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "false"
-truncatetext = "false"
-id = "isvg"
-componentName = "Formatted-Text_2"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Size"
-labelinnerhtml = "Size"
-ccid_linkSendReceive = "True"
-ccid_ComponentType = "Formatted-Text"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_themeCSSSet = "true"
-oldID = "igti"
-[[Elements]]
-Type = "Ch5 Text"
-Editable = true
-
-[Elements.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "false"
-truncatetext = "false"
-id = "iiqz"
-componentName = "Formatted-Text_1"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Type"
-labelinnerhtml = "Type"
-ccid_linkSendReceive = "True"
-ccid_ComponentType = "Formatted-Text"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_themeCSSSet = "true"
-oldID = "in8qo"
-[[Elements]]
-Type = "Ch5 Text"
-Editable = true
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "\n              "
-
-[Elements.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "false"
-truncatetext = "false"
-id = "i1n1"
-componentName = "Formatted-Text"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Shape"
-labelinnerhtml = "Shape"
-ccid_linkSendReceive = "True"
-ccid_ComponentType = "Formatted-Text"
-devicesVisited = "[\"TSW-1070\"]"
-ccid_themeCSSSet = "true"
 
