@@ -1,24 +1,38 @@
 # Construct Themes Showcase
 
-A Crestron Construct project showing all possible UI elements that are controlled by Themes.
+A Crestron Construct project showing all possible UI elements that can be configured by the [Theme Editor](https://sdkcon78221.crestron.com/downloads/ShowcaseApp/index.html?showThemeEditor=true).
 
-Use it to test your themes and ensure they work as expected across all UI elements.
+You can use it to view the default Crestron Themes (It is built using the Light Theme). To add a different theme, open the project in construct and assign a different theme to it, recompile and re-load
 
-# Construct Version
-* Crestron Construct: 2.801.22.00
-* User Interface Plugin: 1.4401.12.0
-* CH5 Version: 2.17.0
+This project is way pass the [Best Practices For Project Design](https://help.crestron.com/construct/Content/Topics/Best-Practices/Design%20Best%20Practices.htm) and [Performance Optimization](https://help.crestron.com/construct/Content/Topics/Best-Practices/Performance-Optimization.htm). It was designed with as many Pages as necessary to lower the impact on both the touch panel or the browser due to the many widgets and objects. 
+
+Preloading and Caching was turned off.  The pages are too big for the browser or the panel to hold the whole project in memory. Pages will take a while to load.
+
 
 > [!WARNING]
-> This projet is to big. Loading the CH5z in a touch panel will result in very slow performance or even crashing, even when Preload and Cache has been turn off in every page. For best results (still not ideal) upload the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
+> This projet is too big. Loading the CH5z in a touch panel will result in very slow performance or even crashing. For best results (still not ideal) upload the CH5z in a series 4 processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
+
+# How to use
+
+In the Release section of this repository you will find the Pre-Compiled Construct Project (CH5z) as well as its SIMPL Compile Proeject (LPZ).  Load the LPZ in a series 4 processor, and the CH5z in the processor under **Web Pages and Mobility Projects** as a CH5 XPanel.
+
+You can try loading the CH5z in a TouchPanel, but performance will be even more sluggish.
+
+# Screen Shots
+
+Below are some screenshot of the showcase using the Light Theme
+
+![Buttons Example](Images/Buttons.png)
+
+![Sliders Example](Images/Sliders.png)
+
+![Other Components Example](Images/Other.png)
 
 # Observations found while working on this projects
 
 ## SIMPL Contracts
 
 It would have been nice to be able to assign certain cotracts as global.  IT appears that when assigning a widget to a page, the contracts generated are per page. I can see how that is important when the elements of a widget are buttons, butn when the element is something like a nav bar, that is used in several pages at once, a new contract is generated in simple under each page, which means the signals need to be duplicated between contracts.  A global setting, would bubble the contract to the top, so the signals would only need to be created and maintained in one place.
-
-
 
 ## Slider Advanced Ticks
 
@@ -50,8 +64,34 @@ The Slider theme does not support theming the following slider component
 * Slider Title
     * Content
 
-## Tabs
+## Miscelaneous
 
-~~For some reason whenthe tabs are shown in both the touchpanel or the browser, some of them get pushed all the way up, even though they display fine under construct~~ Selecting all the offending objects and pressing the up and down arrow to make them all move up and down one step, fixed the issue
+* The theme editor has some elements with no immediate equivalent in construct:
+    * ch5-Form
+    * ch5-modal-dialog
+    * ch5-overlay-panel
+    * ch5-select
+    * ch5-subpge-reference-list
+    * ch5-triggerview
 
+# Versions
+
+## Construct Version
+* Crestron Construct: 2.801.22.00
+* User Interface Plugin: 1.4401.12.0
+* CH5 Version: 2.17.0
+
+## SIMPL Version
+* SIMPL Version: 4.30
+* SIMPL+ Version: 4.06
+* INCLUDE4.DAT Version 2.21.184
+* Device Database Version: 200.43500.001.00
+* Crestron Database Version: 228.3500.001.00
+* Crestron Toolbox Version: 3.1360.0013.8
+* SIMPL+ Cross Compiler Version: 1.3
+
+## Windows Environment
+* Windows OS: Windows 11 Pro (OS Build 26200.7705) 
+* Processor: 12th Gen i7-1255U, 2600 Mhz, 10 Cores
+* Memory: 32GB
 
