@@ -28,7 +28,7 @@ Below are some screenshot of the showcase using the Light Theme
 
 ![Other Components Example](Images/Other.png)
 
-# Observations found while working on this projects
+# Observations made while working on this projects
 
 ## Slider Advanced Ticks
 
