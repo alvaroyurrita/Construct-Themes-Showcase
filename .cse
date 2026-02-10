@@ -3,7 +3,12 @@
     {
       "_id": "Light",
       "_isOpen": true,
-      "_dateTime": "2026-02-09T18:54:47.0940000Z"
+      "_dateTime": "2026-02-10T21:19:59.7380000Z"
+    },
+    {
+      "_id": "LightDark",
+      "_isOpen": true,
+      "_dateTime": "2026-02-10T22:18:34.0270000Z"
     }
   ]
 }

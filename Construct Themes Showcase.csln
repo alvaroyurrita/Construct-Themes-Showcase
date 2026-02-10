@@ -11,8 +11,8 @@
     "_name": "Construct Themes Showcase",
     "_projects": [
       {
-        "_name": "Light",
-        "_filename": "Light/Light.cuip",
+        "_name": "LightDark",
+        "_filename": "LightDark/LightDark.cuip",
         "_datetime": "2026-01-29T03:10:50.7261142Z"
       }
     ]

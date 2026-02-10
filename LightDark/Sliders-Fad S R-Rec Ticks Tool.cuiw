@@ -1,0 +1,689 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2026-02-02 14:40:46.9432-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2026-02-02 14:40:46.943198-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="isj5eaqkw1" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="ic2j" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="inp7khpag2i61">Sliders Fader Rounded Rectangle X-Large Handle With Ticks and ToolTip&nbsp;</div><div data-mytext="myText" componentname="Html-text_11" ccid_componenttype="Html-text" id="iste" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i1pk">X-Small</div><div data-mytext="myText" componentname="Html-text_12" ccid_componenttype="Html-text" id="icbg" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i573">Small</div><div data-mytext="myText" componentname="Html-text_13" ccid_componenttype="Html-text" id="i6vt" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iwdb">Regular</div><div data-mytext="myText" componentname="Html-text_14" ccid_componenttype="Html-text" id="it6v" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i6mh">Large</div><div data-mytext="myText" componentname="Html-text_15" ccid_componenttype="Html-text" id="iunh" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ipms">X-Large</div><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="i39z" componentname="Slider_10" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ikxt3" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="iek7" componentname="Slider_11" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="i085px5put29i" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="ic0u" componentname="Slider_12" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ietua11km77va" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="imk4" componentname="Slider_13" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="i4g3rpqzcjx2i" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="iv05" componentname="Slider_14" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="irw727y9cbja6" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="if6h" componentname="Slider" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="iozr" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="icc8" componentname="Slider_1" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="itc0" componentname="Slider_2" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="igss" componentname="Slider_3" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="vertical" tapsettable="false" handleshape="rounded-rectangle" handlesize="small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="inbe" componentname="Slider_4" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5"  oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" ticks="{&quot;0&quot;:&quot;0&quot;, &quot;25&quot;:&quot;25&quot;, &quot;50&quot;:&quot;50&quot;, &quot;75&quot;:&quot;75&quot;, &quot;100&quot;: &quot;100&quot; }" onoffonly="false" min="0" max="100" step="1"></ch5-slider><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="i9q3" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="igtv">X-Small</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="iph0" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iads">Small</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="i5gv" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ia59">Regular</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="ijuo" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ikx3">Large</div><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="ih9r" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iw24">X-Large</div></div>
+
+
+
+{Css}
+@media (max-width: 99999px) { #ih9r { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 1004px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ijuo { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 843px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i5gv { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 690px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iph0 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 557px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i9q3 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 432px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #inbe .ch5-slider .ch5-title-container { width: 225px } #inbe .ch5-slider :not(i):not(svg) { font-family: Roboto } #inbe { width: 196px; height: 549px; display: block; left: 930px; top: 96px; position: absolute } #igss .ch5-slider .ch5-title-container { width: 225px } #igss .ch5-slider :not(i):not(svg) { font-family: Roboto } #igss { width: 196px; height: 449px; display: block; left: 787px; top: 96px; position: absolute } #itc0 .ch5-slider .ch5-title-container { width: 225px } #itc0 .ch5-slider :not(i):not(svg) { font-family: Roboto } #itc0 { width: 196px; height: 349px; display: block; left: 644px; top: 96px; position: absolute } #icc8 .ch5-slider .ch5-title-container { width: 225px } #icc8 .ch5-slider :not(i):not(svg) { font-family: Roboto } #icc8 { width: 196px; height: 299px; display: block; left: 501px; top: 96px; position: absolute } #if6h-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #if6h-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #if6h .ch5-slider .ch5-title-container { width: 225px } #if6h .ch5-slider :not(i):not(svg) { font-family: Roboto } #if6h { width: 196px; height: 249px; display: block; left: 358px; top: 96px; position: absolute } #iv05-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #iv05 { width: 530px; height: 124px; display: block; left: 90px; top: 637px; position: absolute } #iv05 .ch5-slider .ch5-title-container { width: 554px } #iv05-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iv05 .ch5-slider :not(i):not(svg) { font-family: Roboto } #imk4 { width: 430px; height: 124px; display: block; left: 90px; top: 492px; position: absolute } #imk4 .ch5-slider .ch5-title-container { width: 454px } #imk4-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #imk4 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ic0u { width: 330px; height: 124px; display: block; left: 90px; top: 347px; position: absolute } #ic0u .ch5-slider .ch5-title-container { width: 354px } #ic0u-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ic0u .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #iek7 { width: 280px; height: 124px; display: block; left: 90px; top: 202px; position: absolute } #iek7 .ch5-slider .ch5-title-container { width: 304px } #iek7-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #iek7 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i39z { width: 230px; height: 124px; display: block; left: 90px; top: 57px; position: absolute } #i39z .ch5-slider .ch5-title-container { width: 254px } #i39z-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #i39z .ch5-slider :not(i):not(svg) { font-family: Roboto } #iunh { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 697px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #it6v { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 552px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #i6vt { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 407px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #icbg { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 262px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #iste { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 117px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto } #ic2j { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 157px; top: 12px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal } #isj5eaqkw1 { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #izxkxzewhs6ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip8xwmq7hcgcv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8n68ah8jccni .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ioqyrr4toadmj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i9xgjbvv4vluj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i24upna624j9t .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ihdq4ivuqb2nl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #io9hkdn0w3gwd .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ir8zq986n65xh .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3dst03rp2jho .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibd55hx4577jw .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i77tqhfg2s5ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3of2jw8l0j4v .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ifsxjosinj53e .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #wrapper { background-color: #ffffff } .widget-container { z-index: 0 } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #ih9r { left: 1004px; top: 55px } #ijuo { left: 843px; top: 55px } #i5gv { left: 690px; top: 55px } #iph0 { left: 557px; top: 55px } #i9q3 { top: 55px; left: 432px } #inbe { width: 196px; height: 549px; display: block; left: 930px; top: 96px; position: absolute } #igss { width: 196px; height: 449px; display: block; left: 787px; top: 96px; position: absolute } #itc0 { width: 196px; height: 349px; display: block; left: 644px; top: 96px; position: absolute } #icc8 { width: 196px; height: 299px; display: block; left: 501px; top: 96px; position: absolute } #if6h { width: 196px; height: 249px; left: 358px; top: 96px; position: absolute; display: block } #iv05 { width: 530px; height: 124px; display: block; left: 90px; top: 637px; position: absolute } #imk4 { width: 430px; height: 124px; display: block; left: 90px; top: 492px; position: absolute } #ic0u { width: 330px; height: 124px; display: block; left: 90px; top: 347px; position: absolute } #iek7 { width: 280px; height: 124px; display: block; left: 90px; top: 202px; position: absolute } #i39z { width: 230px; height: 124px; display: block; left: 90px; top: 57px; position: absolute } #iunh { left: 7px; top: 697px; width: auto; height: auto } #it6v { left: 7px; top: 552px; width: auto; height: auto } #i6vt { left: 7px; top: 407px; width: auto; height: auto } #icbg { left: 7px; top: 262px; width: auto; height: auto } #iste { left: 7px; top: 117px; width: auto; height: auto } #ic2j { left: 157px; top: 12px; position: absolute } #isj5eaqkw1 { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Sliders-Fad S R-Rec Ticks Tool"
+PageMode = "absolute"
+Id = "f49f0105-fdcd-487f-a402-7b188e6d611a"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Sliders Fader Rounded Rectangle X-Large Handle With Ticks and ToolTip&nbsp;"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_7"
+ccid_ComponentType = "Html-text"
+id = "ic2j"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "inp7khpag2i61"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_11"
+ccid_ComponentType = "Html-text"
+id = "iste"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i1pk"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_12"
+ccid_ComponentType = "Html-text"
+id = "icbg"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i573"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_13"
+ccid_ComponentType = "Html-text"
+id = "i6vt"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iwdb"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_14"
+ccid_ComponentType = "Html-text"
+id = "it6v"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i6mh"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_15"
+ccid_ComponentType = "Html-text"
+id = "iunh"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ipms"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "i39z"
+componentName = "Slider_10"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ikxt3"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "iek7"
+componentName = "Slider_11"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "fader"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "i085px5put29i"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "ic0u"
+componentName = "Slider_12"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "fader"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ietua11km77va"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "imk4"
+componentName = "Slider_13"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "fader"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "i4g3rpqzcjx2i"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "horizontal"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "iv05"
+componentName = "Slider_14"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "irw727y9cbja6"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-small"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "if6h"
+componentName = "Slider"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "iozr"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "small"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "icc8"
+componentName = "Slider_1"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "small"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ijhhg5azuk552"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "regular"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "itc0"
+componentName = "Slider_2"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "regular"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ijhhg5azuk552"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "large"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "igss"
+componentName = "Slider_3"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "large"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ijhhg5azuk552"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Slider"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+nohandle = "false"
+size = "x-large"
+orientation = "vertical"
+tapsettable = "false"
+handleshape = "rounded-rectangle"
+handlesize = "small"
+tooltipshowtype = "on"
+tooltipdisplaytype = "%"
+value = "50"
+slidertype = "fader"
+customvstheme = "theme"
+id = "inbe"
+componentName = "Slider_4"
+ccid_linkSendReceive = "False"
+ccid_ComponentType = "Slider"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-large"
+previousSliderType = "advanced"
+range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
+oldID = "ijhhg5azuk552"
+ccid_ActiveFont = "'Roboto'"
+ticks = "{\"0\":\"0\", \"25\":\"25\", \"50\":\"50\", \"75\":\"75\", \"100\": \"100\" }"
+onoffonly = "false"
+min = "0"
+max = "100"
+step = "1"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text"
+ccid_ComponentType = "Html-text"
+id = "i9q3"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "igtv"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_1"
+ccid_ComponentType = "Html-text"
+id = "iph0"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iads"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_2"
+ccid_ComponentType = "Html-text"
+id = "i5gv"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ia59"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_3"
+ccid_ComponentType = "Html-text"
+id = "ijuo"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ikx3"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_4"
+ccid_ComponentType = "Html-text"
+id = "ih9r"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iw24"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "isj5eaqkw1"
+devicesVisited = "[\"TSW-1070\"]"
+defaultWidth = "975px"
+defaultHeight = "800px"
+

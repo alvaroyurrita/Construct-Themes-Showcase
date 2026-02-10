@@ -2,9 +2,9 @@
 
 A Crestron Construct project showing all possible UI elements that can be configured by the [Theme Editor](https://sdkcon78221.crestron.com/downloads/ShowcaseApp/index.html?showThemeEditor=true).
 
-You can use it to view the default Crestron Themes (It is built using the Light Theme). To add a different theme, open the project in construct and assign a different theme to it, recompile and re-load
+You can use it to view the default Crestron Themes. This project supports the Cretron Provided Light and Dark Themes.  You can switch between them at runtime using the menu. To add a different theme, open the project in construct and assign a different theme to it, recompile and re-load
 
-This project is way pass the [Best Practices For Project Design](https://help.crestron.com/construct/Content/Topics/Best-Practices/Design%20Best%20Practices.htm) and [Performance Optimization](https://help.crestron.com/construct/Content/Topics/Best-Practices/Performance-Optimization.htm). It was designed with as many Pages as necessary to lower the impact on both the touch panel or the browser due to the many widgets and objects. 
+This project is way passed the [Best Practices For Project Design](https://help.crestron.com/construct/Content/Topics/Best-Practices/Design%20Best%20Practices.htm) and [Performance Optimization](https://help.crestron.com/construct/Content/Topics/Best-Practices/Performance-Optimization.htm). It was designed with as many Pages as necessary to lower the impact on both the touch panel or the browser due to the many widgets and objects. 
 
 Preloading and Caching was turned off.  The pages are too big for the browser or the panel to hold the whole project in memory. Pages will take a while to load.
 
@@ -29,6 +29,12 @@ Below are some screenshot of the showcase using the Light Theme
 ![Other Components Example](Images/Other.png)
 
 # Observations made while working on this projects
+
+## HTML Text and Heather objects
+
+They don's seem to belong to any kind of theme, so when switching between light and dark, both the background and font color remain the same.  This does not look good on the Dark Theme.
+
+Also the Heading option seem to have very small font sizes with the default themes. Not much of a heading.
 
 ## Slider Advanced Ticks
 

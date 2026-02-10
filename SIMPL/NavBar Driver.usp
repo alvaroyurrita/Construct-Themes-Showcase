@@ -1,3 +1,4 @@
+Digital_Input SelectThemePressed;
 Digital_Input SelectAnimationPressed;
 Digital_Input SelectButtonsPressed;
 Digital_Input SelectDpadsPressed;
@@ -11,6 +12,7 @@ Digital_Input SelectVideoPressed;
 Digital_Input SelectVideoSwitcherPressed;
 
 
+Digital_Output SelectThemeSelected;
 Digital_Output SelectAnimationSelected;
 Digital_Output SelectButtonsSelected;
 Digital_Output SelectDpadsSelected;
@@ -26,6 +28,7 @@ Digital_Output SelectVideoSwitcherSelected;
 
 Analog_Output NumberOfButtons;
 
+String_Output ThemeTitle;
 String_Output AnimationTitle;
 String_Output ButtonTitle;
 String_Output DpadTitle;
@@ -105,6 +108,12 @@ Function SetSection(){
 	UnselectAll();
 	SelectSection();
 }
+
+Change SelectThemePressed{
+	SelectThemeSelected = SelectThemePressed;
+}
+
+
 Push SelectAnimationPressed{
 	CurrentSelection = 1;
 	SetSection();
@@ -151,8 +160,9 @@ Push SelectVideoSwitcherPressed{
 }
 
 Function Main() {
-	NumberOfButtons = 11;
+	NumberOfButtons = 12;
 	SelectButtonsSelected = 2;
+	ThemeTitle = "Theme &<br/>Info";
 	AnimationTitle = "Animations";
 	ButtonTitle = "Buttons";
 	DpadTitle = "Dpads";

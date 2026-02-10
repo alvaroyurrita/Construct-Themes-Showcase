@@ -1,0 +1,1625 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2026-02-07 17:46:07.557782-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2026-02-07 17:46:07.557778-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="itge24fazt" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-dpad shape="plus" type="secondary" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i80i" componentName="Dpad_19" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="iz2jzjezsky9a26l"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="secondary" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iw0b" componentName="Dpad_18" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ije6drg25emfsvqf"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="secondary" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i0bn" componentName="Dpad_17" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i7n22vyl35bxllgn" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="secondary" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i0pj" componentName="Dpad_16" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i5gfgjrrby4vszai" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="secondary" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ikel" componentName="Dpad_15" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifzbshf1pv411bq4" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="success" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ikzj" componentName="Dpad_14" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="success" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i6lr" componentName="Dpad_13" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="success" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iqtb" componentName="Dpad_12" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="success" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ia67" componentName="Dpad_11" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="success" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ir4x" componentName="Dpad_10" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="warning" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iyyh" componentName="Dpad_9" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="warning" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i5jd" componentName="Dpad_8" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="warning" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="icpk" componentName="Dpad_7" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="warning" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i4gq" componentName="Dpad_6" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="warning" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ihrc" componentName="Dpad_5" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="danger" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9no" componentName="Dpad" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" componentWasResized="true" oldID="i4pm">
+              <ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="danger" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i61b" componentName="Dpad_1" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iuyqgebr7yszk" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="danger" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i07y" componentName="Dpad_2" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ijqax5a4l9zlk" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="danger" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ivov" componentName="Dpad_3" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igipswov3muoo" ccid_lastSizeSelected="large" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="plus" type="danger" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iflm" componentName="Dpad_4" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iouxk496hb26h" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><div data-mytext="myText" componentName="Html-text_13" ccid_ComponentType="Html-text" id="ifwz" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ivddenmxxei0i">Success</div><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="i7cs" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i4xr">X-Large</div><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="imu4" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igch">Large</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="ijm8" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="itl3">Regular</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="i45a" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i03e">Small</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="i49p" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii8u">X-Small</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="iwb6" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igsu">D-Pads&nbsp;&nbsp;</div><div data-mytext="myText" componentName="Html-text_6" ccid_ComponentType="Html-text" id="isj9" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="icju">Secondary</div><div data-mytext="myText" componentName="Html-text_5" ccid_ComponentType="Html-text" id="iiqr" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iydi">Warning</div><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="is54" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="izca">Danger</div></div>
+
+{Css}
+@media (max-width: 99999px){#is54{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:159px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:163;}#iiqr{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:332px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:164;}#isj9{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:678px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:165;}#iwb6{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:451px;top:12px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:166;}#i49p{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:158px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:167;}#i45a{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:298px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:168;}#ijm8{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:441px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:169;}#imu4{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:630px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:170;}#i7cs{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:824px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:171;}#ifwz{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:505px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:177;}#iflm{display:block;left:763px;top:73px;position:absolute;z-index:178;width:undefined;height:undefined;}#iflm span:not(.dpad-btn-icon){font-family:"Roboto";}#ivov{display:block;left:569px;top:83px;position:absolute;z-index:180;width:undefined;height:undefined;}#ivov span:not(.dpad-btn-icon){font-family:"Roboto";}#i07y{display:block;left:262px;top:108px;position:absolute;z-index:182;width:undefined;height:undefined;}#i07y span:not(.dpad-btn-icon){font-family:"Roboto";}#i61b{display:block;left:405px;top:98px;position:absolute;z-index:184;width:undefined;height:undefined;}#i61b span:not(.dpad-btn-icon){font-family:"Roboto";}#i9no{display:block;left:147px;top:123px;position:absolute;z-index:186;width:undefined;height:undefined;}#i9no span:not(.dpad-btn-icon){font-family:"Roboto";}#ihrc{display:block;left:147px;top:296px;position:absolute;z-index:188;width:undefined;height:undefined;}#ihrc span:not(.dpad-btn-icon){font-family:"Roboto";}#i4gq{display:block;left:403px;top:271px;position:absolute;z-index:190;width:undefined;height:undefined;}#i4gq span:not(.dpad-btn-icon){font-family:"Roboto";}#icpk{display:block;left:259px;top:281px;position:absolute;z-index:192;width:undefined;height:undefined;}#icpk span:not(.dpad-btn-icon){font-family:"Roboto";}#i5jd{display:block;left:567px;top:256px;position:absolute;z-index:194;width:undefined;height:undefined;}#i5jd span:not(.dpad-btn-icon){font-family:"Roboto";}#iyyh{display:block;left:763px;top:246px;position:absolute;z-index:196;width:undefined;height:undefined;}#iyyh span:not(.dpad-btn-icon){font-family:"Roboto";}#ir4x{display:block;left:147px;top:469px;position:absolute;z-index:198;width:undefined;height:undefined;}#ir4x span:not(.dpad-btn-icon){font-family:"Roboto";}#ia67{display:block;left:403px;top:444px;position:absolute;z-index:200;width:undefined;height:undefined;}#ia67 span:not(.dpad-btn-icon){font-family:"Roboto";}#iqtb{display:block;left:259px;top:454px;position:absolute;z-index:202;width:undefined;height:undefined;}#iqtb span:not(.dpad-btn-icon){font-family:"Roboto";}#i6lr{display:block;left:567px;top:429px;position:absolute;z-index:204;width:undefined;height:undefined;}#i6lr span:not(.dpad-btn-icon){font-family:"Roboto";}#ikzj{display:block;left:763px;top:419px;position:absolute;z-index:206;width:undefined;height:undefined;}#ikzj span:not(.dpad-btn-icon){font-family:"Roboto";}#ikel{display:block;left:763px;top:592px;position:absolute;z-index:208;width:undefined;height:undefined;}#ikel span:not(.dpad-btn-icon){font-family:"Roboto";}#i0pj{display:block;left:567px;top:602px;position:absolute;z-index:210;width:undefined;height:undefined;}#i0pj span:not(.dpad-btn-icon){font-family:"Roboto";}#i0bn{display:block;left:259px;top:627px;position:absolute;z-index:212;width:undefined;height:undefined;}#i0bn span:not(.dpad-btn-icon){font-family:"Roboto";}#iw0b{display:block;left:403px;top:617px;position:absolute;z-index:214;width:undefined;height:undefined;}#iw0b span:not(.dpad-btn-icon){font-family:"Roboto";}#i80i{display:block;left:147px;top:642px;position:absolute;z-index:216;width:undefined;height:undefined;}#i80i span:not(.dpad-btn-icon){font-family:"Roboto";}#itge24fazt{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#is54{top:159px;left:27px;z-index:163;}#iiqr{top:332px;left:27px;position:absolute;width:auto;height:auto;z-index:164;}#isj9{top:678px;left:27px;z-index:165;}#iwb6{left:451px;top:12px;position:absolute;z-index:166;}#i49p{left:158px;top:43px;position:absolute;z-index:167;}#i45a{left:298px;top:43px;z-index:168;}#ijm8{left:441px;top:43px;z-index:169;}#imu4{left:630px;top:43px;z-index:170;}#i7cs{left:824px;top:43px;position:absolute;width:auto;height:auto;z-index:171;}#ifwz{left:27px;top:505px;position:absolute;width:auto;height:auto;z-index:177;}#iflm{left:763px;top:73px;position:absolute;width:undefined;height:undefined;}#ivov{left:569px;top:83px;position:absolute;width:undefined;height:undefined;}#i07y{left:262px;top:108px;width:undefined;height:undefined;}#i61b{left:405px;top:98px;position:absolute;width:undefined;height:undefined;}#i9no{left:147px;top:123px;width:undefined;height:undefined;}#ihrc{left:147px;top:296px;width:undefined;height:undefined;}#i4gq{left:403px;top:271px;position:absolute;width:undefined;height:undefined;}#icpk{left:259px;top:281px;width:undefined;height:undefined;}#i5jd{left:567px;top:256px;position:absolute;width:undefined;height:undefined;}#iyyh{left:763px;top:246px;width:undefined;height:undefined;}#ir4x{left:147px;top:469px;width:undefined;height:undefined;}#ia67{left:403px;top:444px;width:undefined;height:undefined;}#iqtb{left:259px;top:454px;width:undefined;height:undefined;}#i6lr{left:567px;top:429px;position:absolute;width:undefined;height:undefined;}#ikzj{left:763px;top:419px;width:undefined;height:undefined;}#ikel{left:763px;top:592px;position:absolute;width:undefined;height:undefined;}#i0pj{left:567px;top:602px;position:absolute;width:undefined;height:undefined;}#i0bn{left:259px;top:627px;width:undefined;height:undefined;}#iw0b{left:403px;top:617px;width:undefined;height:undefined;}#i80i{left:147px;top:642px;width:undefined;height:undefined;}#itge24fazt{width:975px;height:800px;left:0;top:0;position:absolute;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "DPAD-Plus-2"
+PageMode = "absolute"
+Id = "d3672480-5cdd-4193-9e27-5945295b11e3"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "secondary"
+size = "x-small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i80i"
+componentName = "Dpad_19"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "iz2jzjezsky9a26l"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "secondary"
+size = "regular"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "iw0b"
+componentName = "Dpad_18"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ije6drg25emfsvqf"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "secondary"
+size = "small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i0bn"
+componentName = "Dpad_17"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i7n22vyl35bxllgn"
+ccid_lastSizeSelected = "small"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "secondary"
+size = "large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i0pj"
+componentName = "Dpad_16"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i5gfgjrrby4vszai"
+ccid_lastSizeSelected = "large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "secondary"
+size = "x-large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ikel"
+componentName = "Dpad_15"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ifzbshf1pv411bq4"
+ccid_lastSizeSelected = "x-large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "success"
+size = "x-large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ikzj"
+componentName = "Dpad_14"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihx7u4epzeabc"
+ccid_lastSizeSelected = "x-large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "success"
+size = "large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i6lr"
+componentName = "Dpad_13"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iyj6s90g4ehef"
+ccid_lastSizeSelected = "large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "success"
+size = "small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "iqtb"
+componentName = "Dpad_12"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ii516i1v9jwou"
+ccid_lastSizeSelected = "small"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "success"
+size = "regular"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ia67"
+componentName = "Dpad_11"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i9d51spxnkulz"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "success"
+size = "x-small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ir4x"
+componentName = "Dpad_10"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "i1n4fd7rqro8j"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "warning"
+size = "x-large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "iyyh"
+componentName = "Dpad_9"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ihx7u4epzeabc"
+ccid_lastSizeSelected = "x-large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "warning"
+size = "large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i5jd"
+componentName = "Dpad_8"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iyj6s90g4ehef"
+ccid_lastSizeSelected = "large"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "warning"
+size = "small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "icpk"
+componentName = "Dpad_7"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ii516i1v9jwou"
+ccid_lastSizeSelected = "small"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "warning"
+size = "regular"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i4gq"
+componentName = "Dpad_6"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i9d51spxnkulz"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "warning"
+size = "x-small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ihrc"
+componentName = "Dpad_5"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+oldID = "i1n4fd7rqro8j"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "danger"
+size = "x-small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i9no"
+componentName = "Dpad"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_lastSizeSelected = "x-small"
+componentWasResized = "true"
+oldID = "i4pm"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "danger"
+size = "regular"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i61b"
+componentName = "Dpad_1"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iuyqgebr7yszk"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "danger"
+size = "small"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "i07y"
+componentName = "Dpad_2"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ijqax5a4l9zlk"
+ccid_lastSizeSelected = "small"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "danger"
+size = "large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "ivov"
+componentName = "Dpad_3"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "igipswov3muoo"
+ccid_lastSizeSelected = "large"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+ccid_ActiveFont = "'Roboto'"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "danger"
+size = "x-large"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "theme"
+id = "iflm"
+componentName = "Dpad_4"
+disabled = "false"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Dpad"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iouxk496hb26h"
+ccid_lastSizeSelected = "x-large"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Success"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_13"
+ccid_ComponentType = "Html-text"
+id = "ifwz"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ivddenmxxei0i"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_12"
+ccid_ComponentType = "Html-text"
+id = "i7cs"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i4xr"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Large"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_11"
+ccid_ComponentType = "Html-text"
+id = "imu4"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "igch"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Regular"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_10"
+ccid_ComponentType = "Html-text"
+id = "ijm8"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "itl3"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_9"
+ccid_ComponentType = "Html-text"
+id = "i45a"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i03e"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "X-Small"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_8"
+ccid_ComponentType = "Html-text"
+id = "i49p"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "ii8u"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "D-Pads&nbsp;&nbsp;"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_7"
+ccid_ComponentType = "Html-text"
+id = "iwb6"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "igsu"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Secondary"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_6"
+ccid_ComponentType = "Html-text"
+id = "isj9"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "icju"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Warning"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_5"
+ccid_ComponentType = "Html-text"
+id = "iiqr"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "iydi"
+[[Elements.Components]]
+Type = "html-text"
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "Danger"
+Removable = false
+Draggable = false
+Highlightable = 0
+Copyable = false
+_InnerText = false
+
+[Elements.Components.Attributes]
+data-mytext = "myText"
+componentName = "Html-text_4"
+ccid_ComponentType = "Html-text"
+id = "is54"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "izca"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "itge24fazt"
+devicesVisited = "[\"TSW-1070\"]"
+defaultWidth = "975px"
+defaultHeight = "800px"
+

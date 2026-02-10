@@ -1,0 +1,71 @@
+Digital_Input Select_LightTheme_Press;
+Digital_Input Select_DarkTheme_Press;
+Digital_Input _skip_;
+Digital_Input ShowThemeMenu_press;
+
+Digital_Output Select_LightTheme_Selected;
+Digital_Output Select_DarkTheme_Selected;
+Digital_Output _skip_;
+Digital_Output ThemeMenu_Visible;
+
+String_Output Theme_Selected;
+
+Integer ThemeSelected;
+
+Function UnselectAll() {
+	Select_LightTheme_Selected = 0;
+	Select_DarkTheme_Selected = 0;
+}
+
+Function SetThemeButton() {
+	CSwitch (ThemeSelected) {
+		Case (1): {
+			Select_LightTheme_Selected = 1;
+			Theme_Selected = "light-theme";
+			Break;
+		}
+		Case (2): {
+			Select_DarkTheme_Selected = 1;
+			Theme_Selected = "dark-theme";
+			Break;
+		}
+	}
+}
+
+Function SetTheme() {
+	UnselectAll();
+	SetThemeButton();
+}
+
+
+Push ShowThemeMenu_press {
+	if (ThemeMenu_Visible = 0) {
+		ThemeMenu_Visible = 1;
+		Wait(200, ThemeMenu) {
+			ThemeMenu_Visible = 0;
+		}
+	}
+	else {
+		ThemeMenu_Visible = 0;
+		CancelWait(ThemeMenu);
+	}
+}
+
+Push Select_LightTheme_Press {
+	ThemeSelected = 1;
+	ReTimeWait(200, ThemeMenu);
+	SetTheme();
+}
+
+
+Push Select_DarkTheme_Press {
+	ThemeSelected = 2;
+	ReTimeWait(200, ThemeMenu);
+	SetTheme();
+}
+
+Function Main() {
+	ThemeSelected = 1; // Default to no theme selected
+	SetTheme();
+	ThemeMenu_Visible = 0;
+}
