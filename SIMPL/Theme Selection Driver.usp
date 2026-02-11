@@ -1,35 +1,39 @@
-Digital_Input Select_LightTheme_Press;
-Digital_Input Select_DarkTheme_Press;
-Digital_Input _skip_;
 Digital_Input ShowThemeMenu_press;
+Digital_Input _skip_;
+Digital_Input SelectTheme_Press[4,4];
 
-Digital_Output Select_LightTheme_Selected;
-Digital_Output Select_DarkTheme_Selected;
-Digital_Output _skip_;
 Digital_Output ThemeMenu_Visible;
+Digital_Output _skip_;
+Digital_Output SelectTheme_Selected[4,4];
+Digital_Output _skip_;
+Analog_Output NumberOfThemes;
+Analog_Output _skip_;
 
-String_Output Theme_Selected;
+String_Output ThemeName_Selected;
+String_Output _skip_;
+String_Output ThemeNames[4,4];
 
 Integer ThemeSelected;
 
+Structure Theme {
+	String name[100];
+	String fileName[100];
+};
+
+Theme Themes[4];
+
 Function UnselectAll() {
-	Select_LightTheme_Selected = 0;
-	Select_DarkTheme_Selected = 0;
+	Integer i;
+
+	For (i = 1 to NumberOfThemes) {
+		SelectTheme_Selected[i] = 0;
+	}
 }
 
 Function SetThemeButton() {
-	CSwitch (ThemeSelected) {
-		Case (1): {
-			Select_LightTheme_Selected = 1;
-			Theme_Selected = "light-theme";
-			Break;
-		}
-		Case (2): {
-			Select_DarkTheme_Selected = 1;
-			Theme_Selected = "dark-theme";
-			Break;
-		}
-	}
+	UnselectAll();
+	SelectTheme_Selected[ThemeSelected] = 1;
+	ThemeName_Selected = Themes[ThemeSelected].fileName;
 }
 
 Function SetTheme() {
@@ -51,21 +55,34 @@ Push ShowThemeMenu_press {
 	}
 }
 
-Push Select_LightTheme_Press {
-	ThemeSelected = 1;
+Push SelectTheme_Press {
+	Integer index;
+
+	index = GetLastModifiedArrayIndex();
+	ThemeSelected = index;
 	ReTimeWait(200, ThemeMenu);
 	SetTheme();
 }
 
+Function SetThemeNames() {
+	Integer i;
 
-Push Select_DarkTheme_Press {
-	ThemeSelected = 2;
-	ReTimeWait(200, ThemeMenu);
-	SetTheme();
+	For (i = 1 to NumberOfThemes) {
+		ThemeNames[i] = Themes[i].name;
+	}
 }
+
 
 Function Main() {
+	Themes[1].name = "Light";
+	Themes[1].fileName = "light-theme";
+	Themes[2].name = "Dark";
+	Themes[2].fileName = "dark-theme";
+	NumberOfThemes = 2;
+	SetThemeNames();
+	
+	ThemeMenu_Visible = 0;
+	
 	ThemeSelected = 1; // Default to no theme selected
 	SetTheme();
-	ThemeMenu_Visible = 0;
 }

@@ -30,9 +30,11 @@ Below are some screenshot of the showcase using the Light Theme
 
 # Observations made while working on this projects
 
-## HTML Text and Heather objects
+## HTML Components
 
 They don's seem to belong to any kind of theme, so when switching between light and dark, both the background and font color remain the same.  This does not look good on the Dark Theme.
+
+Use Formated Text to have text that will flip between Light and Dark Themes, and that is themable under the Theme Editor (CH5-Text)
 
 Also the Heading option seem to have very small font sizes with the default themes. Not much of a heading.
 

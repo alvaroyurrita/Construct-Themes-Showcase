@@ -1,19 +1,20 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-08 12:40:54.468401-05:00
+Created = 2026-02-11 15:16:20.030161-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-08 12:40:54.468395-05:00
+Modified = 2026-02-11 15:16:20.030131-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="i55w50v3dv" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-keypad shape="rounded-rectangle" size="x-large" type="info" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" affectedByPreviewState="True" useContractForHideAsteriskButton="false" useContractForHidePoundButton="false" textorientation="top" disabled="false" showextrabutton="true" customvstheme="theme" hideasteriskbutton="false" hidepoundbutton="false" id="in2i7ad7xmwkz" componentName="Keypad_2" ccid_ActiveFont="'Roboto'" ccid_linkSendReceive="True" ccid_ComponentType="Keypad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="ivtw4"><ch5-keypad-button pressed="false" key="button1" labelmajor="1" labelminor="" componentName="button1"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button2" labelmajor="2" labelminor="ABC" componentName="button2"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button3" labelmajor="3" labelminor="DEF" componentName="button3"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button4" labelmajor="4" labelminor="GHI" componentName="button4"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button5" labelmajor="5" labelminor="JKL" componentName="button5"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button6" labelmajor="6" labelminor="MNO" componentName="button6"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button7" labelmajor="7" labelminor="PQRS" componentName="button7"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button8" labelmajor="8" labelminor="TUV" componentName="button8"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button9" labelmajor="9" labelminor="WXYZ" componentName="button9"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button0" labelmajor="0" labelminor="+" componentName="button0"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonstar" labelmajor="*" componentName="buttonstar" id="i5306-3" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonhash" labelmajor="#" componentName="buttonhash" id="i62kj-3" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonextra" iconclass="fas fa-phone" componentName="buttonextra" id="ip6lg-3" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad><ch5-keypad shape="rounded-rectangle" size="large" type="info" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" affectedByPreviewState="True" useContractForHideAsteriskButton="false" useContractForHidePoundButton="false" textorientation="top" disabled="false" showextrabutton="true" customvstheme="theme" hideasteriskbutton="false" hidepoundbutton="false" id="icpg45mj4yp97" componentName="Keypad_1" ccid_ActiveFont="'Roboto'" ccid_linkSendReceive="True" ccid_ComponentType="Keypad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivtw4"><ch5-keypad-button pressed="false" key="button1" labelmajor="1" labelminor="" componentName="button1"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button2" labelmajor="2" labelminor="ABC" componentName="button2"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button3" labelmajor="3" labelminor="DEF" componentName="button3"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button4" labelmajor="4" labelminor="GHI" componentName="button4"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button5" labelmajor="5" labelminor="JKL" componentName="button5"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button6" labelmajor="6" labelminor="MNO" componentName="button6"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button7" labelmajor="7" labelminor="PQRS" componentName="button7"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button8" labelmajor="8" labelminor="TUV" componentName="button8"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button9" labelmajor="9" labelminor="WXYZ" componentName="button9"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button0" labelmajor="0" labelminor="+" componentName="button0"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonstar" labelmajor="*" componentName="buttonstar" id="i5306-2" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonhash" labelmajor="#" componentName="buttonhash" id="i62kj-2" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonextra" iconclass="fas fa-phone" componentName="buttonextra" id="ip6lg-2" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="i2m4" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i03e">X-Large</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="ilka" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii8u">Large</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="id5d" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igsu">Keypads 2 Rounded-Rectangle Info</div></div>
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="i55w50v3dv" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ig2pjgg9m8tc4" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Keypads Size 1 Round Rectangle Info" labelinnerhtml="Keypads Size 1 Round Rectangle Info" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="irgdhnltins24">
+              </ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i81qtqcemfr6d" componentName="Formatted-Text_12" ccid_ActiveFont="'Roboto'" ccid_Label="Large" labelinnerhtml="Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ipyin1bzfi081"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iejhz1tzw4l3r" componentName="Formatted-Text_13" ccid_ActiveFont="'Roboto'" ccid_Label="X-Large" labelinnerhtml="X-Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="izef60zij2wl1"></ch5-text><ch5-keypad shape="rounded-rectangle" size="x-large" type="info" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" affectedByPreviewState="True" useContractForHideAsteriskButton="false" useContractForHidePoundButton="false" textorientation="top" disabled="false" showextrabutton="true" customvstheme="theme" hideasteriskbutton="false" hidepoundbutton="false" id="in2i7ad7xmwkz" componentName="Keypad_2" ccid_ActiveFont="'Roboto'" ccid_linkSendReceive="True" ccid_ComponentType="Keypad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-large" oldID="ivtw4"><ch5-keypad-button pressed="false" key="button1" labelmajor="1" labelminor="" componentName="button1"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button2" labelmajor="2" labelminor="ABC" componentName="button2"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button3" labelmajor="3" labelminor="DEF" componentName="button3"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button4" labelmajor="4" labelminor="GHI" componentName="button4"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button5" labelmajor="5" labelminor="JKL" componentName="button5"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button6" labelmajor="6" labelminor="MNO" componentName="button6"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button7" labelmajor="7" labelminor="PQRS" componentName="button7"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button8" labelmajor="8" labelminor="TUV" componentName="button8"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button9" labelmajor="9" labelminor="WXYZ" componentName="button9"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button0" labelmajor="0" labelminor="+" componentName="button0"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonstar" labelmajor="*" componentName="buttonstar" id="i5306-3" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonhash" labelmajor="#" componentName="buttonhash" id="i62kj-3" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonextra" iconclass="fas fa-phone" componentName="buttonextra" id="ip6lg-3" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad><ch5-keypad shape="rounded-rectangle" size="large" type="info" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" affectedByPreviewState="True" useContractForHideAsteriskButton="false" useContractForHidePoundButton="false" textorientation="top" disabled="false" showextrabutton="true" customvstheme="theme" hideasteriskbutton="false" hidepoundbutton="false" id="icpg45mj4yp97" componentName="Keypad_1" ccid_ActiveFont="'Roboto'" ccid_linkSendReceive="True" ccid_ComponentType="Keypad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="large" oldID="ivtw4"><ch5-keypad-button pressed="false" key="button1" labelmajor="1" labelminor="" componentName="button1"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button2" labelmajor="2" labelminor="ABC" componentName="button2"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button3" labelmajor="3" labelminor="DEF" componentName="button3"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button4" labelmajor="4" labelminor="GHI" componentName="button4"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button5" labelmajor="5" labelminor="JKL" componentName="button5"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button6" labelmajor="6" labelminor="MNO" componentName="button6"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button7" labelmajor="7" labelminor="PQRS" componentName="button7"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button8" labelmajor="8" labelminor="TUV" componentName="button8"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button9" labelmajor="9" labelminor="WXYZ" componentName="button9"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button0" labelmajor="0" labelminor="+" componentName="button0"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonstar" labelmajor="*" componentName="buttonstar" id="i5306-2" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonhash" labelmajor="#" componentName="buttonhash" id="i62kj-2" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonextra" iconclass="fas fa-phone" componentName="buttonextra" id="ip6lg-2" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad></div>
 
 {Css}
-@media (max-width: 99999px){#id5d{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:305px;top:32px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:154;}#ilka{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:291px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:155;}#i2m4{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:735px;top:83px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:156;}#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#icpg45mj4yp97 span:not(.has-icon, .has-icon span){font-family:'Roboto';}#in2i7ad7xmwkz span:not(.has-icon, .has-icon span){font-family:'Roboto';}#icpg45mj4yp97{display:block;left:183px;top:162px;position:absolute;z-index:161;width:294px;height:auto;}#in2i7ad7xmwkz{display:block;left:607px;top:148px;position:absolute;z-index:163;width:312px;height:auto;}#wrapper{background-color:#ffffff;}#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#id5d{left:305px;top:32px;position:absolute;z-index:154;}#ilka{left:291px;top:83px;position:absolute;z-index:155;}#i2m4{left:735px;top:83px;z-index:156;}#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}#icpg45mj4yp97{left:183px;top:162px;position:absolute;width:294px;height:auto;}#in2i7ad7xmwkz{left:607px;top:148px;position:absolute;width:312px;height:auto;}#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}}
+@media (max-width: 99999px){#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#icpg45mj4yp97 span:not(.has-icon, .has-icon span){font-family:'Roboto';}#in2i7ad7xmwkz span:not(.has-icon, .has-icon span){font-family:'Roboto';}#icpg45mj4yp97{display:block;left:183px;top:162px;position:absolute;z-index:161;width:undefined;height:auto;}#in2i7ad7xmwkz{display:block;left:607px;top:148px;position:absolute;z-index:163;width:undefined;height:auto;}#iejhz1tzw4l3r{display:block;left:699px;top:73px;position:absolute;z-index:157;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i81qtqcemfr6d{display:block;left:245px;top:73px;position:absolute;z-index:159;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#ig2pjgg9m8tc4{display:block;left:102px;top:12px;position:absolute;z-index:161;width:770px;height:48px;--ch5-text--width:770px;--ch5-text--font-size:34px;Label_font-size:34px;custom-normal-font-size:34px;}#iejhz1tzw4l3r .ch5-text :not(i):not(svg){font-family:'Roboto';}#iejhz1tzw4l3r .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i81qtqcemfr6d .ch5-text :not(i):not(svg){font-family:'Roboto';}#i81qtqcemfr6d .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ig2pjgg9m8tc4 .ch5-text :not(i):not(svg){font-family:"Roboto";}#ig2pjgg9m8tc4 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i55w50v3dv{width:975px;height:800px;left:0;top:0;position:absolute;}#icpg45mj4yp97{left:183px;top:162px;position:absolute;width:undefined;height:auto;}#in2i7ad7xmwkz{left:607px;top:148px;position:absolute;width:undefined;height:auto;}#iejhz1tzw4l3r{left:699px;top:73px;z-index:158;}#i81qtqcemfr6d{left:245px;top:73px;z-index:160;}#ig2pjgg9m8tc4{display:block;left:102px;top:12px;position:absolute;z-index:162;width:770px;height:48px;--ch5-text--width:770px;Label_font-size:34px;--ch5-text--font-size:34px;}}
 
 {PageAttributes}
 
@@ -27,6 +28,73 @@ DisplayBackgroundColor = "False"
 Type = "widgetContainer"
 Classes = ["widget-container"]
 
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ig2pjgg9m8tc4"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Keypads Size 1 Round Rectangle Info"
+labelinnerhtml = "Keypads Size 1 Round Rectangle Info"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "irgdhnltins24"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i81qtqcemfr6d"
+componentName = "Formatted-Text_12"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Large"
+labelinnerhtml = "Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ipyin1bzfi081"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iejhz1tzw4l3r"
+componentName = "Formatted-Text_13"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Large"
+labelinnerhtml = "X-Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "izef60zij2wl1"
 [[Elements.Components]]
 Type = "Ch5 Keypad"
 Editable = true
@@ -357,66 +425,6 @@ ccid_ComponentType = "Keypad"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "large"
 oldID = "ivtw4"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_9"
-ccid_ComponentType = "Html-text"
-id = "i2m4"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i03e"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_8"
-ccid_ComponentType = "Html-text"
-id = "ilka"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ii8u"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Keypads 2 Rounded-Rectangle Info"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "id5d"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "igsu"
 
 [Elements.Attributes]
 categoryname = "Widget Components"

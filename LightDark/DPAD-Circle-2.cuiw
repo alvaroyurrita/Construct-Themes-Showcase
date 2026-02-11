@@ -1,20 +1,22 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-07 17:48:25.998269-05:00
+Created = 2026-02-11 15:04:31.015171-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-07 17:48:25.99826-05:00
+Modified = 2026-02-11 15:04:31.015168-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="ith4blxl32" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-dpad shape="circle" type="secondary" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9l6" componentName="Dpad_19" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="iz2jzjezsky9a26l"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="inp3" componentName="Dpad_18" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ije6drg25emfsvqf"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9g5" componentName="Dpad_17" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i7n22vyl35bxllgn" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ii37" componentName="Dpad_16" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i5gfgjrrby4vszai" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i2kx" componentName="Dpad_15" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifzbshf1pv411bq4" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ivjq" componentName="Dpad_14" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9k5" componentName="Dpad_13" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iz5q" componentName="Dpad_12" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="isb5" componentName="Dpad_11" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="irwr" componentName="Dpad_10" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="idzo" componentName="Dpad_9" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i2ac" componentName="Dpad_8" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9l3" componentName="Dpad_7" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ihf6" componentName="Dpad_6" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ielh" componentName="Dpad_5" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9vh" componentName="Dpad" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" componentWasResized="true" oldID="i4pm">
-              <ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i7so" componentName="Dpad_1" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iuyqgebr7yszk" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i3zb" componentName="Dpad_2" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ijqax5a4l9zlk" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iksh" componentName="Dpad_3" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igipswov3muoo" ccid_lastSizeSelected="large" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ik40" componentName="Dpad_4" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iouxk496hb26h" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><div data-mytext="myText" componentName="Html-text_13" ccid_ComponentType="Html-text" id="id3u" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ivddenmxxei0i">Success</div><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="im42" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i4xr">X-Large</div><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="i9ru" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igch">Large</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="icl8" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="itl3">Regular</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="inos" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i03e">Small</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="ixxx" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii8u">X-Small</div><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="irlt" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igsu">D-Pads&nbsp;&nbsp;</div><div data-mytext="myText" componentName="Html-text_6" ccid_ComponentType="Html-text" id="ii7e" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="icju">Secondary</div><div data-mytext="myText" componentName="Html-text_5" ccid_ComponentType="Html-text" id="ilpi" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iydi">Warning</div><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="ihp3" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="izca">Danger</div></div>
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="ith4blxl32" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iu19a84xzcoayz76" componentName="Formatted-Text_1" ccid_ActiveFont="'Roboto'" ccid_Label="Danger" labelinnerhtml="Danger" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="izthj2v5y7kzxxsu">
+              </ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i8m2hltyolyvlgag" componentName="Formatted-Text_2" ccid_ActiveFont="'Roboto'" ccid_Label="Warning" labelinnerhtml="Warning" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="issg8twwa0gpc3fh"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ivz0fc8zln5wen1x" componentName="Formatted-Text_3" ccid_ActiveFont="'Roboto'" ccid_Label="Success" labelinnerhtml="Success" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ii8qaoh76hllj1z8"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i0xqnq5m5kpvlo6k" componentName="Formatted-Text_4" ccid_ActiveFont="'Roboto'" ccid_Label="Secondary" labelinnerhtml="Secondary" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="iy3oli0wjf1umm94"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i2c3rixpa3s7wg7s" componentName="Formatted-Text_9" ccid_ActiveFont="'Roboto'" ccid_Label="X_Small" labelinnerhtml="X_Small" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ihjnbqdk7uk5gc8z"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="icopx3kdqshilmgf" componentName="Formatted-Text_10" ccid_ActiveFont="'Roboto'" ccid_Label="Small" labelinnerhtml="Small" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ikkdf7dv2vftbkmk"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iqs2jucajy4n05en" componentName="Formatted-Text_11" ccid_ActiveFont="'Roboto'" ccid_Label="Regular" labelinnerhtml="Regular" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i6ddntuj8sfpnztd"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iejpkw5jttsopd62" componentName="Formatted-Text_12" ccid_ActiveFont="'Roboto'" ccid_Label="Large" labelinnerhtml="Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="iqf04gafqrg8v33h"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i04nmhg3vm4rgse7" componentName="Formatted-Text_13" ccid_ActiveFont="'Roboto'" ccid_Label="X-Large" labelinnerhtml="X-Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ivcszuikvyrfaw4p"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iji3anw1tw5ven82" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="D-Pads Circle" labelinnerhtml="D-Pads Circle" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="is09kig5ofnhhvcc">
+              </ch5-text><ch5-dpad shape="circle" type="secondary" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9l6" componentName="Dpad_19" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="iz2jzjezsky9a26l"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="inp3" componentName="Dpad_18" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ije6drg25emfsvqf"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9g5" componentName="Dpad_17" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i7n22vyl35bxllgn" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ii37" componentName="Dpad_16" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i5gfgjrrby4vszai" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="secondary" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i2kx" componentName="Dpad_15" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifzbshf1pv411bq4" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ivjq" componentName="Dpad_14" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9k5" componentName="Dpad_13" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iz5q" componentName="Dpad_12" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="isb5" componentName="Dpad_11" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="success" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="irwr" componentName="Dpad_10" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="idzo" componentName="Dpad_9" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihx7u4epzeabc" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i2ac" componentName="Dpad_8" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyj6s90g4ehef" ccid_lastSizeSelected="large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9l3" componentName="Dpad_7" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii516i1v9jwou" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ihf6" componentName="Dpad_6" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i9d51spxnkulz"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="warning" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ielh" componentName="Dpad_5" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" oldID="i1n4fd7rqro8j"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="x-small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i9vh" componentName="Dpad" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="x-small" componentWasResized="true" oldID="i4pm">
+              <ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="regular" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i7so" componentName="Dpad_1" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iuyqgebr7yszk" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="small" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="i3zb" componentName="Dpad_2" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ijqax5a4l9zlk" ccid_lastSizeSelected="small" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="iksh" componentName="Dpad_3" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igipswov3muoo" ccid_lastSizeSelected="large" componentWasResized="true"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad><ch5-dpad shape="circle" type="danger" size="x-large" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="theme" id="ik40" componentName="Dpad_4" ccid_linkSendReceive="True" ccid_ComponentType="Dpad" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iouxk496hb26h" ccid_lastSizeSelected="x-large"><ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass" ccid_ActiveFont="'Roboto'"></ch5-dpad-button></ch5-dpad></div>
 
 {Css}
-@media (max-width: 99999px){#ihp3{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:159px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:163;}#ilpi{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:332px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:164;}#ii7e{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:678px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:165;}#irlt{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:451px;top:12px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:166;}#ixxx{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:158px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:167;}#inos{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:298px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:168;}#icl8{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:441px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:169;}#i9ru{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:630px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:170;}#im42{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:824px;top:43px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:171;}#id3u{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:27px;top:505px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;width:auto;height:auto;z-index:177;}#ik40 span:not(.dpad-btn-icon){font-family:"Roboto";}#ik40{display:block;left:763px;top:73px;position:absolute;z-index:178;width:undefined;height:undefined;}#iksh span:not(.dpad-btn-icon){font-family:"Roboto";}#iksh{display:block;left:569px;top:83px;position:absolute;z-index:180;width:undefined;height:undefined;}#i3zb span:not(.dpad-btn-icon){font-family:"Roboto";}#i3zb{display:block;left:262px;top:108px;position:absolute;z-index:182;width:undefined;height:undefined;}#i7so span:not(.dpad-btn-icon){font-family:"Roboto";}#i7so{display:block;left:405px;top:98px;position:absolute;z-index:184;width:undefined;height:undefined;}#i9vh span:not(.dpad-btn-icon){font-family:"Roboto";}#i9vh{display:block;left:147px;top:123px;position:absolute;z-index:186;width:undefined;height:undefined;}#ielh span:not(.dpad-btn-icon){font-family:"Roboto";}#ielh{display:block;left:147px;top:296px;position:absolute;z-index:188;width:undefined;height:undefined;}#ihf6 span:not(.dpad-btn-icon){font-family:"Roboto";}#ihf6{display:block;left:403px;top:271px;position:absolute;z-index:190;width:undefined;height:undefined;}#i9l3 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9l3{display:block;left:259px;top:281px;position:absolute;z-index:192;width:undefined;height:undefined;}#i2ac span:not(.dpad-btn-icon){font-family:"Roboto";}#i2ac{display:block;left:567px;top:256px;position:absolute;z-index:194;width:undefined;height:undefined;}#idzo span:not(.dpad-btn-icon){font-family:"Roboto";}#idzo{display:block;left:763px;top:246px;position:absolute;z-index:196;width:undefined;height:undefined;}#irwr span:not(.dpad-btn-icon){font-family:"Roboto";}#irwr{display:block;left:147px;top:469px;position:absolute;z-index:198;width:undefined;height:undefined;}#isb5 span:not(.dpad-btn-icon){font-family:"Roboto";}#isb5{display:block;left:403px;top:444px;position:absolute;z-index:200;width:undefined;height:undefined;}#iz5q span:not(.dpad-btn-icon){font-family:"Roboto";}#iz5q{display:block;left:259px;top:454px;position:absolute;z-index:202;width:undefined;height:undefined;}#i9k5 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9k5{display:block;left:567px;top:429px;position:absolute;z-index:204;width:undefined;height:undefined;}#ivjq span:not(.dpad-btn-icon){font-family:"Roboto";}#ivjq{display:block;left:763px;top:419px;position:absolute;z-index:206;width:undefined;height:undefined;}#i2kx span:not(.dpad-btn-icon){font-family:"Roboto";}#i2kx{display:block;left:763px;top:592px;position:absolute;z-index:208;width:undefined;height:undefined;}#ii37 span:not(.dpad-btn-icon){font-family:"Roboto";}#ii37{display:block;left:567px;top:602px;position:absolute;z-index:210;width:undefined;height:undefined;}#i9g5 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9g5{display:block;left:259px;top:627px;position:absolute;z-index:212;width:undefined;height:undefined;}#inp3 span:not(.dpad-btn-icon){font-family:"Roboto";}#inp3{display:block;left:403px;top:617px;position:absolute;z-index:214;width:undefined;height:undefined;}#i9l6 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9l6{display:block;left:147px;top:642px;position:absolute;z-index:216;width:undefined;height:undefined;}#ith4blxl32{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ihp3{top:159px;left:27px;z-index:163;}#ilpi{top:332px;left:27px;position:absolute;width:auto;height:auto;z-index:164;}#ii7e{top:678px;left:27px;z-index:165;}#irlt{left:451px;top:12px;position:absolute;z-index:166;}#ixxx{left:158px;top:43px;position:absolute;z-index:167;}#inos{left:298px;top:43px;z-index:168;}#icl8{left:441px;top:43px;z-index:169;}#i9ru{left:630px;top:43px;z-index:170;}#im42{left:824px;top:43px;position:absolute;width:auto;height:auto;z-index:171;}#id3u{left:27px;top:505px;position:absolute;width:auto;height:auto;z-index:177;}#ik40{left:763px;top:73px;position:absolute;width:undefined;height:undefined;}#iksh{left:569px;top:83px;position:absolute;width:undefined;height:undefined;}#i3zb{left:262px;top:108px;width:undefined;height:undefined;}#i7so{left:405px;top:98px;position:absolute;width:undefined;height:undefined;}#i9vh{left:147px;top:123px;width:undefined;height:undefined;}#ielh{left:147px;top:296px;width:undefined;height:undefined;}#ihf6{left:403px;top:271px;position:absolute;width:undefined;height:undefined;}#i9l3{left:259px;top:281px;width:undefined;height:undefined;}#i2ac{left:567px;top:256px;position:absolute;width:undefined;height:undefined;}#idzo{left:763px;top:246px;width:undefined;height:undefined;}#irwr{left:147px;top:469px;width:undefined;height:undefined;}#isb5{left:403px;top:444px;width:undefined;height:undefined;}#iz5q{left:259px;top:454px;width:undefined;height:undefined;}#i9k5{left:567px;top:429px;position:absolute;width:undefined;height:undefined;}#ivjq{left:763px;top:419px;width:undefined;height:undefined;}#i2kx{left:763px;top:592px;position:absolute;width:undefined;height:undefined;}#ii37{left:567px;top:602px;position:absolute;width:undefined;height:undefined;}#i9g5{left:259px;top:627px;width:undefined;height:undefined;}#inp3{left:403px;top:617px;width:undefined;height:undefined;}#i9l6{left:147px;top:642px;width:undefined;height:undefined;}#ith4blxl32{width:975px;height:800px;left:0;top:0;position:absolute;}}
+@media (max-width: 99999px){#ik40 span:not(.dpad-btn-icon){font-family:"Roboto";}#ik40{display:block;left:763px;top:73px;position:absolute;z-index:178;width:undefined;height:undefined;}#iksh span:not(.dpad-btn-icon){font-family:"Roboto";}#iksh{display:block;left:569px;top:83px;position:absolute;z-index:180;width:undefined;height:undefined;}#i3zb span:not(.dpad-btn-icon){font-family:"Roboto";}#i3zb{display:block;left:262px;top:108px;position:absolute;z-index:182;width:undefined;height:undefined;}#i7so span:not(.dpad-btn-icon){font-family:"Roboto";}#i7so{display:block;left:405px;top:98px;position:absolute;z-index:184;width:undefined;height:undefined;}#i9vh span:not(.dpad-btn-icon){font-family:"Roboto";}#i9vh{display:block;left:147px;top:123px;position:absolute;z-index:186;width:undefined;height:undefined;}#ielh span:not(.dpad-btn-icon){font-family:"Roboto";}#ielh{display:block;left:147px;top:296px;position:absolute;z-index:188;width:undefined;height:undefined;}#ihf6 span:not(.dpad-btn-icon){font-family:"Roboto";}#ihf6{display:block;left:403px;top:271px;position:absolute;z-index:190;width:undefined;height:undefined;}#i9l3 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9l3{display:block;left:259px;top:281px;position:absolute;z-index:192;width:undefined;height:undefined;}#i2ac span:not(.dpad-btn-icon){font-family:"Roboto";}#i2ac{display:block;left:567px;top:256px;position:absolute;z-index:194;width:undefined;height:undefined;}#idzo span:not(.dpad-btn-icon){font-family:"Roboto";}#idzo{display:block;left:763px;top:246px;position:absolute;z-index:196;width:undefined;height:undefined;}#irwr span:not(.dpad-btn-icon){font-family:"Roboto";}#irwr{display:block;left:147px;top:469px;position:absolute;z-index:198;width:undefined;height:undefined;}#isb5 span:not(.dpad-btn-icon){font-family:"Roboto";}#isb5{display:block;left:403px;top:444px;position:absolute;z-index:200;width:undefined;height:undefined;}#iz5q span:not(.dpad-btn-icon){font-family:"Roboto";}#iz5q{display:block;left:259px;top:454px;position:absolute;z-index:202;width:undefined;height:undefined;}#i9k5 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9k5{display:block;left:567px;top:429px;position:absolute;z-index:204;width:undefined;height:undefined;}#ivjq span:not(.dpad-btn-icon){font-family:"Roboto";}#ivjq{display:block;left:763px;top:419px;position:absolute;z-index:206;width:undefined;height:undefined;}#i2kx span:not(.dpad-btn-icon){font-family:"Roboto";}#i2kx{display:block;left:763px;top:592px;position:absolute;z-index:208;width:undefined;height:undefined;}#ii37 span:not(.dpad-btn-icon){font-family:"Roboto";}#ii37{display:block;left:567px;top:602px;position:absolute;z-index:210;width:undefined;height:undefined;}#i9g5 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9g5{display:block;left:259px;top:627px;position:absolute;z-index:212;width:undefined;height:undefined;}#inp3 span:not(.dpad-btn-icon){font-family:"Roboto";}#inp3{display:block;left:403px;top:617px;position:absolute;z-index:214;width:undefined;height:undefined;}#i9l6 span:not(.dpad-btn-icon){font-family:"Roboto";}#i9l6{display:block;left:147px;top:642px;position:absolute;z-index:216;width:undefined;height:undefined;}#ith4blxl32{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#iji3anw1tw5ven82{display:block;left:102px;top:12px;position:absolute;z-index:1;width:770px;height:48px;--ch5-text--width:770px;--ch5-text--font-size:34px;Label_font-size:34px;custom-normal-font-size:34px;}#i04nmhg3vm4rgse7{display:block;left:801px;top:39px;position:absolute;z-index:3;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#iejpkw5jttsopd62{display:block;left:598px;top:39px;position:absolute;z-index:5;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#iqs2jucajy4n05en{display:block;left:429px;top:39px;position:absolute;z-index:7;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#icopx3kdqshilmgf{display:block;left:277px;top:39px;position:absolute;z-index:9;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i2c3rixpa3s7wg7s{display:block;left:148px;top:39px;position:absolute;z-index:11;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i0xqnq5m5kpvlo6k{display:block;left:27px;top:668px;position:absolute;z-index:13;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#ivz0fc8zln5wen1x{display:block;left:27px;top:495px;position:absolute;z-index:15;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i8m2hltyolyvlgag{display:block;left:27px;top:322px;position:absolute;z-index:17;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#iu19a84xzcoayz76{display:block;left:27px;top:149px;position:absolute;z-index:19;width:150px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#iji3anw1tw5ven82 .ch5-text :not(i):not(svg){font-family:"Roboto";}#iji3anw1tw5ven82 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i04nmhg3vm4rgse7 .ch5-text :not(i):not(svg){font-family:'Roboto';}#i04nmhg3vm4rgse7 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iejpkw5jttsopd62 .ch5-text :not(i):not(svg){font-family:'Roboto';}#iejpkw5jttsopd62 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iqs2jucajy4n05en .ch5-text :not(i):not(svg){font-family:'Roboto';}#iqs2jucajy4n05en .ch5-text{min-height:10px;min-width:10px;padding:0px;}#icopx3kdqshilmgf .ch5-text :not(i):not(svg){font-family:'Roboto';}#icopx3kdqshilmgf .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i2c3rixpa3s7wg7s .ch5-text :not(i):not(svg){font-family:'Roboto';}#i2c3rixpa3s7wg7s .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i0xqnq5m5kpvlo6k .ch5-text :not(i):not(svg){font-family:'Roboto';}#i0xqnq5m5kpvlo6k .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ivz0fc8zln5wen1x .ch5-text :not(i):not(svg){font-family:'Roboto';}#ivz0fc8zln5wen1x .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i8m2hltyolyvlgag .ch5-text :not(i):not(svg){font-family:'Roboto';}#i8m2hltyolyvlgag .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iu19a84xzcoayz76 .ch5-text :not(i):not(svg){font-family:'Roboto';}#iu19a84xzcoayz76 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ik40{left:763px;top:73px;position:absolute;width:undefined;height:undefined;}#iksh{left:569px;top:83px;position:absolute;width:undefined;height:undefined;}#i3zb{left:262px;top:108px;width:undefined;height:undefined;}#i7so{left:405px;top:98px;position:absolute;width:undefined;height:undefined;}#i9vh{left:147px;top:123px;width:undefined;height:undefined;}#ielh{left:147px;top:296px;width:undefined;height:undefined;}#ihf6{left:403px;top:271px;position:absolute;width:undefined;height:undefined;}#i9l3{left:259px;top:281px;width:undefined;height:undefined;}#i2ac{left:567px;top:256px;position:absolute;width:undefined;height:undefined;}#idzo{left:763px;top:246px;width:undefined;height:undefined;}#irwr{left:147px;top:469px;width:undefined;height:undefined;}#isb5{left:403px;top:444px;width:undefined;height:undefined;}#iz5q{left:259px;top:454px;width:undefined;height:undefined;}#i9k5{left:567px;top:429px;position:absolute;width:undefined;height:undefined;}#ivjq{left:763px;top:419px;width:undefined;height:undefined;}#i2kx{left:763px;top:592px;position:absolute;width:undefined;height:undefined;}#ii37{left:567px;top:602px;position:absolute;width:undefined;height:undefined;}#i9g5{left:259px;top:627px;width:undefined;height:undefined;}#inp3{left:403px;top:617px;width:undefined;height:undefined;}#i9l6{left:147px;top:642px;width:undefined;height:undefined;}#ith4blxl32{width:975px;height:800px;left:0;top:0;position:absolute;}#iji3anw1tw5ven82{display:block;left:102px;top:12px;position:absolute;z-index:2;width:770px;height:48px;--ch5-text--width:770px;Label_font-size:34px;--ch5-text--font-size:34px;}#i04nmhg3vm4rgse7{left:801px;top:39px;z-index:4;}#iejpkw5jttsopd62{left:598px;top:39px;z-index:6;}#iqs2jucajy4n05en{left:429px;top:39px;z-index:8;}#icopx3kdqshilmgf{left:277px;top:39px;z-index:10;}#i2c3rixpa3s7wg7s{left:148px;top:39px;position:absolute;width:150px;height:48px;z-index:12;}#i0xqnq5m5kpvlo6k{top:668px;left:27px;z-index:14;}#ivz0fc8zln5wen1x{top:495px;left:27px;z-index:16;}#i8m2hltyolyvlgag{top:322px;left:27px;z-index:18;}#iu19a84xzcoayz76{display:block;left:27px;top:149px;position:absolute;z-index:20;width:150px;height:48px;Label_font-size:23px;--ch5-text--font-size:23px;}}
 
 {PageAttributes}
 
@@ -28,6 +30,224 @@ DisplayBackgroundColor = "False"
 Type = "widgetContainer"
 Classes = ["widget-container"]
 
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iu19a84xzcoayz76"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Danger"
+labelinnerhtml = "Danger"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "izthj2v5y7kzxxsu"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i8m2hltyolyvlgag"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Warning"
+labelinnerhtml = "Warning"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "issg8twwa0gpc3fh"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ivz0fc8zln5wen1x"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Success"
+labelinnerhtml = "Success"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ii8qaoh76hllj1z8"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i0xqnq5m5kpvlo6k"
+componentName = "Formatted-Text_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Secondary"
+labelinnerhtml = "Secondary"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iy3oli0wjf1umm94"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i2c3rixpa3s7wg7s"
+componentName = "Formatted-Text_9"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X_Small"
+labelinnerhtml = "X_Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ihjnbqdk7uk5gc8z"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "icopx3kdqshilmgf"
+componentName = "Formatted-Text_10"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Small"
+labelinnerhtml = "Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ikkdf7dv2vftbkmk"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iqs2jucajy4n05en"
+componentName = "Formatted-Text_11"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Regular"
+labelinnerhtml = "Regular"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i6ddntuj8sfpnztd"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iejpkw5jttsopd62"
+componentName = "Formatted-Text_12"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Large"
+labelinnerhtml = "Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iqf04gafqrg8v33h"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i04nmhg3vm4rgse7"
+componentName = "Formatted-Text_13"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Large"
+labelinnerhtml = "X-Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ivcszuikvyrfaw4p"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iji3anw1tw5ven82"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "D-Pads Circle"
+labelinnerhtml = "D-Pads Circle"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "is09kig5ofnhhvcc"
 [[Elements.Components]]
 Type = "Ch5 Dpad"
 Editable = true
@@ -1414,206 +1634,6 @@ ccid_ComponentType = "Dpad"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "iouxk496hb26h"
 ccid_lastSizeSelected = "x-large"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Success"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_13"
-ccid_ComponentType = "Html-text"
-id = "id3u"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ivddenmxxei0i"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_12"
-ccid_ComponentType = "Html-text"
-id = "im42"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i4xr"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_11"
-ccid_ComponentType = "Html-text"
-id = "i9ru"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "igch"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_10"
-ccid_ComponentType = "Html-text"
-id = "icl8"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "itl3"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_9"
-ccid_ComponentType = "Html-text"
-id = "inos"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i03e"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "X-Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_8"
-ccid_ComponentType = "Html-text"
-id = "ixxx"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ii8u"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "D-Pads&nbsp;&nbsp;"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "irlt"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "igsu"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Secondary"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_6"
-ccid_ComponentType = "Html-text"
-id = "ii7e"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "icju"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Warning"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_5"
-ccid_ComponentType = "Html-text"
-id = "ilpi"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iydi"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Danger"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_4"
-ccid_ComponentType = "Html-text"
-id = "ihp3"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "izca"
 
 [Elements.Attributes]
 categoryname = "Widget Components"

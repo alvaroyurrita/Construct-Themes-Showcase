@@ -1,19 +1,22 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-10 13:20:22.147845-05:00
+Created = 2026-02-11 12:49:38.064683-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-10 13:20:22.147838-05:00
+Modified = 2026-02-11 12:49:38.06468-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd184fafe-a121-4f40-88c0-ad3e9f8007c3" id="i34jxandcw" componentName="Theme Menu" ccid_ComponentType="Widget" ccid_WidgetName="Theme Menu" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="5" oldID="ihy07"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i6ba" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w1b10bf19-2867-4e98-a46a-92b3a629a74f" id="i5d5" componentName="Toggle-Rectangle" ccid_ComponentType="Widget" ccid_WidgetName="Toggle-Rectangle" devicesVisited="[&quot;TSW-1070&quot;]"></ch5-template>
+<ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd184fafe-a121-4f40-88c0-ad3e9f8007c3" id="i34jxandcw" componentname="Theme Menu" ccid_componenttype="Widget" ccid_widgetname="Theme Menu" devicesvisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="5" oldid="ihy07"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i6ba" componentname="NavBar" ccid_componenttype="Widget" ccid_widgetname="NavBar" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w1b10bf19-2867-4e98-a46a-92b3a629a74f" id="i5d5" componentname="Toggle-Rectangle" ccid_componenttype="Widget" ccid_widgetname="Toggle-Rectangle" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-template>
+
+
 
 {Css}
-@media (max-width: 99999px){#i5d5{display:block;left:152px;top:0;position:absolute;z-index:26;}#i6ba{display:block;left:0;top:0;position:absolute;z-index:27;}#wrapper{background-color:#ffffff;}#i34jxandcw{display:block;left:104px;top:0px;position:absolute;z-index:30;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i5d5{display:block;left:152px;top:0;position:absolute;z-index:26;}#i6ba{display:block;left:0;top:0;position:absolute;z-index:27;}#i34jxandcw{display:block;left:104px;top:0px;position:absolute;z-index:31;}}
+@media (max-width: 99999px) { #wrapper { background-color: #4d4d4d } #i5d5 { display: block; left: 152px; top: 0; position: absolute; z-index: 26 } #i6ba { display: block; left: 0; top: 0; position: absolute; z-index: 27 } #i34jxandcw { display: block; left: 104px; top: 0px; position: absolute; z-index: 30 } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #i5d5 { display: block; left: 152px; top: 0; position: absolute; z-index: 26 } #i6ba { display: block; left: 0; top: 0; position: absolute; z-index: 27 } #i34jxandcw { display: block; left: 104px; top: 0px; position: absolute; z-index: 31 } }
 
 {PageAttributes}
 
@@ -28,7 +31,10 @@ VisibilityJoin = "VisibilityJoin"
 DisplayBackgroundColor = "False"
 
 [[Elements]]
+Name = ""
 Type = "Ch5 Template"
+Status = ""
+Content = ""
 
 [Elements.Attributes]
 transitionduration = "1s"
@@ -42,7 +48,10 @@ devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "5"
 oldID = "ihy07"
 [[Elements]]
+Name = ""
 Type = "Ch5 Template"
+Status = ""
+Content = ""
 
 [Elements.Attributes]
 transitionduration = "1s"
@@ -54,7 +63,10 @@ ccid_ComponentType = "Widget"
 ccid_WidgetName = "NavBar"
 devicesVisited = "[\"TSW-1070\"]"
 [[Elements]]
+Name = ""
 Type = "Ch5 Template"
+Status = ""
+Content = ""
 
 [Elements.Attributes]
 transitionduration = "1s"

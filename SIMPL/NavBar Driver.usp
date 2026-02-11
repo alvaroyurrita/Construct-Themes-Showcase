@@ -7,6 +7,7 @@ Digital_Input SelectMediaPlayerPressed;
 Digital_Input SelectOtherPressed;
 Digital_Input SelectSlidersPressed;
 Digital_Input SelectTabsPressed;
+Digital_Input SelectTextPressed;
 Digital_Input SelectTogglesPressed;
 Digital_Input SelectVideoPressed;
 Digital_Input SelectVideoSwitcherPressed;
@@ -16,11 +17,12 @@ Digital_Output SelectThemeSelected;
 Digital_Output SelectAnimationSelected;
 Digital_Output SelectButtonsSelected;
 Digital_Output SelectDpadsSelected;
-Digital_Output SelectKeypadSelected;
+Digital_Output SelectKeypadsSelected;
 Digital_Output SelectMediaPlayerSelected;
 Digital_Output SelectOtherSelected;
 Digital_Output SelectSlidersSelected;
 Digital_Output SelectTabsSelected;
+Digital_Output SelectTextSelected;
 Digital_Output SelectTogglesSelected;
 Digital_Output SelectVideoSelected;
 Digital_Output SelectVideoSwitcherSelected;
@@ -37,6 +39,7 @@ String_Output MediaPlayerTitle;
 String_Output OtherTitle;
 String_Output SliderTitle;
 String_Output TabTitle;
+String_Output TextTitle;
 String_Output ToggleTitle;
 String_Output VideoTitle;
 String_Output VideoSwitcherTitle;
@@ -47,11 +50,12 @@ Function UnselectAll() {
 	SelectAnimationSelected = 0;
 	SelectButtonsSelected = 0;
 	SelectDpadsSelected = 0;
-	SelectKeypadSelected = 0;
+	SelectKeypadsSelected = 0;
 	SelectMediaPlayerSelected = 0;
 	SelectOtherSelected = 0;
 	SelectSlidersSelected = 0;
 	SelectTabsSelected = 0;
+	SelectTextSelected = 0;
 	SelectTogglesSelected = 0;
 	SelectVideoSelected = 0;
 	SelectVideoSwitcherSelected = 0;
@@ -71,7 +75,7 @@ Function SelectSection() {
 			Break;
 		}
 		Case (4): {
-			SelectKeypadSelected = 1;
+			SelectKeypadsSelected = 1;
 			Break;
 		}
 		Case (5): {
@@ -91,14 +95,18 @@ Function SelectSection() {
 			Break;
 		}
 		Case (9): {
-			SelectTogglesSelected = 1;
+			SelectTextSelected = 1;
 			Break;
 		}
 		Case (10): {
-			SelectVideoSelected = 1;
+			SelectTogglesSelected = 1;
 			Break;
 		}
 		Case (11): {
+			SelectVideoSelected = 1;
+			Break;
+		}
+		Case (12): {
 			SelectVideoSwitcherSelected = 1;
 			Break;
 		}
@@ -146,16 +154,20 @@ Push SelectTabsPressed{
 	CurrentSelection = 8;
 	SetSection();
 }
-Push SelectTogglesPressed{
+Push SelectTextPressed{
 	CurrentSelection = 9;
 	SetSection();
 }
-Push SelectVideoPressed{
+Push SelectTogglesPressed{
 	CurrentSelection = 10;
 	SetSection();
 }
-Push SelectVideoSwitcherPressed{
+Push SelectVideoPressed{
 	CurrentSelection = 11;
+	SetSection();
+}
+Push SelectVideoSwitcherPressed{
+	CurrentSelection = 12;
 	SetSection();
 }
 
@@ -171,6 +183,7 @@ Function Main() {
 	OtherTitle = "Other";
 	SliderTitle = "Sliders";
 	TabTitle = "Tabs";
+	TextTitle = "Text";
 	ToggleTitle = "Toggles";
 	VideoTitle = "Videos";
 	VideoSwitcherTitle = "Video<br/>Switchers";
