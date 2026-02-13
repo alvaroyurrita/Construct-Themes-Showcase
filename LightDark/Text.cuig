@@ -1,23 +1,24 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-11 12:49:38.355131-05:00
+Created = 2026-02-13 05:10:24.507471-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-11 12:49:38.355127-05:00
+Modified = 2026-02-13 05:10:24.507465-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="itn07" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Formatted Text" labelinnerhtml="Formatted Text" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true">
+<div data-mytext="myText" componentName="Html-text" ccid_ComponentType="Html-text" id="i4bkh" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]">Sample text</div><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i3lth6jz8e74g" componentName="Formatted-Text_7" ccid_ActiveFont="'Roboto'" ccid_Label="Heading" labelinnerhtml="Heading" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i1xwli2as2bhe" componentWasResized="true"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ijzvj9zgjbjkl" componentName="Formatted-Text_5" ccid_ActiveFont="'Roboto'" ccid_Label="Date Time" labelinnerhtml="Date Time" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="itklgyznahvkk"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i1xwli2as2bhe" componentName="Formatted-Text_4" ccid_ActiveFont="'Roboto'" ccid_Label="HTML Text" labelinnerhtml="HTML Text" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="itklgyznahvkk"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="itklgyznahvkk" componentName="Formatted-Text_3" ccid_ActiveFont="'Roboto'" ccid_Label="Text Input with Icon" labelinnerhtml="Text Input with Icon" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i52s3rxk6gq3o"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i52s3rxk6gq3o" componentName="Formatted-Text_2" ccid_ActiveFont="'Roboto'" ccid_Label="Text Input" labelinnerhtml="Text Input" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="iin8hbar131yu"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iykiztj2ekgf7" componentName="Formatted-Text_1" ccid_ActiveFont="'Roboto'" ccid_Label="Text" labelinnerhtml="Text" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i9b9jg0lpvwrr">
+              </ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ib8cih2pvp4fb" componentName="Formatted-Text_10" ccid_ActiveFont="'Roboto'" ccid_Label="Small" labelinnerhtml="Small" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i1ithed62kqfz"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ibmph43dl5x1s" componentName="Formatted-Text_11" ccid_ActiveFont="'Roboto'" ccid_Label="Regular" labelinnerhtml="Regular" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i1ohiua0k6hzp"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iegil6qegdmqf" componentName="Formatted-Text_12" ccid_ActiveFont="'Roboto'" ccid_Label="Large" labelinnerhtml="Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="izsc1ul19v0yx"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i37w1ew4fe0qs" componentName="Formatted-Text_13" ccid_ActiveFont="'Roboto'" ccid_Label="X-Large" labelinnerhtml="X-Large" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="iastb0rdif7p2"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iin8hbar131yu" componentName="Formatted-Text_6" ccid_ActiveFont="'Roboto'" ccid_Label="X-Small" labelinnerhtml="X-Small" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i436c">
+              </ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="itn07" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Formatted Text" labelinnerhtml="Formatted Text" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true">
               </ch5-text><ch5-datetime timeoffsethours="0" tagName="ch5-datetime" horizontalalignment="center" displaytype="datetime" display24hourformat="false" displayampm="true" displaytwodigitshour="false" displayseconds="false" stylefordate="MM-dd-yyyy" id="i8p9fzqnbx5zp" componentName="Date Time" ccid_ActiveFont="'Roboto'" ccid_linkSendReceive="True" ccid_ComponentType="Date Time" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ibenc">
-              </ch5-datetime><div data-mytext="myText" componentName="Html-text_19" ccid_ComponentType="Html-text" id="i1flplgbpr3w6" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="im31sxxwvjjgn">DateTIme</div><div data-mytext="myText" componentName="Html-text_13" ccid_ComponentType="Html-text" id="iumkjkimbeikn" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="itgbjr5rlqk5w">Heading</div><div data-mytext="myText" componentName="Html-text_8" ccid_ComponentType="Html-text" id="itgbjr5rlqk5w" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i57ec2f5e4ohi">Text Input with Icon<div></div></div><ch5-textinput iconposition="first" size="x-small" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iwrozgvnmka6h" componentName="Textinput_9" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1jy1h4gdaeup" ccid_lastSizeSelected="x-small" placeholder="This is a test" label="Label" iconclass="fas fa-address-card"></ch5-textinput><div data-mytext="myText" componentName="Html-text_6" ccid_ComponentType="Html-text" id="igvpl6m1wq4tv" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iegafxxpkf9ro">Small</div><div data-mytext="myText" componentName="Html-text_5" ccid_ComponentType="Html-text" id="ibq6ezzofmihu" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i1njx1lel51xy">Regular</div><div data-mytext="myText" componentName="Html-text_3" ccid_ComponentType="Html-text" id="it36st0ehw7u7" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="irrrgnmj1mw43">Large</div><div data-mytext="myText" componentName="Html-text_2" ccid_ComponentType="Html-text" id="ieexes20p9gvi" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ih6z8f3mv3cwj">X-Large</div><div data-mytext="myText" componentName="Html-text_1" ccid_ComponentType="Html-text" id="ikkjue35ncqfh" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="i2lfd83n38oa1">X-Small</div><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iwmjle19dih9k" componentName="Textinput_8" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ioufqoa5gi297" ccid_lastSizeSelected="small" placeholder="This is a test" ccid_customSizeSet="true" label="Label" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iaaldinubi2yb" componentName="Textinput_7" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="iederexso6p67" ccid_lastSizeSelected="regular" placeholder="This is a test" ccid_customSizeSet="true" label="Label" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i6kscno5kcl6j" componentName="Textinput_6" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ibag5993kriqk" ccid_lastSizeSelected="large" placeholder="This is a test" label="Label" ccid_customSizeSet="true" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i6q6iu6p54j3f" componentName="Textinput_5" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1s3yem8pb3ij" ccid_lastSizeSelected="x-large" placeholder="This is a test" label="Label" ccid_customSizeSet="true" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i1s3yem8pb3ij" componentName="Textinput_4" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ibag5993kriqk" ccid_lastSizeSelected="x-large" placeholder="This is a test" label="Label" ccid_customSizeSet="true"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="ibag5993kriqk" componentName="Textinput_3" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="iederexso6p67" ccid_lastSizeSelected="large" placeholder="This is a test" label="Label" ccid_customSizeSet="true"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iederexso6p67" componentName="Textinput_2" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ioufqoa5gi297" ccid_lastSizeSelected="regular" placeholder="This is a test" ccid_customSizeSet="true" label="Label"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="ioufqoa5gi297" componentName="Textinput_1" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1jy1h4gdaeup" ccid_lastSizeSelected="small" placeholder="This is a test" componentWasResized="true" ccid_customSizeSet="true" label="Label"></ch5-textinput><div data-mytext="myText" componentName="Html-text" ccid_ComponentType="Html-text" id="i2lfd83n38oa1" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iegafxxpkf9ro">X-Small</div><div data-mytext="myText" componentName="Html-text_12" ccid_ComponentType="Html-text" id="ih6z8f3mv3cwj" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="imd02zgzcerwp">X-Large</div><div data-mytext="myText" componentName="Html-text_11" ccid_ComponentType="Html-text" id="irrrgnmj1mw43" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iyy8pwgd6wqaj">Large</div><div data-mytext="myText" componentName="Html-text_10" ccid_ComponentType="Html-text" id="i1njx1lel51xy" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="izmoqywpobwq3">Regular</div><div data-mytext="myText" componentName="Html-text_9" ccid_ComponentType="Html-text" id="iegafxxpkf9ro" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iii8wkvhqbd8i">Small</div><div data-mytext="myText" componentName="Html-text_4" ccid_ComponentType="Html-text" id="i57ec2f5e4ohi" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="igswxmzl5l1v2us3">Text Input</div><ch5-textinput iconposition="first" size="x-small" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i1jy1h4gdaeup" componentName="Textinput" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i4nn2" ccid_lastSizeSelected="x-small" placeholder="This is a test" label="Label">
-              </ch5-textinput><h6 class="gjs-html-header" headingType="h6" data-mytext="myText" componentName="Html-header_5" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="itg8mw0t6wgft" devicesVisited="[&quot;TSW-1070&quot;]" oldID="it1dm0h491mod">Heading 6</h6><h5 class="gjs-html-header" headingType="h5" data-mytext="myText" componentName="Html-header_4" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="isnv89yguogdj" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iv7oa34f9y38f">Heading 5</h5><h4 class="gjs-html-header" headingType="h4" data-mytext="myText" componentName="Html-header_3" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="ip22srt1jycfl" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii4870a8fzhwm">Heading 4</h4><h3 class="gjs-html-header" headingType="h3" data-mytext="myText" componentName="Html-header_2" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="i51djizo9lrk5" devicesVisited="[&quot;TSW-1070&quot;]" oldID="idu8jg8k5u23u">Heading 3</h3><h2 class="gjs-html-header" headingType="h2" data-mytext="myText" componentName="Html-header_1" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="ib9r8s0lwd2t4" devicesVisited="[&quot;TSW-1070&quot;]" oldID="irc53d8910dyz">Heading 2</h2><h1 class="gjs-html-header" headingType="h1" data-mytext="myText" componentName="Html-header" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="i4473pthxmh6j" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ij8oz">Heading 1</h1><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="inawte0omo7p1" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ihtahojs2j">Text</div><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i1v4gxhtxq" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]" oldID="izi6j"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd184fafe-a121-4f40-88c0-ad3e9f8007c3" id="ihju91ozoj" componentName="Theme Menu" ccid_ComponentType="Widget" ccid_WidgetName="Theme Menu" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="5" oldID="i8wklt1b9kdah"></ch5-template>
+              </ch5-datetime><ch5-textinput iconposition="first" size="x-small" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iwrozgvnmka6h" componentName="Textinput_9" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1jy1h4gdaeup" ccid_lastSizeSelected="x-small" placeholder="This is a test" label="Label" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iwmjle19dih9k" componentName="Textinput_8" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ioufqoa5gi297" ccid_lastSizeSelected="small" placeholder="This is a test" ccid_customSizeSet="true" label="Label" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iaaldinubi2yb" componentName="Textinput_7" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="iederexso6p67" ccid_lastSizeSelected="regular" placeholder="This is a test" ccid_customSizeSet="true" label="Label" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i6kscno5kcl6j" componentName="Textinput_6" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ibag5993kriqk" ccid_lastSizeSelected="large" placeholder="This is a test" label="Label" ccid_customSizeSet="true" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i6q6iu6p54j3f" componentName="Textinput_5" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1s3yem8pb3ij" ccid_lastSizeSelected="x-large" placeholder="This is a test" label="Label" ccid_customSizeSet="true" iconclass="fas fa-address-card"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i1s3yem8pb3ij" componentName="Textinput_4" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ibag5993kriqk" ccid_lastSizeSelected="x-large" placeholder="This is a test" label="Label" ccid_customSizeSet="true"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="ibag5993kriqk" componentName="Textinput_3" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="iederexso6p67" ccid_lastSizeSelected="large" placeholder="This is a test" label="Label" ccid_customSizeSet="true"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="iederexso6p67" componentName="Textinput_2" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="ioufqoa5gi297" ccid_lastSizeSelected="regular" placeholder="This is a test" ccid_customSizeSet="true" label="Label"></ch5-textinput><ch5-textinput iconposition="first" size="custom" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="ioufqoa5gi297" componentName="Textinput_1" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i1jy1h4gdaeup" ccid_lastSizeSelected="small" placeholder="This is a test" componentWasResized="true" ccid_customSizeSet="true" label="Label"></ch5-textinput><ch5-textinput iconposition="first" size="x-small" type="text" minlength="0" maxlength="0" minvalue="0" maxvalue="0" text-transform="none" scaling="true" customvstheme="theme" id="i1jy1h4gdaeup" componentName="Textinput" ccid_linkSendReceive="True" ccid_ActiveFont="'Roboto'" ccid_Label="Label" ccid_sizeInitialized ccid_ComponentType="Textinput" devicesVisited="[&quot;TSW-1070&quot;]" sendeventonchange="10" pd-receivestatevalue="10" oldID="i4nn2" ccid_lastSizeSelected="x-small" placeholder="This is a test" label="Label">
+              </ch5-textinput><h6 class="gjs-html-header" headingType="h6" data-mytext="myText" componentName="Html-header_5" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="itg8mw0t6wgft" devicesVisited="[&quot;TSW-1070&quot;]" oldID="it1dm0h491mod">Heading 6</h6><h5 class="gjs-html-header" headingType="h5" data-mytext="myText" componentName="Html-header_4" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="isnv89yguogdj" devicesVisited="[&quot;TSW-1070&quot;]" oldID="iv7oa34f9y38f">Heading 5</h5><h4 class="gjs-html-header" headingType="h4" data-mytext="myText" componentName="Html-header_3" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="ip22srt1jycfl" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ii4870a8fzhwm">Heading 4</h4><h3 class="gjs-html-header" headingType="h3" data-mytext="myText" componentName="Html-header_2" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="i51djizo9lrk5" devicesVisited="[&quot;TSW-1070&quot;]" oldID="idu8jg8k5u23u">Heading 3</h3><h2 class="gjs-html-header" headingType="h2" data-mytext="myText" componentName="Html-header_1" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="ib9r8s0lwd2t4" devicesVisited="[&quot;TSW-1070&quot;]" oldID="irc53d8910dyz">Heading 2</h2><h1 class="gjs-html-header" headingType="h1" data-mytext="myText" componentName="Html-header" ccid_ComponentType="Html-header" ccid_ActiveFont="'Roboto'" id="i4473pthxmh6j" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ij8oz">Heading 1</h1><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w2e3f1caf-9fde-4031-ab72-59ca643cfb70" id="i1v4gxhtxq" componentName="NavBar" ccid_ComponentType="Widget" ccid_WidgetName="NavBar" devicesVisited="[&quot;TSW-1070&quot;]" oldID="izi6j"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wd184fafe-a121-4f40-88c0-ad3e9f8007c3" id="ihju91ozoj" componentName="Theme Menu" ccid_ComponentType="Widget" ccid_WidgetName="Theme Menu" devicesVisited="[&quot;TSW-1070&quot;]" pd-receivestateshow="5" oldID="i8wklt1b9kdah" componentWasResized="false"></ch5-template>
 
 {Css}
-@media (max-width: 99999px) { #wrapper { background-color: #4d4d4d } #ihju91ozoj { display: block; left: 104px; top: 0px; position: absolute; z-index: 120 } #i1v4gxhtxq { display: block; left: 0px; top: 0px; position: absolute; z-index: 121 } #inawte0omo7p1 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 618px; top: 24px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 124 } #i4473pthxmh6j { overflow: hidden; font-weight: 400; font-size: 32px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1023px; top: 124px; position: absolute; z-index: 126; custom-font-size: 32px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #ib9r8s0lwd2t4 { overflow: hidden; font-weight: 400; font-size: 24px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1041px; top: 197px; position: absolute; z-index: 128; custom-font-size: 24px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #ip22srt1jycfl { overflow: hidden; font-weight: 400; font-size: 16px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1059px; top: 313px; position: absolute; z-index: 132; custom-font-size: 16px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #isnv89yguogdj { overflow: hidden; font-weight: 400; font-size: 13.28px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1065px; top: 363px; position: absolute; z-index: 134; custom-font-size: 13.28px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #itg8mw0t6wgft { overflow: hidden; font-weight: 400; font-size: 10.72px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1071px; top: 409px; position: absolute; z-index: 136; custom-font-size: 10.72px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #iegafxxpkf9ro { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 134px; top: 209px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 142; width: auto; height: auto } #i1njx1lel51xy { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 134px; top: 289px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 144; width: auto; height: auto } #irrrgnmj1mw43 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 134px; top: 372px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 146; width: auto; height: auto } #ih6z8f3mv3cwj { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 134px; top: 464px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 148; width: auto; height: auto } #i2lfd83n38oa1 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 134px; top: 137px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 149; width: auto; height: auto } #i57ec2f5e4ohi { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 212px; top: 81px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 140; width: auto; height: auto } #iederexso6p67 :not(i):not(svg) { font-family: "Roboto" } #ioufqoa5gi297 :not(i):not(svg) { font-family: "Roboto" } #i1jy1h4gdaeup :not(i):not(svg) { font-family: "Roboto" } #i1s3yem8pb3ij :not(i):not(svg) { font-family: "Roboto" } #ibag5993kriqk :not(i):not(svg) { font-family: "Roboto" } #i6q6iu6p54j3f :not(i):not(svg) { font-family: "Roboto" } #i6kscno5kcl6j :not(i):not(svg) { font-family: "Roboto" } #iaaldinubi2yb :not(i):not(svg) { font-family: "Roboto" } #iwmjle19dih9k :not(i):not(svg) { font-family: "Roboto" } #ikkjue35ncqfh { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 533px; top: 143px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 164; width: auto; height: auto } #ieexes20p9gvi { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 533px; top: 470px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 166; width: auto; height: auto } #it36st0ehw7u7 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 533px; top: 378px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 168; width: auto; height: auto } #ibq6ezzofmihu { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 533px; top: 295px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 170; width: auto; height: auto } #igvpl6m1wq4tv { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 533px; top: 215px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 172; width: auto; height: auto } #iwrozgvnmka6h :not(i):not(svg) { font-family: "Roboto" } #itgbjr5rlqk5w { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 573px; top: 81px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 176; width: auto; height: auto } #iumkjkimbeikn { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 1053px; top: 81px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 178; width: auto; height: auto } #i8p9fzqnbx5zp { display: block; left: 174px; top: 631px; position: absolute; z-index: 152; width: 200px; height: 35px } #i1flplgbpr3w6 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 215px; top: 602px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 150; width: auto; height: auto } #i8p9fzqnbx5zp :not(i):not(svg) { font-family: "Roboto" } #i51djizo9lrk5 { overflow: hidden; font-weight: 400; font-size: 18.72px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1053px; top: 259px; position: absolute; z-index: 130; custom-font-size: 18.72px; font-style: normal; font-family: "Roboto"; width: auto; height: auto } #iwrozgvnmka6h { display: block; left: 630px; top: 128px; position: absolute; z-index: 174; height: auto; width: 200px } #iwmjle19dih9k { display: block; left: 630px; top: 191px; position: absolute; z-index: 162; height: auto; --ch5-textinput--small-width: 140px; width: 140px } #iaaldinubi2yb { display: block; left: 630px; top: 271px; position: absolute; z-index: 160; height: auto; --ch5-textinput--small-width: 180px; width: 180px } #i6kscno5kcl6j { display: block; left: 630px; top: 351px; position: absolute; z-index: 158; height: auto; --ch5-textinput--small-width: 220px; width: 220px } #i6q6iu6p54j3f { display: block; left: 630px; top: 438px; position: absolute; z-index: 156; height: auto; --ch5-textinput--small-width: 260px; width: 260px } #i1s3yem8pb3ij { display: block; left: 231px; top: 432px; position: absolute; z-index: 155; height: auto; --ch5-textinput--small-width: 260px; width: 260px } #ibag5993kriqk { display: block; left: 231px; top: 345px; position: absolute; z-index: 154; height: auto; --ch5-textinput--small-width: 220px; width: 220px } #iederexso6p67 { display: block; left: 231px; top: 265px; position: absolute; z-index: 153; height: auto; --ch5-textinput--small-width: 180px; width: 180px } #ioufqoa5gi297 { display: block; left: 231px; top: 185px; position: absolute; z-index: 151; height: auto; --ch5-textinput--small-width: 140px; width: 140px } #i1jy1h4gdaeup { display: block; left: 231px; top: 122px; position: absolute; z-index: 138; height: auto; width: 200px } #itn07 { display: block; left: 663px; top: 628px; position: absolute; z-index: 153; width: 150px; height: 48px } #itn07 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #itn07 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } }
-@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #ihju91ozoj { display: block; left: 104px; top: 0px; position: absolute; z-index: 120 } #i1v4gxhtxq { display: block; left: 0px; top: 0px; position: absolute; z-index: 122 } #inawte0omo7p1 { left: 618px; top: 24px; position: absolute; z-index: 124 } #i4473pthxmh6j { overflow: hidden; font-weight: 400; font-size: 32px; min-width: 1em; min-height: 1.5em; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; margin: 0; left: 1023px; top: 124px; position: absolute; z-index: 126; custom-font-size: 32px; font-style: normal; width: auto; height: auto } #ib9r8s0lwd2t4 { top: 197px; left: 1041px; font-size: 24px; custom-font-size: 24px; width: auto; height: auto; font-style: normal; z-index: 128 } #ip22srt1jycfl { top: 313px; left: 1059px; font-size: 16px; custom-font-size: 16px; width: auto; height: auto; font-style: normal; z-index: 132 } #isnv89yguogdj { top: 363px; left: 1065px; font-size: 13.28px; custom-font-size: 13.28px; width: auto; height: auto; font-style: normal; z-index: 134 } #itg8mw0t6wgft { top: 409px; left: 1071px; font-size: 10.72px; custom-font-size: 10.72px; position: absolute; width: auto; height: auto; font-style: normal; z-index: 136 } #iegafxxpkf9ro { left: 134px; top: 209px; position: absolute; width: auto; height: auto; z-index: 142 } #i1njx1lel51xy { top: 289px; left: 134px; z-index: 144; width: auto; height: auto } #irrrgnmj1mw43 { top: 372px; left: 134px; z-index: 146; width: auto; height: auto } #ih6z8f3mv3cwj { top: 464px; left: 134px; z-index: 148; position: absolute; width: auto; height: auto } #i2lfd83n38oa1 { left: 134px; top: 137px; position: absolute; width: auto; height: auto } #i57ec2f5e4ohi { left: 212px; top: 81px; position: absolute; width: auto; height: auto; z-index: 140 } #ikkjue35ncqfh { left: 533px; top: 143px; width: auto; height: auto } #ieexes20p9gvi { left: 533px; top: 470px; width: auto; height: auto } #it36st0ehw7u7 { left: 533px; top: 378px; width: auto; height: auto } #ibq6ezzofmihu { left: 533px; top: 295px; width: auto; height: auto } #igvpl6m1wq4tv { left: 533px; top: 215px; width: auto; height: auto } #itgbjr5rlqk5w { left: 573px; top: 81px; position: absolute; width: auto; height: auto } #iumkjkimbeikn { left: 1053px; top: 81px; position: absolute; width: auto; height: auto } #i1flplgbpr3w6 { left: 215px; top: 602px; width: auto; height: auto; z-index: 150; position: absolute } #i8p9fzqnbx5zp { display: block; left: 174px; top: 631px; position: absolute; z-index: 152; width: 200px; height: 35px } #i51djizo9lrk5 { top: 259px; left: 1053px; font-size: 18.72px; custom-font-size: 18.72px; width: auto; height: auto; font-style: normal; z-index: 130 } #iwrozgvnmka6h { height: auto; width: 200px } #iwmjle19dih9k { height: auto } #iaaldinubi2yb { height: auto } #i6kscno5kcl6j { height: auto } #i6q6iu6p54j3f { height: auto } #i1s3yem8pb3ij { height: auto } #ibag5993kriqk { height: auto } #iederexso6p67 { height: auto } #ioufqoa5gi297 { height: auto } #i1jy1h4gdaeup { height: auto; width: 200px } #itn07 { display: block; left: 663px; top: 628px; position: absolute; z-index: 153; width: 150px; height: 48px } }
+@media (max-width: 99999px){#ihju91ozoj{display:block;left:104px;top:0px;position:absolute;z-index:120;}#i1v4gxhtxq{display:block;left:0px;top:0px;position:absolute;z-index:121;}#i4473pthxmh6j{overflow:hidden;font-weight:400;font-size:32px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1023px;top:124px;position:absolute;z-index:126;custom-font-size:32px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#ib9r8s0lwd2t4{overflow:hidden;font-weight:400;font-size:24px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1041px;top:197px;position:absolute;z-index:128;custom-font-size:24px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#ip22srt1jycfl{overflow:hidden;font-weight:400;font-size:16px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1059px;top:313px;position:absolute;z-index:132;custom-font-size:16px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#isnv89yguogdj{overflow:hidden;font-weight:400;font-size:13.28px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1065px;top:363px;position:absolute;z-index:134;custom-font-size:13.28px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#itg8mw0t6wgft{overflow:hidden;font-weight:400;font-size:10.72px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1071px;top:409px;position:absolute;z-index:136;custom-font-size:10.72px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#iederexso6p67 :not(i):not(svg){font-family:"Roboto";}#ioufqoa5gi297 :not(i):not(svg){font-family:"Roboto";}#i1jy1h4gdaeup :not(i):not(svg){font-family:"Roboto";}#i1s3yem8pb3ij :not(i):not(svg){font-family:"Roboto";}#ibag5993kriqk :not(i):not(svg){font-family:"Roboto";}#i6q6iu6p54j3f :not(i):not(svg){font-family:"Roboto";}#i6kscno5kcl6j :not(i):not(svg){font-family:"Roboto";}#iaaldinubi2yb :not(i):not(svg){font-family:"Roboto";}#iwmjle19dih9k :not(i):not(svg){font-family:"Roboto";}#iwrozgvnmka6h :not(i):not(svg){font-family:"Roboto";}#i8p9fzqnbx5zp{display:block;left:174px;top:631px;position:absolute;z-index:152;width:200px;height:35px;}#i8p9fzqnbx5zp :not(i):not(svg){font-family:"Roboto";}#i51djizo9lrk5{overflow:hidden;font-weight:400;font-size:18.72px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1053px;top:259px;position:absolute;z-index:130;custom-font-size:18.72px;font-style:normal;font-family:'Roboto';width:auto;height:auto;}#itn07{display:block;left:663px;top:628px;position:absolute;z-index:153;width:150px;height:48px;}#itn07 .ch5-text :not(i):not(svg){font-family:"Roboto";}#itn07 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iin8hbar131yu{display:block;left:134px;top:127px;position:absolute;z-index:155;width:87px;height:48px;--ch5-text--width:87px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i37w1ew4fe0qs{display:block;left:134px;top:454px;position:absolute;z-index:157;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#iegil6qegdmqf{display:block;left:134px;top:362px;position:absolute;z-index:159;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#ibmph43dl5x1s{display:block;left:134px;top:279px;position:absolute;z-index:161;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#ib8cih2pvp4fb{display:block;left:134px;top:199px;position:absolute;z-index:163;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#iykiztj2ekgf7{display:block;left:94px;top:12px;position:absolute;z-index:165;width:1092px;height:48px;--ch5-text--width:1092px;--ch5-text--font-size:34px;Label_font-size:34px;custom-normal-font-size:34px;}#iin8hbar131yu .ch5-text :not(i):not(svg){font-family:'Roboto';}#iin8hbar131yu .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i37w1ew4fe0qs .ch5-text :not(i):not(svg){font-family:'Roboto';}#i37w1ew4fe0qs .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iegil6qegdmqf .ch5-text :not(i):not(svg){font-family:'Roboto';}#iegil6qegdmqf .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ibmph43dl5x1s .ch5-text :not(i):not(svg){font-family:'Roboto';}#ibmph43dl5x1s .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ib8cih2pvp4fb .ch5-text :not(i):not(svg){font-family:'Roboto';}#ib8cih2pvp4fb .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iykiztj2ekgf7 .ch5-text :not(i):not(svg){font-family:"Roboto";}#iykiztj2ekgf7 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i52s3rxk6gq3o{display:block;left:261px;top:71px;position:absolute;z-index:166;width:121px;height:48px;--ch5-text--width:121px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i52s3rxk6gq3o .ch5-text :not(i):not(svg){font-family:'Roboto';}#i52s3rxk6gq3o .ch5-text{min-height:10px;min-width:10px;padding:0px;}#itklgyznahvkk{display:block;left:645px;top:71px;position:absolute;z-index:168;width:230px;height:48px;--ch5-text--width:230px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#itklgyznahvkk .ch5-text :not(i):not(svg){font-family:'Roboto';}#itklgyznahvkk .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i1xwli2as2bhe{display:block;left:963px;top:585px;position:absolute;z-index:170;width:230px;height:48px;--ch5-text--width:230px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i1xwli2as2bhe .ch5-text :not(i):not(svg){font-family:'Roboto';}#i1xwli2as2bhe .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ijzvj9zgjbjkl{display:block;left:159px;top:585px;position:absolute;z-index:172;width:230px;height:48px;--ch5-text--width:230px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#ijzvj9zgjbjkl .ch5-text :not(i):not(svg){font-family:'Roboto';}#ijzvj9zgjbjkl .ch5-text{min-height:10px;min-width:10px;padding:0px;}#wrapper{background-color:#4d4d4d;}#iwrozgvnmka6h{display:block;left:630px;top:128px;position:absolute;z-index:174;height:auto;width:200px;}#iwmjle19dih9k{display:block;left:630px;top:191px;position:absolute;z-index:162;height:auto;--ch5-textinput--small-width:140px;width:140px;}#iaaldinubi2yb{display:block;left:630px;top:271px;position:absolute;z-index:160;height:auto;--ch5-textinput--small-width:180px;width:180px;}#i6kscno5kcl6j{display:block;left:630px;top:351px;position:absolute;z-index:158;height:auto;--ch5-textinput--small-width:220px;width:220px;}#i6q6iu6p54j3f{display:block;left:630px;top:438px;position:absolute;z-index:156;height:auto;--ch5-textinput--small-width:260px;width:260px;}#i1s3yem8pb3ij{display:block;left:231px;top:432px;position:absolute;z-index:155;height:auto;--ch5-textinput--small-width:260px;width:260px;}#ibag5993kriqk{display:block;left:231px;top:345px;position:absolute;z-index:154;height:auto;--ch5-textinput--small-width:220px;width:220px;}#iederexso6p67{display:block;left:231px;top:265px;position:absolute;z-index:153;height:auto;--ch5-textinput--small-width:180px;width:180px;}#ioufqoa5gi297{display:block;left:231px;top:185px;position:absolute;z-index:151;height:auto;--ch5-textinput--small-width:140px;width:140px;}#i1jy1h4gdaeup{display:block;left:231px;top:122px;position:absolute;z-index:138;height:auto;width:200px;}#i3lth6jz8e74g{display:block;left:988px;top:85px;position:absolute;z-index:166;width:230px;height:48px;--ch5-text--width:230px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i3lth6jz8e74g .ch5-text :not(i):not(svg){font-family:'Roboto';}#i3lth6jz8e74g .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i4bkh{overflow:hidden;font-size:16px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:'Roboto';left:1042px;top:634px;position:absolute;z-index:168;custom-font-size:16px;font-weight:400;font-style:normal;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ihju91ozoj{display:block;left:104px;top:0px;position:absolute;z-index:120;}#i1v4gxhtxq{display:block;left:0px;top:0px;position:absolute;z-index:122;}#i4473pthxmh6j{overflow:hidden;font-weight:400;font-size:32px;min-width:1em;min-height:1.5em;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;margin:0;left:1023px;top:124px;position:absolute;z-index:126;custom-font-size:32px;font-style:normal;width:auto;height:auto;}#ib9r8s0lwd2t4{top:197px;left:1041px;font-size:24px;custom-font-size:24px;width:auto;height:auto;font-style:normal;z-index:128;}#ip22srt1jycfl{top:313px;left:1059px;font-size:16px;custom-font-size:16px;width:auto;height:auto;font-style:normal;z-index:132;}#isnv89yguogdj{top:363px;left:1065px;font-size:13.28px;custom-font-size:13.28px;width:auto;height:auto;font-style:normal;z-index:134;}#itg8mw0t6wgft{top:409px;left:1071px;font-size:10.72px;custom-font-size:10.72px;position:absolute;width:auto;height:auto;font-style:normal;z-index:136;}#i8p9fzqnbx5zp{display:block;left:174px;top:631px;position:absolute;z-index:152;width:200px;height:35px;}#i51djizo9lrk5{top:259px;left:1053px;font-size:18.72px;custom-font-size:18.72px;width:auto;height:auto;font-style:normal;z-index:130;}#itn07{display:block;left:663px;top:628px;position:absolute;z-index:153;width:150px;height:48px;}#iin8hbar131yu{display:block;left:134px;top:127px;position:absolute;z-index:155;width:87px;height:48px;--ch5-text--width:87px;Label_font-size:23px;--ch5-text--font-size:23px;}#i37w1ew4fe0qs{left:134px;top:454px;z-index:157;width:87px;height:48px;--ch5-text--width:87px;}#iegil6qegdmqf{left:134px;top:362px;z-index:159;width:87px;height:48px;--ch5-text--width:87px;}#ibmph43dl5x1s{left:134px;top:279px;z-index:161;width:87px;height:48px;--ch5-text--width:87px;}#ib8cih2pvp4fb{left:134px;top:199px;z-index:163;width:87px;height:48px;--ch5-text--width:87px;}#iykiztj2ekgf7{display:block;left:94px;top:12px;position:absolute;z-index:165;width:1092px;height:48px;--ch5-text--width:1092px;Label_font-size:34px;--ch5-text--font-size:34px;}#i52s3rxk6gq3o{left:261px;top:71px;position:absolute;width:121px;height:48px;--ch5-text--width:121px;}#itklgyznahvkk{left:645px;top:71px;position:absolute;width:230px;height:48px;--ch5-text--width:230px;}#i1xwli2as2bhe{left:963px;top:585px;position:absolute;width:230px;height:48px;}#ijzvj9zgjbjkl{left:159px;top:585px;position:absolute;width:230px;height:48px;}#iwrozgvnmka6h{height:auto;width:200px;}#iwmjle19dih9k{height:auto;}#iaaldinubi2yb{height:auto;}#i6kscno5kcl6j{height:auto;}#i6q6iu6p54j3f{height:auto;}#i1s3yem8pb3ij{height:auto;}#ibag5993kriqk{height:auto;}#iederexso6p67{height:auto;}#ioufqoa5gi297{height:auto;}#i1jy1h4gdaeup{height:auto;width:200px;}#i4bkh{overflow:hidden;font-size:16px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:'Roboto';left:1042px;top:634px;position:absolute;z-index:168;custom-font-size:16px;font-weight:400;font-style:normal;}}
 
 {PageAttributes}
 
@@ -31,6 +32,260 @@ CachePage = "False"
 VisibilityJoin = "VisibilityJoin"
 DisplayBackgroundColor = "False"
 
+[[Elements]]
+Type = "html-text"
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "Sample text"
+
+[Elements.Attributes]
+data-mytext = "myText"
+componentName = "Html-text"
+ccid_ComponentType = "Html-text"
+id = "i4bkh"
+ccid_ActiveFont = "'Roboto'"
+devicesVisited = "[\"TSW-1070\"]"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i3lth6jz8e74g"
+componentName = "Formatted-Text_7"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Heading"
+labelinnerhtml = "Heading"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i1xwli2as2bhe"
+componentWasResized = "true"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ijzvj9zgjbjkl"
+componentName = "Formatted-Text_5"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Date Time"
+labelinnerhtml = "Date Time"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "itklgyznahvkk"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i1xwli2as2bhe"
+componentName = "Formatted-Text_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "HTML Text"
+labelinnerhtml = "HTML Text"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "itklgyznahvkk"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "itklgyznahvkk"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Text Input with Icon"
+labelinnerhtml = "Text Input with Icon"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i52s3rxk6gq3o"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i52s3rxk6gq3o"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Text Input"
+labelinnerhtml = "Text Input"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iin8hbar131yu"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iykiztj2ekgf7"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Text"
+labelinnerhtml = "Text"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i9b9jg0lpvwrr"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ib8cih2pvp4fb"
+componentName = "Formatted-Text_10"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Small"
+labelinnerhtml = "Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i1ithed62kqfz"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ibmph43dl5x1s"
+componentName = "Formatted-Text_11"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Regular"
+labelinnerhtml = "Regular"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i1ohiua0k6hzp"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iegil6qegdmqf"
+componentName = "Formatted-Text_12"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Large"
+labelinnerhtml = "Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "izsc1ul19v0yx"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i37w1ew4fe0qs"
+componentName = "Formatted-Text_13"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Large"
+labelinnerhtml = "X-Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iastb0rdif7p2"
+[[Elements]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iin8hbar131yu"
+componentName = "Formatted-Text_6"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Small"
+labelinnerhtml = "X-Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i436c"
 [[Elements]]
 Type = "Ch5 Text"
 Editable = true
@@ -82,74 +337,6 @@ devicesVisited = "[\"TSW-1070\"]"
 ccid_themeCSSSet = "true"
 oldID = "ibenc"
 [[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "DateTIme"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_19"
-ccid_ComponentType = "Html-text"
-id = "i1flplgbpr3w6"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "im31sxxwvjjgn"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Heading"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_13"
-ccid_ComponentType = "Html-text"
-id = "iumkjkimbeikn"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "itgbjr5rlqk5w"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Text Input with Icon"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-[[Elements.Components]]
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-Selectable = false
-Hoverable = false
-_InnerText = true
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_8"
-ccid_ComponentType = "Html-text"
-id = "itgbjr5rlqk5w"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i57ec2f5e4ohi"
-[[Elements]]
 Type = "Ch5 Textinput"
 Editable = true
 
@@ -179,106 +366,6 @@ ccid_lastSizeSelected = "x-small"
 placeholder = "This is a test"
 label = "Label"
 iconclass = "fas fa-address-card"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_6"
-ccid_ComponentType = "Html-text"
-id = "igvpl6m1wq4tv"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iegafxxpkf9ro"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_5"
-ccid_ComponentType = "Html-text"
-id = "ibq6ezzofmihu"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i1njx1lel51xy"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_3"
-ccid_ComponentType = "Html-text"
-id = "it36st0ehw7u7"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "irrrgnmj1mw43"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_2"
-ccid_ComponentType = "Html-text"
-id = "ieexes20p9gvi"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ih6z8f3mv3cwj"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "X-Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_1"
-ccid_ComponentType = "Html-text"
-id = "ikkjue35ncqfh"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i2lfd83n38oa1"
 [[Elements]]
 Type = "Ch5 Textinput"
 Editable = true
@@ -525,126 +612,6 @@ componentWasResized = "true"
 ccid_customSizeSet = "true"
 label = "Label"
 [[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "X-Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text"
-ccid_ComponentType = "Html-text"
-id = "i2lfd83n38oa1"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iegafxxpkf9ro"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_12"
-ccid_ComponentType = "Html-text"
-id = "ih6z8f3mv3cwj"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "imd02zgzcerwp"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_11"
-ccid_ComponentType = "Html-text"
-id = "irrrgnmj1mw43"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iyy8pwgd6wqaj"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_10"
-ccid_ComponentType = "Html-text"
-id = "i1njx1lel51xy"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "izmoqywpobwq3"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_9"
-ccid_ComponentType = "Html-text"
-id = "iegafxxpkf9ro"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iii8wkvhqbd8i"
-[[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Text Input"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_4"
-ccid_ComponentType = "Html-text"
-id = "i57ec2f5e4ohi"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "igswxmzl5l1v2us3"
-[[Elements]]
 Type = "Ch5 Textinput"
 Editable = true
 
@@ -810,26 +777,6 @@ id = "i4473pthxmh6j"
 devicesVisited = "[\"TSW-1070\"]"
 oldID = "ij8oz"
 [[Elements]]
-Type = "html-text"
-
-[[Elements.Components]]
-Type = "textnode"
-Content = "Text"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "inawte0omo7p1"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ihtahojs2j"
-[[Elements]]
 Type = "Ch5 Template"
 
 [Elements.Attributes]
@@ -856,4 +803,5 @@ ccid_WidgetName = "Theme Menu"
 devicesVisited = "[\"TSW-1070\"]"
 pd-receivestateshow = "5"
 oldID = "i8wklt1b9kdah"
+componentWasResized = "false"
 

@@ -1,20 +1,21 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-08 10:56:49.216324-05:00
+Created = 2026-02-13 05:07:34.638-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-08 10:56:49.21632-05:00
+Modified = 2026-02-13 05:07:34.637993-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="ic7i2pwf60" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><div data-mytext="myText" componentName="Html-text_7" ccid_ComponentType="Html-text" id="i3r8fph4kl" ccid_ActiveFont="'Roboto'" devicesVisited="[&quot;TSW-1070&quot;]" oldID="ifhi">Video Small</div><ch5-video aspectratio="16:9" sourcetype="Network" snapshotrefreshrate="5" size="small" id="i5wh0hgq9h" componentName="Video" ccid_linkSendReceive="True" ccid_ComponentType="Video" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="iotxk">
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="ic7i2pwf60" devicesVisited="[&quot;TSW-1070&quot;]" defaultWidth="975px" defaultHeight="800px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i4wmw4fjts" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Video Small" labelinnerhtml="Video Small" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ispaodfbqv">
+              </ch5-text><ch5-video aspectratio="16:9" sourcetype="Network" snapshotrefreshrate="5" size="small" id="i5wh0hgq9h" componentName="Video" ccid_linkSendReceive="True" ccid_ComponentType="Video" devicesVisited="[&quot;TSW-1070&quot;]" ccid_lastSizeSelected="small" oldID="iotxk">
               </ch5-video></div>
 
 {Css}
-@media (max-width: 99999px){#ic7i2pwf60{width:975px;height:800px;left:0px;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}#i5wh0hgq9h{display:block;left:267px;top:276px;position:absolute;z-index:168;width:440px;}#i3r8fph4kl{overflow:hidden;font-size:23px;min-width:1em;min-height:24px;text-underline-offset:0.3em;display:block;color:black;border-color:black;background-color:#ffffff;font-family:"Roboto";left:426px;top:32px;position:absolute;custom-font-size:23px;font-weight:400;font-style:normal;z-index:170;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ic7i2pwf60{width:975px;height:800px;left:0px;top:0;position:absolute;}#i5wh0hgq9h{display:block;left:267px;top:276px;position:absolute;z-index:168;width:440px;}#i3r8fph4kl{left:426px;top:32px;position:absolute;z-index:170;}}
+@media (max-width: 99999px){#ic7i2pwf60{width:975px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#i5wh0hgq9h{display:block;left:267px;top:276px;position:absolute;z-index:168;width:undefined;height:auto;}#wrapper{background-color:#ffffff;}#i4wmw4fjts{display:block;left:283px;top:12px;position:absolute;z-index:171;width:408px;height:48px;--ch5-text--width:408px;--ch5-text--font-size:34px;Label_font-size:34px;custom-normal-font-size:34px;}#i4wmw4fjts .ch5-text :not(i):not(svg){font-family:"Roboto";}#i4wmw4fjts .ch5-text{min-height:10px;min-width:10px;padding:0px;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ic7i2pwf60{width:975px;height:800px;left:0;top:0;position:absolute;}#i5wh0hgq9h{display:block;left:267px;top:276px;position:absolute;z-index:168;width:undefined;height:auto;}#i4wmw4fjts{display:block;left:283px;top:12px;position:absolute;z-index:172;width:408px;height:48px;--ch5-text--width:408px;Label_font-size:34px;--ch5-text--font-size:34px;}}
 
 {PageAttributes}
 
@@ -29,25 +30,30 @@ Type = "widgetContainer"
 Classes = ["widget-container"]
 
 [[Elements.Components]]
-Type = "html-text"
+Type = "Ch5 Text"
+Editable = true
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "Video Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Content = "\n              "
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "i3r8fph4kl"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i4wmw4fjts"
+componentName = "Formatted-Text"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Video Small"
+labelinnerhtml = "Video Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ifhi"
+ccid_themeCSSSet = "true"
+oldID = "ispaodfbqv"
 [[Elements.Components]]
 Type = "Ch5 Video"
 Editable = true
