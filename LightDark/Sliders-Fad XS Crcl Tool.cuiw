@@ -1,20 +1,21 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.801.22.0"
-Created = 2026-02-02 14:40:46.927532-05:00
+Created = 2026-02-13 04:17:59.858943-05:00
 LastModifiedByAppHost = "2.801.22.0"
-Modified = 2026-02-02 14:40:46.927529-05:00
+Modified = 2026-02-13 04:17:59.858937-05:00
 CreatedByProjectApp = "1.4401.12.0"
 LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="iwe0r8ahgk" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><div data-mytext="myText" componentname="Html-text_4" ccid_componenttype="Html-text" id="i2av" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iw24">X-Large</div><div data-mytext="myText" componentname="Html-text_3" ccid_componenttype="Html-text" id="ig1o" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ikx3">Large</div><div data-mytext="myText" componentname="Html-text_2" ccid_componenttype="Html-text" id="i8ik" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ia59">Regular</div><div data-mytext="myText" componentname="Html-text_1" ccid_componenttype="Html-text" id="i3vs" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iads">Small</div><div data-mytext="myText" componentname="Html-text" ccid_componenttype="Html-text" id="ixfk" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="igtv">X-Small</div><ch5-slider nohandle="false" size="x-large" orientation="vertical" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="im5p" componentname="Slider_4" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="fader" range="false" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="vertical" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="izdi" componentname="Slider_3" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="vertical" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="io5s" componentname="Slider_2" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="vertical" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="ictd" componentname="Slider_1" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="vertical" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="ilhd" componentname="Slider" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="fader" range="false" oldid="iozr" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="if66" componentname="Slider_14" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype="fader" range="false" oldid="irw727y9cbja6" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="impn" componentname="Slider_13" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" oldid="i4g3rpqzcjx2i" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="idgs" componentname="Slider_12" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" oldid="ietua11km77va" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="ibp3" componentname="Slider_11" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" oldid="i085px5put29i" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize="x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype="fader" customvstheme="theme" id="inws" componentname="Slider_10" ccid_linkSendReceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype="fader" range="false" oldid="ikxt3" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1" showtickvalues="false" pd-receivestatevalue="5" sendeventonchange="5"></ch5-slider><div data-mytext="myText" componentname="Html-text_15" ccid_componenttype="Html-text" id="ir53" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="ipms">X-Large</div><div data-mytext="myText" componentname="Html-text_14" ccid_componenttype="Html-text" id="ieja" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i6mh">Large</div><div data-mytext="myText" componentname="Html-text_13" ccid_componenttype="Html-text" id="i5vm" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="iwdb">Regular</div><div data-mytext="myText" componentname="Html-text_12" ccid_componenttype="Html-text" id="ipmq" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i573">Small</div><div data-mytext="myText" componentname="Html-text_11" ccid_componenttype="Html-text" id="ijxu" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i1pk">X-Small</div><div data-mytext="myText" componentname="Html-text_7" ccid_componenttype="Html-text" id="i6re" ccid_activefont="'Roboto'" devicesvisited="[&quot;TSW-1070&quot;]" oldid="inp7khpag2i61">Sliders Fader Circle X-Small Handle With ToolTip&nbsp;</div></div>
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="if7vydrg3r" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="975px" defaultheight="800px" class="widget-container"><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i436c" componentname="Formatted-Text_6" ccid_activefont="'Roboto'" ccid_label="X-Small" labelinnerhtml="X-Small" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iflody9w2weqf" componentname="Formatted-Text_5" ccid_activefont="'Roboto'" ccid_label="X-Large" labelinnerhtml="X-Large" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="iprea77gx0xdm"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iap5ojuxzxdnf" componentname="Formatted-Text_4" ccid_activefont="'Roboto'" ccid_label="Large" labelinnerhtml="Large" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="ibjym9c1t6vyf"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i1z8qvg1xbnis" componentname="Formatted-Text_3" ccid_activefont="'Roboto'" ccid_label="Regular" labelinnerhtml="Regular" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="inc1u91q2tnov"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i02y7dk56i838" componentname="Formatted-Text_2" ccid_activefont="'Roboto'" ccid_label="Small" labelinnerhtml="Small" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="i4voqcw2gzceq"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i06zi76lvjrs7" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="X-Small" labelinnerhtml="X-Small" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="ia52k2lch97xi"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iastb0rdif7p2" componentname="Formatted-Text_13" ccid_activefont="'Roboto'" ccid_label="X-Large" labelinnerhtml="X-Large" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="itdwjisc6az7k"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="izsc1ul19v0yx" componentname="Formatted-Text_12" ccid_activefont="'Roboto'" ccid_label="Large" labelinnerhtml="Large" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="ils7qnlhi1y9j"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i1ohiua0k6hzp" componentname="Formatted-Text_11" ccid_activefont="'Roboto'" ccid_label="Regular" labelinnerhtml="Regular" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="ijdaingxh9o0m"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i1ithed62kqfz" componentname="Formatted-Text_10" ccid_activefont="'Roboto'" ccid_label="Small" labelinnerhtml="Small" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="imyt6twsfxcmu"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i9b9jg0lpvwrr" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Sliders Fader Circle X-Small Handle with ToolTip" labelinnerhtml="Sliders Fader Circle X-Small Handle with ToolTip" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="i9kbrjewbc46m">
+              </ch5-text><ch5-slider nohandle="false" size="x-large" orientation="vertical" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="iyxo" componentname="Slider_4" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="vertical" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="ic2g" componentname="Slider_3" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="vertical" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="ixjg" componentname="Slider_2" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="vertical" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="imzf" componentname="Slider_1" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ijhhg5azuk552" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="vertical" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="io09" componentname="Slider" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="iozr" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-large" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="i991" componentname="Slider_14" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-large" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="irw727y9cbja6" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="large" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="iflb" componentname="Slider_13" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="large" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="i4g3rpqzcjx2i" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="regular" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="i74y" componentname="Slider_12" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="regular" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ietua11km77va" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="small" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="iowm" componentname="Slider_11" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="small" previousslidertype="fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="i085px5put29i" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider><ch5-slider nohandle="false" size="x-small" orientation="horizontal" tapsettable="false" handleshape="circle" handlesize = "x-small" tooltipshowtype="on" tooltipdisplaytype="%" value="50" slidertype = "fader" customvstheme="theme" id="ia8b" componentname="Slider_10" ccid_linksendreceive="False" ccid_componenttype="Slider" devicesvisited="[&quot;TSW-1070&quot;]" ccid_lastsizeselected="x-small" previousslidertype = "fader" range="false" showtickvalues="true" pd-receivestatevalue="5" sendeventonchange="5" oldid="ikxt3" ccid_activefont="'Roboto'" onoffonly="false" min="0" max="100" step="1"></ch5-slider></div>
 
 {Css}
-@media (max-width: 99999px) { #i2av { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 1004px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 515 } #ig1o { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 872px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 514 } #i8ik { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 719px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 513 } #i3vs { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 586px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 512 } #ixfk { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 433px; top: 55px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 511 } #io5s .ch5-slider :not(i):not(svg) { font-family: Roboto } #io5s { width: 95px; height: 300px; display: block; left: 710px; top: 94px; position: absolute; z-index: 508 } #ictd .ch5-slider :not(i):not(svg) { font-family: Roboto } #ictd { width: 95px; height: 250px; display: block; left: 567px; top: 94px; position: absolute; z-index: 507 } #if66-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #if66 { width: 526px; height: 89px; display: block; left: 90px; top: 663px; position: absolute; z-index: 505 } #if66-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #if66 .ch5-slider :not(i):not(svg) { font-family: Roboto } #impn { width: 426px; height: 89px; display: block; left: 90px; top: 518px; position: absolute; z-index: 504 } #impn .ch5-slider .ch5-title-container { width: 400px } #impn-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #impn .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #idgs { width: 300px; height: 101px; display: block; left: 90px; top: 373px; position: absolute; z-index: 503 } #idgs .ch5-slider .ch5-title-container { width: 300px } #idgs-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #idgs .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibp3 { width: 250px; height: 101px; display: block; left: 90px; top: 228px; position: absolute; z-index: 502 } #ibp3 .ch5-slider .ch5-title-container { width: 250px } #ibp3-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ibp3 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #inws { width: 200px; height: 101px; display: block; left: 90px; top: 83px; position: absolute; z-index: 501 } #inws .ch5-slider .ch5-title-container { width: 200px } #inws-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #inws .ch5-slider :not(i):not(svg) { font-family: Roboto } #ir53 { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 697px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 500 } #ieja { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 552px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 499 } #i5vm { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 407px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 498 } #ipmq { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 262px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 497 } #ijxu { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 7px; top: 117px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; width: auto; height: auto; z-index: 496 } #i6re { overflow: hidden; font-size: 23px; min-width: 1em; min-height: 24px; text-underline-offset: 0.3em; display: block; color: black; border-color: black; background-color: #ffffff; font-family: "Roboto"; left: 279px; top: 12px; position: absolute; custom-font-size: 23px; font-weight: 400; font-style: normal; z-index: 495 } #iwe0r8ahgk { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #izxkxzewhs6ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ip8xwmq7hcgcv .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i8n68ah8jccni .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ioqyrr4toadmj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i9xgjbvv4vluj .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i24upna624j9t .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ihdq4ivuqb2nl .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #io9hkdn0w3gwd .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ir8zq986n65xh .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3dst03rp2jho .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ibd55hx4577jw .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i77tqhfg2s5ak .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i3of2jw8l0j4v .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ifsxjosinj53e .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg) { font-family: "Roboto" } #ictd-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #ictd-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ilhd .ch5-slider :not(i):not(svg) { font-family: Roboto } #ilhd { width: 95px; height: 200px; display: block; left: 424px; top: 94px; position: absolute; z-index: 506 } #ilhd-2 .noUi-touch-area { slidertouchareapadding_padding: 0px } #ilhd-2 .ch5-slider :not(i):not(svg) { font-family: Roboto } #ilhd .ch5-slider .ch5-title-container { width: 95px } #if66 .ch5-slider .ch5-title-container { width: 500px } #ictd .ch5-slider .ch5-title-container { width: 95px } #io5s .ch5-slider .ch5-title-container { width: 95px } #im5p .ch5-slider :not(i):not(svg) { font-family: Roboto } #im5p { width: 86px; height: 545px; display: block; left: 996px; top: 94px; position: absolute; z-index: 510 } #im5p .ch5-slider .ch5-title-container { width: 95px } #izdi .ch5-slider :not(i):not(svg) { font-family: Roboto } #izdi { width: 86px; height: 445px; display: block; left: 853px; top: 94px; position: absolute; z-index: 509 } #izdi .ch5-slider .ch5-title-container { width: 95px } #wrapper { background-color: #ffffff } .widget-container { z-index: 0 } }
-@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #i2av { left: 1004px; top: 55px; z-index: 515 } #ig1o { left: 872px; top: 55px; z-index: 514 } #i8ik { left: 719px; top: 55px; z-index: 513 } #i3vs { left: 586px; top: 55px; z-index: 512 } #ixfk { top: 55px; left: 433px; z-index: 511 } #io5s { width: 95px; height: 300px; display: block; left: 710px; top: 94px; position: absolute; z-index: 508 } #ictd { width: 95px; height: 250px; display: block; left: 567px; top: 94px; position: absolute; z-index: 507 } #if66 { width: 526px; height: 89px; display: block; left: 90px; top: 663px; position: absolute; z-index: 505 } #impn { width: 426px; height: 89px; display: block; left: 90px; top: 518px; position: absolute; z-index: 504 } #idgs { width: 300px; height: 101px; display: block; left: 90px; top: 373px; position: absolute; z-index: 503 } #ibp3 { width: 250px; height: 101px; display: block; left: 90px; top: 228px; position: absolute; z-index: 502 } #inws { width: 200px; height: 101px; display: block; left: 90px; top: 83px; position: absolute; z-index: 501 } #ir53 { left: 7px; top: 697px; width: auto; height: auto; z-index: 500 } #ieja { left: 7px; top: 552px; width: auto; height: auto; z-index: 499 } #i5vm { left: 7px; top: 407px; width: auto; height: auto; z-index: 498 } #ipmq { left: 7px; top: 262px; width: auto; height: auto; z-index: 497 } #ijxu { left: 7px; top: 117px; width: auto; height: auto; z-index: 496 } #i6re { left: 279px; top: 12px; position: absolute; z-index: 495 } #iwe0r8ahgk { width: 1100px; height: 800px; left: 0; top: 0; position: absolute } #i7k1 { display: block } #icff { display: block } #i7k8 { display: block } #ilhd { width: 95px; height: 200px; left: 424px; top: 94px; position: absolute; display: block; z-index: 506 } #im5p { width: 86px; height: 545px; display: block; left: 996px; top: 94px; position: absolute; z-index: 510 } #izdi { width: 86px; height: 445px; display: block; left: 853px; top: 94px; position: absolute; z-index: 509 } }
+@media (max-width: 99999px){#i991 .ch5-slider :not(i):not(svg){font-family:Roboto;}#i991-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#i991 .ch5-slider .ch5-title-container{width:542px;}#i991{width:542px;height:136px;display:block;left:90px;top:639px;position:absolute;z-index:664;}#i991-2 .ch5-slider :not(i):not(svg){font-family:Roboto;}#iflb .ch5-slider :not(i):not(svg){font-family:"Roboto";}#iflb-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#iflb .ch5-slider .ch5-title-container{width:442px;}#iflb{width:442px;height:136px;display:block;left:90px;top:494px;position:absolute;z-index:663;}#i74y .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i74y-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#i74y .ch5-slider .ch5-title-container{width:342px;}#i74y{width:342px;height:136px;display:block;left:90px;top:349px;position:absolute;z-index:662;}#iowm .ch5-slider :not(i):not(svg){font-family:"Roboto";}#iowm-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#iowm .ch5-slider .ch5-title-container{width:292px;}#iowm{width:292px;height:136px;display:block;left:90px;top:204px;position:absolute;z-index:661;}#ia8b .ch5-slider :not(i):not(svg){font-family:Roboto;}#ia8b-2 .noUi-touch-area{slidertouchareapadding_padding:0px;}#ia8b .ch5-slider .ch5-title-container{width:242px;}#ia8b{width:242px;height:136px;display:block;left:90px;top:61px;position:absolute;z-index:660;}#if7vydrg3r{width:1100px;height:800px;left:0;top:0;position:absolute;}#izxkxzewhs6ak .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ip8xwmq7hcgcv .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i8n68ah8jccni .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ioqyrr4toadmj .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i9xgjbvv4vluj .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i24upna624j9t .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ihdq4ivuqb2nl .ch5-slider :not(i):not(svg){font-family:"Roboto";}#io9hkdn0w3gwd .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ir8zq986n65xh .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i3dst03rp2jho .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ibd55hx4577jw .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i77tqhfg2s5ak .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i3of2jw8l0j4v .ch5-slider :not(i):not(svg){font-family:"Roboto";}#ifsxjosinj53e .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i1h2fvpzgkfl5 .ch5-slider :not(i):not(svg){font-family:"Roboto";}#i9b9jg0lpvwrr{display:block;left:4px;top:12px;position:absolute;z-index:671;width:1092px;height:48px;--ch5-text--width:1092px;--ch5-text--font-size:34px;Label_font-size:34px;custom-normal-font-size:34px;}#i1ithed62kqfz{display:block;left:0;top:246px;position:absolute;z-index:675;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#i1ohiua0k6hzp{display:block;left:0;top:391px;position:absolute;z-index:677;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#izsc1ul19v0yx{display:block;left:0;top:536px;position:absolute;z-index:679;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#iastb0rdif7p2{display:block;left:0;top:681px;position:absolute;z-index:681;width:87px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:87px;}#i06zi76lvjrs7{display:block;left:375px;top:44px;position:absolute;z-index:683;width:130px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:130px;}#i02y7dk56i838{display:block;left:529px;top:44px;position:absolute;z-index:685;width:130px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:130px;}#i1z8qvg1xbnis{display:block;left:670px;top:44px;position:absolute;z-index:687;width:130px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:130px;}#iap5ojuxzxdnf{display:block;left:811px;top:44px;position:absolute;z-index:689;width:130px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:130px;}#iflody9w2weqf{display:block;left:952px;top:44px;position:absolute;z-index:691;width:130px;height:48px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;--ch5-text--width:130px;}#i9b9jg0lpvwrr .ch5-text :not(i):not(svg){font-family:"Roboto";}#i9b9jg0lpvwrr .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i1ithed62kqfz .ch5-text :not(i):not(svg){font-family:'Roboto';}#i1ithed62kqfz .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i1ohiua0k6hzp .ch5-text :not(i):not(svg){font-family:'Roboto';}#i1ohiua0k6hzp .ch5-text{min-height:10px;min-width:10px;padding:0px;}#izsc1ul19v0yx .ch5-text :not(i):not(svg){font-family:'Roboto';}#izsc1ul19v0yx .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iastb0rdif7p2 .ch5-text :not(i):not(svg){font-family:'Roboto';}#iastb0rdif7p2 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i06zi76lvjrs7 .ch5-text :not(i):not(svg){font-family:'Roboto';}#i06zi76lvjrs7 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i02y7dk56i838 .ch5-text :not(i):not(svg){font-family:'Roboto';}#i02y7dk56i838 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i1z8qvg1xbnis .ch5-text :not(i):not(svg){font-family:'Roboto';}#i1z8qvg1xbnis .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iap5ojuxzxdnf .ch5-text :not(i):not(svg){font-family:'Roboto';}#iap5ojuxzxdnf .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iflody9w2weqf .ch5-text :not(i):not(svg){font-family:'Roboto';}#iflody9w2weqf .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iyxo{width:137px;height:561px;display:block;left:949px;top:94px;position:absolute;z-index:669;}#iyxo .ch5-slider :not(i):not(svg){font-family:Roboto;}#iyxo .ch5-slider .ch5-title-container{width:197px;}#ic2g{width:137px;height:461px;display:block;left:808px;top:94px;position:absolute;z-index:668;}#ic2g .ch5-slider :not(i):not(svg){font-family:Roboto;}#ic2g .ch5-slider .ch5-title-container{width:197px;}#ixjg{width:137px;height:361px;display:block;left:667px;top:94px;position:absolute;z-index:667;}#ixjg .ch5-slider :not(i):not(svg){font-family:Roboto;}#ixjg .ch5-slider .ch5-title-container{width:197px;}#imzf{width:137px;height:311px;display:block;left:526px;top:94px;position:absolute;z-index:666;}#imzf .ch5-slider :not(i):not(svg){font-family:Roboto;}#imzf .ch5-slider .ch5-title-container{width:197px;}#io09{width:137px;height:261px;display:block;left:372px;top:94px;position:absolute;z-index:665;}#io09 .ch5-slider :not(i):not(svg){font-family:Roboto;}#io09 .ch5-slider .ch5-title-container{width:197px;}#i436c{display:block;left:0;top:103px;position:absolute;z-index:692;width:87px;height:48px;--ch5-text--width:87px;--ch5-text--font-size:23px;Label_font-size:23px;custom-normal-font-size:23px;}#i436c .ch5-text :not(i):not(svg){font-family:'Roboto';}#i436c .ch5-text{min-height:10px;min-width:10px;padding:0px;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i991{width:542px;height:136px;display:block;left:90px;top:639px;position:absolute;z-index:664;}#iflb{width:442px;height:136px;display:block;left:90px;top:494px;position:absolute;z-index:663;}#i74y{width:342px;height:136px;display:block;left:90px;top:349px;position:absolute;z-index:662;}#iowm{width:292px;height:136px;display:block;left:90px;top:204px;position:absolute;z-index:661;}#ia8b{width:242px;height:136px;display:block;left:90px;top:61px;position:absolute;z-index:660;}#if7vydrg3r{width:1100px;height:800px;left:0;top:0;position:absolute;}#i9b9jg0lpvwrr{display:block;left:4px;top:12px;position:absolute;z-index:671;width:1092px;height:48px;--ch5-text--width:1092px;Label_font-size:34px;--ch5-text--font-size:34px;}#i1ithed62kqfz{left:0;top:246px;z-index:675;width:87px;height:48px;--ch5-text--width:87px;}#i1ohiua0k6hzp{left:0;top:391px;z-index:677;width:87px;height:48px;--ch5-text--width:87px;}#izsc1ul19v0yx{left:0;top:536px;z-index:679;width:87px;height:48px;--ch5-text--width:87px;}#iastb0rdif7p2{left:0;top:681px;z-index:681;width:87px;height:48px;--ch5-text--width:87px;}#i06zi76lvjrs7{left:375px;top:44px;position:absolute;width:130px;height:48px;z-index:683;--ch5-text--width:130px;}#i02y7dk56i838{left:529px;top:44px;z-index:685;width:130px;height:48px;--ch5-text--width:130px;}#i1z8qvg1xbnis{left:670px;top:44px;z-index:687;width:130px;height:48px;--ch5-text--width:130px;}#iap5ojuxzxdnf{left:811px;top:44px;z-index:689;width:130px;height:48px;--ch5-text--width:130px;}#iflody9w2weqf{left:952px;top:44px;z-index:691;width:130px;height:48px;--ch5-text--width:130px;}#iyxo{width:137px;height:561px;display:block;left:949px;top:94px;position:absolute;z-index:669;}#ic2g{width:137px;height:461px;display:block;left:808px;top:94px;position:absolute;z-index:668;}#ixjg{width:137px;height:361px;display:block;left:667px;top:94px;position:absolute;z-index:667;}#imzf{width:137px;height:311px;display:block;left:526px;top:94px;position:absolute;z-index:666;}#io09{width:137px;height:261px;left:372px;top:94px;position:absolute;display:block;z-index:665;}#i436c{display:block;left:0;top:103px;position:absolute;z-index:692;width:87px;height:48px;--ch5-text--width:87px;Label_font-size:23px;--ch5-text--font-size:23px;}}
 
 {PageAttributes}
 
@@ -29,105 +30,243 @@ Type = "widgetContainer"
 Classes = ["widget-container"]
 
 [[Elements.Components]]
-Type = "html-text"
+Type = "Ch5 Text"
+Editable = true
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Content = "\n              "
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_4"
-ccid_ComponentType = "Html-text"
-id = "i2av"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i436c"
+componentName = "Formatted-Text_6"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Small"
+labelinnerhtml = "X-Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "iw24"
+ccid_themeCSSSet = "true"
 [[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Type = "Ch5 Text"
+Editable = true
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_3"
-ccid_ComponentType = "Html-text"
-id = "ig1o"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iflody9w2weqf"
+componentName = "Formatted-Text_5"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Large"
+labelinnerhtml = "X-Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ikx3"
+ccid_themeCSSSet = "true"
+oldID = "iprea77gx0xdm"
 [[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Type = "Ch5 Text"
+Editable = true
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_2"
-ccid_ComponentType = "Html-text"
-id = "i8ik"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iap5ojuxzxdnf"
+componentName = "Formatted-Text_4"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Large"
+labelinnerhtml = "Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "ia59"
+ccid_themeCSSSet = "true"
+oldID = "ibjym9c1t6vyf"
 [[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Type = "Ch5 Text"
+Editable = true
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_1"
-ccid_ComponentType = "Html-text"
-id = "i3vs"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i1z8qvg1xbnis"
+componentName = "Formatted-Text_3"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Regular"
+labelinnerhtml = "Regular"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "iads"
+ccid_themeCSSSet = "true"
+oldID = "inc1u91q2tnov"
 [[Elements.Components]]
-Type = "html-text"
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i02y7dk56i838"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Small"
+labelinnerhtml = "Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i4voqcw2gzceq"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i06zi76lvjrs7"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Small"
+labelinnerhtml = "X-Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ia52k2lch97xi"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iastb0rdif7p2"
+componentName = "Formatted-Text_13"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "X-Large"
+labelinnerhtml = "X-Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "itdwjisc6az7k"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "izsc1ul19v0yx"
+componentName = "Formatted-Text_12"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Large"
+labelinnerhtml = "Large"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ils7qnlhi1y9j"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i1ohiua0k6hzp"
+componentName = "Formatted-Text_11"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Regular"
+labelinnerhtml = "Regular"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ijdaingxh9o0m"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i1ithed62kqfz"
+componentName = "Formatted-Text_10"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Small"
+labelinnerhtml = "Small"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "imyt6twsfxcmu"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
 
 [[Elements.Components.Components]]
 Type = "textnode"
-Content = "X-Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
+Content = "\n              "
 
 [Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text"
-ccid_ComponentType = "Html-text"
-id = "ixfk"
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i9b9jg0lpvwrr"
+componentName = "Formatted-Text"
 ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Sliders Fader Circle X-Small Handle with ToolTip"
+labelinnerhtml = "Sliders Fader Circle X-Small Handle with ToolTip"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
 devicesVisited = "[\"TSW-1070\"]"
-oldID = "igtv"
+ccid_themeCSSSet = "true"
+oldID = "i9kbrjewbc46m"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -144,23 +283,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "im5p"
+id = "iyxo"
 componentName = "Slider_4"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "x-large"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ijhhg5azuk552"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -177,23 +316,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "izdi"
+id = "ic2g"
 componentName = "Slider_3"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "large"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ijhhg5azuk552"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -210,23 +349,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "io5s"
+id = "ixjg"
 componentName = "Slider_2"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "regular"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ijhhg5azuk552"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -243,23 +382,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "ictd"
+id = "imzf"
 componentName = "Slider_1"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "small"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ijhhg5azuk552"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -276,23 +415,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "ilhd"
+id = "io09"
 componentName = "Slider"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "x-small"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "iozr"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -309,23 +448,23 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "if66"
+id = "i991"
 componentName = "Slider_14"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "x-large"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "irw727y9cbja6"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -342,7 +481,7 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "impn"
+id = "iflb"
 componentName = "Slider_13"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
@@ -350,15 +489,15 @@ devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "large"
 previousSliderType = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "i4g3rpqzcjx2i"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -375,7 +514,7 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "idgs"
+id = "i74y"
 componentName = "Slider_12"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
@@ -383,15 +522,15 @@ devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "regular"
 previousSliderType = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ietua11km77va"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -408,7 +547,7 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "ibp3"
+id = "iowm"
 componentName = "Slider_11"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
@@ -416,15 +555,15 @@ devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "small"
 previousSliderType = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "i085px5put29i"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
 [[Elements.Components]]
 Type = "Ch5 Slider"
 Editable = true
@@ -441,149 +580,30 @@ tooltipdisplaytype = "%"
 value = "50"
 slidertype = "fader"
 customvstheme = "theme"
-id = "inws"
+id = "ia8b"
 componentName = "Slider_10"
 ccid_linkSendReceive = "False"
 ccid_ComponentType = "Slider"
 devicesVisited = "[\"TSW-1070\"]"
 ccid_lastSizeSelected = "x-small"
-previousSliderType = "advanced"
+previousslidertype = "fader"
 range = "false"
+showtickvalues = "true"
+pd-receivestatevalue = "5"
+sendeventonchange = "5"
 oldID = "ikxt3"
 ccid_ActiveFont = "'Roboto'"
 onoffonly = "false"
 min = "0"
 max = "100"
 step = "1"
-showtickvalues = "false"
-pd-receivestatevalue = "5"
-sendeventonchange = "5"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "X-Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_15"
-ccid_ComponentType = "Html-text"
-id = "ir53"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "ipms"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Large"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_14"
-ccid_ComponentType = "Html-text"
-id = "ieja"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i6mh"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Regular"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_13"
-ccid_ComponentType = "Html-text"
-id = "i5vm"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "iwdb"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_12"
-ccid_ComponentType = "Html-text"
-id = "ipmq"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i573"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "X-Small"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_11"
-ccid_ComponentType = "Html-text"
-id = "ijxu"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "i1pk"
-[[Elements.Components]]
-Type = "html-text"
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "Sliders Fader Circle X-Small Handle With ToolTip&nbsp;"
-Removable = false
-Draggable = false
-Highlightable = 0
-Copyable = false
-_InnerText = false
-
-[Elements.Components.Attributes]
-data-mytext = "myText"
-componentName = "Html-text_7"
-ccid_ComponentType = "Html-text"
-id = "i6re"
-ccid_ActiveFont = "'Roboto'"
-devicesVisited = "[\"TSW-1070\"]"
-oldID = "inp7khpag2i61"
 
 [Elements.Attributes]
 categoryname = "Widget Components"
 ccid_ComponentType = "Widget Canvas"
-id = "iwe0r8ahgk"
+id = "if7vydrg3r"
 devicesVisited = "[\"TSW-1070\"]"
 defaultWidth = "975px"
 defaultHeight = "800px"
+
 

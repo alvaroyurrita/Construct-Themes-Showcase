@@ -36,3 +36,5 @@
 *.cuia binary  
 # construct widgets
 *.cuiw binary 
+# construct contracts
+*.cuic binary 

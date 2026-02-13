@@ -8,8 +8,8 @@
 #   5. Remove HTML tags: <ch5-slider-button> and content
 #   6. Remove TOML sections: Ch5 slider-title-Label and Ch5 Slider Button components
 
-$lightPath = "c:\GIT Development\Alvaro Tools\Construct Themes Showcase\Light"
-$files = Get-ChildItem "$lightPath\Sliders-Adv*.cuiw" | Sort-Object Name
+$lightDarkPath = "c:\GIT Development\Alvaro Tools\Construct Themes Showcase\LightDark"
+$files = Get-ChildItem "$lightDarkPath\Sliders-Adv*.cuiw" | Sort-Object Name
 
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host "Fader Creator Script" -ForegroundColor Cyan
@@ -23,16 +23,32 @@ $errorCount = 0
 
 foreach ($file in $files) {
     try {
+        # Create new filename
+        $newFileName = $file.Name -replace 'Sliders-Adv', 'Sliders-Fad'
+        $newFilePath = Join-Path $lightDarkPath $newFileName
+        if (Test-Path $newFilePath) {
+            Write-Host "⚠️  Skipping existing file: $newFileName" -ForegroundColor Yellow
+            continue
+        }
+
+
         $oldContent = Get-Content $file.FullName -Raw -Encoding UTF8
+        $newGuid = $oldGuids | Where-Object { $_.Filename -eq $newFileName } | Select-Object -ExpandProperty GUID  
+        if ($null -eq $newGuid) {
+            Write-Host "⚠️  No GUID found for file: $newFileName, skipping." -ForegroundColor Yellow
+            continue
+        }
         
         $newContent = $oldContent
+        $seedGuid = ($oldContent -match 'Id = "([^"]+)"') ? $Matches[1] : $null
+
         
         # 1. Replace "Sliders Advanced" with "Sliders Fader"
         $newContent = $newContent -replace 'Sliders Advanced', 'Sliders Fader'
         $newContent = $newContent -replace 'Sliders-Adv', 'Sliders-Fad'
         
         # 2. Replace slidertype="advanced" with slidertype="fader"
-        $newContent = $newContent -replace 'slidertype="advanced"', 'slidertype="fader"'
+        $newContent = $newContent -replace 'slidertype\s*=\s*"advanced"', 'slidertype = "fader"'
         
         # 3. Remove ch5-slider-title-label tags and content (handles multiline with various whitespace)
         $sliderTitlePattern = '<ch5-slider-title-label\s+[^>]*>.*?<\/ch5-slider-title-label\s*>'
@@ -62,30 +78,26 @@ foreach ($file in $files) {
             }
         }
 
-        # 7. Replace GUID with new one
-        $newGuid = [guid]::NewGuid().ToString()
-        $widgetId = [regex]::Match($newContent, 'Id\s*=\s*"([0-9a-fA-F-]{36})"').Groups[1].Value
-        $newContent = $newContent -replace $widgetId, $newGuid
+        # # 7. Replace GUID with new one
+        # $newGuid = [guid]::NewGuid().ToString()
+        # $widgetId = [regex]::Match($newContent, 'Id\s*=\s*"([0-9a-fA-F-]{36})"').Groups[1].Value
+        # $newContent = $newContent -replace $widgetId, $newGuid
 
-        
-        # Create new filename
-        $newFileName = $file.Name -replace 'Sliders-Adv', 'Sliders-Fad'
-        $newFilePath = Join-Path $lightPath $newFileName
-
-        
-
-        
+        # 7. Replace GUID with Previous one from CSV
+        $newContent = [regex]::Replace($newContent, [regex]::Escape($seedGuid), $newGuid)
         # Write the new file
         Set-Content -Path $newFilePath -Value $newContent -Encoding UTF8 -NoNewline
-        
         Write-Host "✓ Created Widget: $newFileName" -ForegroundColor Green
+
+
+<# pages have already been created, skipping this now
 
         # 8. Create or Update Guids in respective Page.
         $page = [regex]::Match($newFileName, 'Sliders-Fad (\S{1,2})').Groups[1].Value.Trim()
         $oldPageFilename = "Sliders-Adv $page.cuig"
         $newPageFilename = "Sliders-Fad $page.cuig"
-        $oldPageFilePath = Join-Path $lightPath $oldPageFilename
-        $newPageFilePath = Join-Path $lightPath $newPageFilename
+        $oldPageFilePath = Join-Path $lightDarkPath $oldPageFilename
+        $newPageFilePath = Join-Path $lightDarkPath $newPageFilename
         if (!(Test-Path $newPageFilePath)) {
             $pageContent = Get-Content $oldPageFilePath -Raw -Encoding UTF8
             $attributesPattern = '\[Attributes\][\s\S]*?(?=\[\[Elements)'
@@ -105,6 +117,7 @@ foreach ($file in $files) {
             Set-Content -Path $newPageFilePath -Value $updatedPageContent -Encoding UTF8 -NoNewline
             Write-Host "✓ Updated Page: $newPageFilePath" -ForegroundColor Green
         }
+#>
         $successCount++
     }
     catch {
