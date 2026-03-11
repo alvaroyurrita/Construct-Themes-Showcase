@@ -3,7 +3,7 @@ ObjTp=FSgntr
 Sgntr=CHD
 RelVrs=1
 Schema=1
-CrestronConstruct=1.4401.12.0
+CrestronConstruct=1.4501.42.0
 ]
 [
 ObjTp=Hd
@@ -11,7 +11,7 @@ Schema=1
 ProjectFile=LightDark.cuip
 ContractID=MTJlZWQxM2EtMTZhMS00NmU4LWI1ZWQtOGM5OTJmOGE5YmRj
 CEProjectVer=1.0.0.0
-DateTimeUTC=2026-02-13 09:41:00.628
+DateTimeUTC=2026-03-11 16:29:48.882
 ]
 [
 ObjTp=Symbol

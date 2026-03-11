@@ -60,7 +60,7 @@ It would have been nice if it could figure it out from min, max, and step automa
 
 ## Slider Advanced 
 
-The Slider theme does not support theming the following slider component
+The Slider Theme Editor does not support theming the following slider component
 * Slider Button (ON OFF)
     * Button Style
     * Shape
@@ -81,16 +81,16 @@ The Slider theme does not support theming the following slider component
 # Versions
 
 ## Construct Version
-* Crestron Construct: 2.801.22.00
-* User Interface Plugin: 1.4401.12.0
-* CH5 Version: 2.17.0
+* Crestron Construct: 2.901.21.0
+* User Interface Plugin: 1.4501.42.0
+* CH5 Version: 2.17.2
 
 ## SIMPL Version
 * SIMPL Version: 4.30
 * SIMPL+ Version: 4.06
 * INCLUDE4.DAT Version 2.21.184
-* Device Database Version: 200.43500.001.00
-* Crestron Database Version: 228.3500.001.00
+* Device Database Version: 200.44000.002.00
+* Crestron Database Version: 228.4000.004.00
 * Crestron Toolbox Version: 3.1360.0013.8
 * SIMPL+ Cross Compiler Version: 1.3
 
@@ -98,4 +98,3 @@ The Slider theme does not support theming the following slider component
 * Windows OS: Windows 11 Pro (OS Build 26200.7705) 
 * Processor: 12th Gen i7-1255U, 2600 Mhz, 10 Cores
 * Memory: 32GB
-
